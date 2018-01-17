@@ -1170,7 +1170,7 @@
         "votes": 4643272,
         "pct": 10.7
       },
-      "Piraten ": {
+      "Piraten": {
         "votes": 847870,
         "pct": 2.0
       },
@@ -1194,7 +1194,7 @@
         "votes": 132249,
         "pct": 0.3
       },
-      "RRP ": {
+      "RRP": {
         "votes": 100605,
         "pct": 0.2
       },
@@ -1218,7 +1218,7 @@
         "votes": 40370,
         "pct": 0.1
       },
-      "Rentner ": {
+      "Rentner": {
         "votes": 56399,
         "pct": 0.1
       },
@@ -1226,11 +1226,11 @@
         "votes": 31957,
         "pct": 0.1
       },
-      "Volksabstimmung ": {
+      "Volksabstimmung": {
         "votes": 23015,
         "pct": 0.1
       },
-      "ADM ": {
+      "ADM": {
         "votes": 2889,
         "pct": 0.0
       },
@@ -1242,7 +1242,7 @@
         "votes": 1894,
         "pct": 0.0
       },
-      "FWD ": {
+      "FWD": {
         "votes": 11243,
         "pct": 0.0
       },
@@ -2003,11 +2003,11 @@
         "votes": 252121,
         "pct": 1.0
       },
-      "Piraten ": {
+      "Piraten": {
         "votes": 229464,
         "pct": 0.9
       },
-      "Rentner ": {
+      "Rentner": {
         "votes": 212501,
         "pct": 0.8
       },
@@ -2019,7 +2019,7 @@
         "votes": 111695,
         "pct": 0.4
       },
-      "RRP ": {
+      "RRP": {
         "votes": 102174,
         "pct": 0.4
       },
@@ -2035,7 +2035,7 @@
         "votes": 80688,
         "pct": 0.3
       },
-      "Volksabstimmung ": {
+      "Volksabstimmung": {
         "votes": 69656,
         "pct": 0.3
       },
@@ -10567,7 +10567,7 @@
         "votes": 9247,
         "pct": 0.1
       },
-      "Die Violetten ": {
+      "Die Violetten": {
         "votes": 5968,
         "pct": 0.1
       },
@@ -14301,7 +14301,7 @@
     "title": "Landtagswahl in Nordrhein-Westfalen 2017",
     "kind": "Landtagswahl",
     "territory": "Nordrhein-Westfalen",
-    "date": "2017-05-07T00:00:00",
+    "date": "2017-05-14T00:00:00",
     "results": {
       "CDU": {
         "votes": 2796683,
@@ -14439,7 +14439,7 @@
         "votes": 0.0,
         "pct": 0.0
       },
-      "Einzelbewerber ": {
+      "Einzelbewerber": {
         "votes": 0.0,
         "pct": 0.0
       }
@@ -14641,7 +14641,7 @@
         "votes": 10369,
         "pct": 0.0
       },
-      "PSG ": {
+      "PSG": {
         "votes": 8924,
         "pct": 0.0
       }

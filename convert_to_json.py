@@ -61,7 +61,7 @@ def extract(entry):
         votes = int(party_infos[1].text[1:-2].replace('.', ''))
         pct = float(party_infos[2].text[:-2].replace(',', '.'))
 
-        rv['results'][name] = {
+        rv['results'][name.strip()] = {
             'votes': votes,
             'pct': pct
         }
