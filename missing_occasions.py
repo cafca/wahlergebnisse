@@ -88,7 +88,7 @@ missing_occasions.append({
     "title": "Landtagswahl in Nordrhein-Westfalen 2017",
     "kind": "Landtagswahl",
     "territory": "Nordrhein-Westfalen",
-    "date": "2017-05-07T00:00:00",
+    "date": "2017-05-14T00:00:00",
     "results": compile_results(parties, votes, percentages)
 })
 
