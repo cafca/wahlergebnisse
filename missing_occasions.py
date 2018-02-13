@@ -103,7 +103,7 @@ percentages = [21.6, 17.6, 15.6, 15.2, 14.2, 6.7, 2.0, 1.9, 1.7, 1.1, 0.6, 0.5, 
 
 missing_occasions.append({
     "url": "https://wahl.tagesschau.de/wahlen/2016-09-18-LT-DE-BE/index.shtml",
-    "title": "Landtagswahl in Schleswig-Holstein 2017",
+    "title": "Landtagswahl in Berlin 2016",
     "kind": "Landtagswahl",
     "territory": "Berlin",
     "date": "2016-09-18T00:00:00",
