@@ -24,11 +24,12 @@ missing_occasions = list()
 
 # BTW17
 
-parties = ["CDU", "SPD", "AfD", "FDP", "DIE LINKE", "GRÜNE", "CSU", "FREIE WÄHLER", "Die PARTEI", "Tierschutzpartei", "NPD", "PIRATEN", "ÖDP", "BGE", "V-Partei³", "DM", "DiB", "BP", "AD-Demokraten", "Tierschutzallianz", "MLPD", "Gesundheitsforschung", "DKP", "MenschlicheWelt", "Volksabstimmung", "DieGrauen", "BüSo", "DieHumanisten", "MG", "du.", "DIERECHTE", "SGP", "Bergpartei", "PDV", "BündnisC", "DieEinheit", "DieVioletten", "Familie", "DieFrauen", "Mieterpartei", "NeueLiberale", "UNABHÄNGIGE", "Übrige"]
+parties = ["CDU", "SPD", "AfD", "FDP", "Linke", "Grüne", "CSU", "FW", "Die Partei", "Tierschutzpartei", "NPD", "Piraten", "ÖDP", "BGE", "V-Partei", "DM", "DiB", "BP", "AD-Demokraten", "Tierschutzallianz", "MLPD", "Gesundheitsforschung", "MENSCHLICHE WELT", "DKP", "Die Grauen", "Volksabstimmung", "BüSo", "Die Humanisten", "MG", "du.", "DIE RECHTE", "SGP", "B*", "PDV"]
 
 votes = [12447656, 9539381, 5878115, 4999449, 4297270, 4158400, 2869688, 463292, 454349, 374179, 176020, 173476, 144809, 97539, 64073, 63203, 60914, 58037, 41251, 32221, 29785, 23404, 11558, 11661, 9631, 10009, 6693, 5991, 5617, 3032, 2054, 1291, 911, 533]
 
-percentages = [26.8, 20.5, 12.6, 10.7, 9.2, 8.9, 6.2, 1.0, 1.0, 0.8, 0.4, 0.4, 0.3, 0.2, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+percentages = [26.76, 20.51, 12.64, 10.75, 9.24, 8.94, 6.17, 1.00, 0.98, 0.80, 0.38, 0.37, 0.31, 0.21, 0.14, 0.14, 0.13, 0.12, 0.09, 0.07, 0.06, 0.05, 0.03, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.00, 0.00, 0.00, 0.00]
+
 
 missing_occasions.append({
     "url": "https://wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/index.shtml",
@@ -132,6 +133,8 @@ missing_occasions.append({
 if __name__ == '__main__':
     with open("wahlergebnisse.json") as f:
         rv = json.load(f)
+
+    logger.info("Adding {} missing occasions...".format(len(missing_occasions)))
 
     rv += missing_occasions
 
