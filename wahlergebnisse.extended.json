@@ -446,7 +446,7 @@
         "votes": 4030999,
         "pct": 10.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 569589,
         "pct": 1.5
       },
@@ -458,7 +458,7 @@
         "votes": 68096,
         "pct": 0.2
       },
-      "B\u00fcrgerpartei": {
+      "Bürgerpartei": {
         "votes": 11256,
         "pct": 0.0
       },
@@ -499,7 +499,7 @@
         "votes": 2706942,
         "pct": 7.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 2167431,
         "pct": 5.6
       },
@@ -527,7 +527,7 @@
         "votes": 3431,
         "pct": 0.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 11028,
         "pct": 0.0
       },
@@ -556,7 +556,7 @@
         "votes": 3440911,
         "pct": 9.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3126256,
         "pct": 8.3
       },
@@ -564,7 +564,7 @@
         "votes": 227054,
         "pct": 0.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 109152,
         "pct": 0.3
       },
@@ -576,7 +576,7 @@
         "votes": 26367,
         "pct": 0.1
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 24630,
         "pct": 0.1
       },
@@ -625,7 +625,7 @@
         "votes": 5123233,
         "pct": 11.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 1788200,
         "pct": 3.8
       },
@@ -645,7 +645,7 @@
         "votes": 385910,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 205206,
         "pct": 0.4
       },
@@ -685,11 +685,11 @@
         "votes": 1630,
         "pct": 0.0
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 492,
         "pct": 0.0
       },
-      "\u00d6ko-Union": {
+      "Öko-Union": {
         "votes": 4661,
         "pct": 0.0
       },
@@ -722,7 +722,7 @@
         "votes": 17140354,
         "pct": 36.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3424315,
         "pct": 7.3
       },
@@ -742,7 +742,7 @@
         "votes": 238642,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 183715,
         "pct": 0.4
       },
@@ -774,7 +774,7 @@
         "votes": 1285,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 8103,
         "pct": 0.0
       },
@@ -815,7 +815,7 @@
         "votes": 17329388,
         "pct": 35.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3301624,
         "pct": 6.7
       },
@@ -855,7 +855,7 @@
         "votes": 121196,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 98257,
         "pct": 0.2
       },
@@ -895,7 +895,7 @@
         "votes": 6759,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 9662,
         "pct": 0.0
       },
@@ -923,7 +923,7 @@
         "votes": 4731,
         "pct": 0.0
       },
-      "Nichtw\u00e4hler": {
+      "Nichtwähler": {
         "votes": 6827,
         "pct": 0.0
       },
@@ -946,25 +946,19 @@
     "results": {
       "SPD": {
         "votes": 18488668,
-        "pct": 38.5,
-        "mandates": 251,
-        "government": true
+        "pct": 38.5
       },
       "Union": {
         "votes": 18482641,
-        "pct": 38.5,
-        "mandates": 248
+        "pct": 38.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 4110355,
-        "pct": 8.6,
-        "mandates": 55,
-        "government": true
+        "pct": 8.6
       },
       "FDP": {
         "votes": 3538815,
-        "pct": 7.4,
-        "mandates": 47
+        "pct": 7.4
       },
       "PDS": {
         "votes": 1916702,
@@ -1002,7 +996,7 @@
         "votes": 36832,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 56898,
         "pct": 0.1
       },
@@ -1014,7 +1008,7 @@
         "votes": 9379,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 16958,
         "pct": 0.0
       },
@@ -1053,30 +1047,23 @@
     "results": {
       "Union": {
         "votes": 16631049,
-        "pct": 35.2,
-        "mandates": 226,
-        "government": true
+        "pct": 35.2
       },
       "SPD": {
         "votes": 16194665,
-        "pct": 34.2,
-        "mandates": 222,
-        "government": true
+        "pct": 34.2
       },
       "FDP": {
         "votes": 4648144,
-        "pct": 9.8,
-        "mandates": 61
+        "pct": 9.8
       },
       "Linke": {
         "votes": 4118194,
-        "pct": 8.7,
-        "mandates": 54
+        "pct": 8.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3838326,
-        "pct": 8.1,
-        "mandates": 51
+        "pct": 8.1
       },
       "NPD": {
         "votes": 748568,
@@ -1106,7 +1093,7 @@
         "votes": 35543,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 35649,
         "pct": 0.1
       },
@@ -1165,30 +1152,23 @@
     "results": {
       "Union": {
         "votes": 14658515,
-        "pct": 33.8,
-        "mandates": 239,
-        "government": true
+        "pct": 33.8
       },
       "SPD": {
         "votes": 9990488,
-        "pct": 23.0,
-        "mandates": 146
+        "pct": 23.0
       },
       "FDP": {
         "votes": 6316080,
-        "pct": 14.6,
-        "mandates": 93,
-        "government": true
+        "pct": 14.6
       },
       "Linke": {
         "votes": 5155933,
-        "pct": 11.9,
-        "mandates": 76
+        "pct": 11.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 4643272,
-        "pct": 10.7,
-        "mandates": 68
+        "pct": 10.7
       },
       "Piraten": {
         "votes": 847870,
@@ -1210,7 +1190,7 @@
         "votes": 120718,
         "pct": 0.3
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 132249,
         "pct": 0.3
       },
@@ -1222,7 +1202,7 @@
         "votes": 48311,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 38706,
         "pct": 0.1
       },
@@ -1285,25 +1265,19 @@
     "results": {
       "Union": {
         "votes": 18165446,
-        "pct": 41.5,
-        "mandates": 311,
-        "government": true
+        "pct": 41.5
       },
       "SPD": {
         "votes": 11252215,
-        "pct": 25.7,
-        "mandates": 193,
-        "government": true
+        "pct": 25.7
       },
       "Linke": {
         "votes": 3755699,
-        "pct": 8.6,
-        "mandates": 64
+        "pct": 8.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3694057,
-        "pct": 8.4,
-        "mandates": 63
+        "pct": 8.4
       },
       "FDP": {
         "votes": 2083533,
@@ -1329,7 +1303,7 @@
         "votes": 140366,
         "pct": 0.3
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 127088,
         "pct": 0.3
       },
@@ -1369,11 +1343,11 @@
         "votes": 17743,
         "pct": 0.0
       },
-      "B\u00fcndnis 21 / RRP": {
+      "Bündnis 21 / RRP": {
         "votes": 8578,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 12814,
         "pct": 0.0
       },
@@ -1393,7 +1367,7 @@
         "votes": 7449,
         "pct": 0.0
       },
-      "Nichtw\u00e4hler": {
+      "Nichtwähler": {
         "votes": 11349,
         "pct": 0.0
       },
@@ -1434,7 +1408,7 @@
         "votes": 608918,
         "pct": 5.3
       },
-      "B\u00fcndnis90": {
+      "Bündnis90": {
         "votes": 336064,
         "pct": 2.9
       },
@@ -1442,7 +1416,7 @@
         "votes": 251210,
         "pct": 2.2
       },
-      "Gr\u00fcne Partei - UFV": {
+      "Grüne Partei - UFV": {
         "votes": 226921,
         "pct": 2.0
       },
@@ -1479,7 +1453,7 @@
         "votes": 1662621,
         "pct": 6.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 893683,
         "pct": 3.2
       },
@@ -1520,7 +1494,7 @@
         "votes": 2109130,
         "pct": 8.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 2025972,
         "pct": 8.2
       },
@@ -1544,11 +1518,11 @@
         "votes": 93921,
         "pct": 0.4
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 77026,
         "pct": 0.3
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 52753,
         "pct": 0.2
       },
@@ -1581,7 +1555,7 @@
         "votes": 8332846,
         "pct": 29.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 2382102,
         "pct": 8.4
       },
@@ -1601,7 +1575,7 @@
         "votes": 444921,
         "pct": 1.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 184309,
         "pct": 0.7
       },
@@ -1617,11 +1591,11 @@
         "votes": 57704,
         "pct": 0.2
       },
-      "\u00d6ko-Union": {
+      "Öko-Union": {
         "votes": 55463,
         "pct": 0.2
       },
-      "Bewu\u00dftsein": {
+      "Bewußtsein": {
         "votes": 20868,
         "pct": 0.1
       },
@@ -1633,7 +1607,7 @@
         "votes": 30879,
         "pct": 0.1
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 32246,
         "pct": 0.1
       },
@@ -1678,7 +1652,7 @@
         "votes": 11346073,
         "pct": 32.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3563268,
         "pct": 10.1
       },
@@ -1706,7 +1680,7 @@
         "votes": 275866,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 273776,
         "pct": 0.8
       },
@@ -1754,7 +1728,7 @@
         "votes": 37672,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 23851,
         "pct": 0.1
       },
@@ -1795,7 +1769,7 @@
         "votes": 2540007,
         "pct": 9.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 1741494,
         "pct": 6.4
       },
@@ -1831,7 +1805,7 @@
         "votes": 107662,
         "pct": 0.4
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 100048,
         "pct": 0.4
       },
@@ -1859,7 +1833,7 @@
         "votes": 38139,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 9431,
         "pct": 0.0
       },
@@ -1886,33 +1860,27 @@
     "results": {
       "CDU": {
         "votes": 9412997,
-        "pct": 36.5,
-        "mandates": 40
+        "pct": 36.5
       },
       "SPD": {
         "votes": 5547971,
-        "pct": 21.5,
-        "mandates": 23
+        "pct": 21.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3079728,
-        "pct": 11.9,
-        "mandates": 13
+        "pct": 11.9
       },
       "CSU": {
         "votes": 2063900,
-        "pct": 8.0,
-        "mandates": 9
+        "pct": 8.0
       },
       "FDP": {
         "votes": 1565431,
-        "pct": 6.1,
-        "mandates": 7
+        "pct": 6.1
       },
       "PDS": {
         "votes": 1579109,
-        "pct": 6.1,
-        "mandates": 7
+        "pct": 6.1
       },
       "REP": {
         "votes": 485662,
@@ -1938,7 +1906,7 @@
         "votes": 145312,
         "pct": 0.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 145537,
         "pct": 0.6
       },
@@ -1950,7 +1918,7 @@
         "votes": 98651,
         "pct": 0.4
       },
-      "Unabh\u00e4ngige Kandidaten": {
+      "Unabhängige Kandidaten": {
         "votes": 70301,
         "pct": 0.3
       },
@@ -1970,7 +1938,7 @@
         "votes": 35152,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 21983,
         "pct": 0.1
       },
@@ -1997,33 +1965,27 @@
     "results": {
       "CDU": {
         "votes": 8071391,
-        "pct": 30.7,
-        "mandates": 34
+        "pct": 30.7
       },
       "SPD": {
         "votes": 5472566,
-        "pct": 20.8,
-        "mandates": 23
+        "pct": 20.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 3194509,
-        "pct": 12.1,
-        "mandates": 14
+        "pct": 12.1
       },
       "FDP": {
         "votes": 2888084,
-        "pct": 11.0,
-        "mandates": 12
+        "pct": 11.0
       },
       "Linke": {
         "votes": 1969239,
-        "pct": 7.5,
-        "mandates": 8
+        "pct": 7.5
       },
       "CSU": {
         "votes": 1896762,
-        "pct": 7.2,
-        "mandates": 8
+        "pct": 7.2
       },
       "FW": {
         "votes": 442579,
@@ -2049,7 +2011,7 @@
         "votes": 212501,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 134893,
         "pct": 0.5
       },
@@ -2117,7 +2079,7 @@
         "votes": 14708,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 10909,
         "pct": 0.0
       },
@@ -2133,9 +2095,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1946-11-24-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1946",
+    "title": "Landtagswahl Baden-Württemberg 1946",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1946-11-24T00:00:00",
     "results": {
       "CDU": {
@@ -2158,9 +2120,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1947-05-18-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1947",
+    "title": "Landtagswahl Baden-Württemberg 1947",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1947-05-18T00:00:00",
     "results": {
       "CDU": {
@@ -2183,9 +2145,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1950-11-19-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1950",
+    "title": "Landtagswahl Baden-Württemberg 1950",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1950-11-19T00:00:00",
     "results": {
       "SPD": {
@@ -2212,9 +2174,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1952-03-09-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1952",
+    "title": "Landtagswahl Baden-Württemberg 1952",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1952-03-09T00:00:00",
     "results": {
       "CDU": {
@@ -2261,9 +2223,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1956-03-04-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1956",
+    "title": "Landtagswahl Baden-Württemberg 1956",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1956-03-04T00:00:00",
     "results": {
       "CDU": {
@@ -2306,9 +2268,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1960-05-15-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1960",
+    "title": "Landtagswahl Baden-Württemberg 1960",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1960-05-15T00:00:00",
     "results": {
       "CDU": {
@@ -2347,9 +2309,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1964-04-26-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1964",
+    "title": "Landtagswahl Baden-Württemberg 1964",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1964-04-26T00:00:00",
     "results": {
       "CDU": {
@@ -2384,9 +2346,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1968-04-28-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1968",
+    "title": "Landtagswahl Baden-Württemberg 1968",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1968-04-28T00:00:00",
     "results": {
       "CDU": {
@@ -2425,9 +2387,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1972-04-23-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1972",
+    "title": "Landtagswahl Baden-Württemberg 1972",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1972-04-23T00:00:00",
     "results": {
       "CDU": {
@@ -2462,9 +2424,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1976-04-04-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1976",
+    "title": "Landtagswahl Baden-Württemberg 1976",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1976-04-04T00:00:00",
     "results": {
       "CDU": {
@@ -2523,9 +2485,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1980-03-16-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1980",
+    "title": "Landtagswahl Baden-Württemberg 1980",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1980-03-16T00:00:00",
     "results": {
       "CDU": {
@@ -2540,7 +2502,7 @@
         "votes": 374633,
         "pct": 8.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 241303,
         "pct": 5.3
       },
@@ -2572,9 +2534,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1984-03-25-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1984",
+    "title": "Landtagswahl Baden-Württemberg 1984",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1984-03-25T00:00:00",
     "results": {
       "CDU": {
@@ -2585,7 +2547,7 @@
         "votes": 1507088,
         "pct": 32.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 372374,
         "pct": 8.0
       },
@@ -2613,9 +2575,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1988-03-20-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1988",
+    "title": "Landtagswahl Baden-Württemberg 1988",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1988-03-20T00:00:00",
     "results": {
       "CDU": {
@@ -2626,7 +2588,7 @@
         "votes": 1562678,
         "pct": 32.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 383099,
         "pct": 7.9
       },
@@ -2638,7 +2600,7 @@
         "votes": 101889,
         "pct": 2.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 69823,
         "pct": 1.4
       },
@@ -2674,9 +2636,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1992-04-05-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1992",
+    "title": "Landtagswahl Baden-Württemberg 1992",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1992-04-05T00:00:00",
     "results": {
       "CDU": {
@@ -2691,7 +2653,7 @@
         "votes": 539014,
         "pct": 10.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 467781,
         "pct": 9.5
       },
@@ -2699,7 +2661,7 @@
         "votes": 291199,
         "pct": 5.9
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 93604,
         "pct": 1.9
       },
@@ -2747,9 +2709,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1996-03-24-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 1996",
+    "title": "Landtagswahl Baden-Württemberg 1996",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "1996-03-24T00:00:00",
     "results": {
       "CDU": {
@@ -2760,7 +2722,7 @@
         "votes": 1199123,
         "pct": 25.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 580801,
         "pct": 12.1
       },
@@ -2772,7 +2734,7 @@
         "votes": 437228,
         "pct": 9.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 69775,
         "pct": 1.5
       },
@@ -2804,7 +2766,7 @@
         "votes": 416,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 551,
         "pct": 0.0
       },
@@ -2824,7 +2786,7 @@
         "votes": 440,
         "pct": 0.0
       },
-      "Nichtw\u00e4hler": {
+      "Nichtwähler": {
         "votes": 1863,
         "pct": 0.0
       }
@@ -2832,9 +2794,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2001-03-25-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 2001",
+    "title": "Landtagswahl Baden-Württemberg 2001",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "2001-03-25T00:00:00",
     "results": {
       "CDU": {
@@ -2849,7 +2811,7 @@
         "votes": 367580,
         "pct": 8.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 350383,
         "pct": 7.7
       },
@@ -2857,7 +2819,7 @@
         "votes": 198534,
         "pct": 4.4
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 32451,
         "pct": 0.7
       },
@@ -2877,7 +2839,7 @@
         "votes": 2871,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 582,
         "pct": 0.0
       },
@@ -2909,32 +2871,26 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2006-03-26-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 2006",
+    "title": "Landtagswahl Baden-Württemberg 2006",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "2006-03-26T00:00:00",
     "results": {
       "CDU": {
         "votes": 1748766,
-        "pct": 44.2,
-        "mandates": 69,
-        "government": true
+        "pct": 44.2
       },
       "SPD": {
         "votes": 996207,
-        "pct": 25.2,
-        "mandates": 38
+        "pct": 25.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 462889,
-        "pct": 11.7,
-        "mandates": 17
+        "pct": 11.7
       },
       "FDP": {
         "votes": 421994,
-        "pct": 10.7,
-        "mandates": 15,
-        "government": true
+        "pct": 10.7
       },
       "WASG": {
         "votes": 121753,
@@ -2952,7 +2908,7 @@
         "votes": 26759,
         "pct": 0.7
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 21761,
         "pct": 0.5
       },
@@ -2992,7 +2948,7 @@
         "votes": 144,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 556,
         "pct": 0.0
       },
@@ -3004,32 +2960,26 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2011-03-27-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 2011",
+    "title": "Landtagswahl Baden-Württemberg 2011",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "2011-03-27T00:00:00",
     "results": {
       "CDU": {
         "votes": 1943912,
-        "pct": 39.0,
-        "mandates": 60
+        "pct": 39.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 1206182,
-        "pct": 24.2,
-        "mandates": 36,
-        "government": true
+        "pct": 24.2
       },
       "SPD": {
         "votes": 1152594,
-        "pct": 23.1,
-        "mandates": 35,
-        "government": true
+        "pct": 23.1
       },
       "FDP": {
         "votes": 262784,
-        "pct": 5.3,
-        "mandates": 7
+        "pct": 5.3
       },
       "Linke": {
         "votes": 139700,
@@ -3047,7 +2997,7 @@
         "votes": 48227,
         "pct": 1.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 42539,
         "pct": 0.9
       },
@@ -3063,7 +3013,7 @@
         "votes": 4652,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 307,
         "pct": 0.0
       },
@@ -3095,37 +3045,30 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2016-03-13-LT-DE-BW/index.shtml",
-    "title": "Landtagswahl Baden-W\u00fcrttemberg 2016",
+    "title": "Landtagswahl Baden-Württemberg 2016",
     "kind": "Landtagswahl",
-    "territory": "Baden-W\u00fcrttemberg",
+    "territory": "Baden-Württemberg",
     "date": "2016-03-13T00:00:00",
     "results": {
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 1623107,
-        "pct": 30.3,
-        "mandates": 47,
-        "government": true
+        "pct": 30.3
       },
       "CDU": {
         "votes": 1447462,
-        "pct": 27.0,
-        "mandates": 42,
-        "government": true
+        "pct": 27.0
       },
       "AfD": {
         "votes": 809564,
-        "pct": 15.1,
-        "mandates": 23
+        "pct": 15.1
       },
       "SPD": {
         "votes": 679727,
-        "pct": 12.7,
-        "mandates": 19
+        "pct": 12.7
       },
       "FDP": {
         "votes": 445498,
-        "pct": 8.3,
-        "mandates": 12
+        "pct": 8.3
       },
       "Linke": {
         "votes": 156240,
@@ -3135,7 +3078,7 @@
         "votes": 54713,
         "pct": 1.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 38517,
         "pct": 0.7
       },
@@ -3167,11 +3110,11 @@
         "votes": 49,
         "pct": 0.0
       },
-      "B\u00fcndnis C": {
+      "Bündnis C": {
         "votes": 602,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 166,
         "pct": 0.0
       },
@@ -3269,7 +3212,7 @@
         "votes": 82038,
         "pct": 0.9
       },
-      "K\u00f6nigspartei": {
+      "Königspartei": {
         "votes": 71089,
         "pct": 0.8
       },
@@ -3285,7 +3228,7 @@
         "votes": 9339,
         "pct": 0.1
       },
-      "Unpol. B\u00e4uerl. Notgem.": {
+      "Unpol. Bäuerl. Notgem.": {
         "votes": 1382,
         "pct": 0.0
       }
@@ -3556,7 +3499,7 @@
         "votes": 711348,
         "pct": 6.2
       },
-      "Die Gr\u00fcnen": {
+      "Die Grünen": {
         "votes": 210977,
         "pct": 1.8
       },
@@ -3605,7 +3548,7 @@
         "votes": 3876970,
         "pct": 31.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 558687,
         "pct": 4.6
       },
@@ -3621,7 +3564,7 @@
         "votes": 65884,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 44761,
         "pct": 0.4
       },
@@ -3662,7 +3605,7 @@
         "votes": 3119124,
         "pct": 27.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 854353,
         "pct": 7.5
       },
@@ -3674,7 +3617,7 @@
         "votes": 342995,
         "pct": 3.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 76674,
         "pct": 0.7
       },
@@ -3690,7 +3633,7 @@
         "votes": 39886,
         "pct": 0.4
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 17858,
         "pct": 0.2
       },
@@ -3731,7 +3674,7 @@
         "votes": 2882008,
         "pct": 26.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 712101,
         "pct": 6.4
       },
@@ -3743,7 +3686,7 @@
         "votes": 538615,
         "pct": 4.9
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 192414,
         "pct": 1.7
       },
@@ -3755,7 +3698,7 @@
         "votes": 7211,
         "pct": 0.1
       },
-      "Augsburger B\u00fcrger Union": {
+      "Augsburger Bürger Union": {
         "votes": 4326,
         "pct": 0.0
       },
@@ -3780,7 +3723,7 @@
         "votes": 3506620,
         "pct": 30.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 713732,
         "pct": 6.1
       },
@@ -3792,7 +3735,7 @@
         "votes": 327305,
         "pct": 2.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 248983,
         "pct": 2.1
       },
@@ -3849,7 +3792,7 @@
         "votes": 3501900,
         "pct": 28.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 692456,
         "pct": 5.7
       },
@@ -3861,7 +3804,7 @@
         "votes": 438144,
         "pct": 3.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 217840,
         "pct": 1.8
       },
@@ -3928,19 +3871,15 @@
     "results": {
       "CSU": {
         "votes": 6217864,
-        "pct": 60.7,
-        "mandates": 124,
-        "government": true
+        "pct": 60.7
       },
       "SPD": {
         "votes": 2012265,
-        "pct": 19.6,
-        "mandates": 41
+        "pct": 19.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 793050,
-        "pct": 7.7,
-        "mandates": 15
+        "pct": 7.7
       },
       "FW": {
         "votes": 411306,
@@ -3954,7 +3893,7 @@
         "votes": 229464,
         "pct": 2.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 200103,
         "pct": 2.0
       },
@@ -3970,7 +3909,7 @@
         "votes": 6195,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 6234,
         "pct": 0.1
       },
@@ -3982,7 +3921,7 @@
         "votes": 4260,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige Kandidaten": {
+      "Unabhängige Kandidaten": {
         "votes": 1346,
         "pct": 0.0
       }
@@ -4007,7 +3946,7 @@
         "votes": 1085896,
         "pct": 10.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 999111,
         "pct": 9.4
       },
@@ -4019,7 +3958,7 @@
         "votes": 461755,
         "pct": 4.4
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 212200,
         "pct": 2.0
       },
@@ -4047,7 +3986,7 @@
         "votes": 15465,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1222,
         "pct": 0.0
       }
@@ -4062,24 +4001,19 @@
     "results": {
       "CSU": {
         "votes": 5636425,
-        "pct": 47.7,
-        "mandates": 101,
-        "government": true
+        "pct": 47.7
       },
       "SPD": {
         "votes": 2437401,
-        "pct": 20.6,
-        "mandates": 42
+        "pct": 20.6
       },
       "FW": {
         "votes": 1062553,
-        "pct": 9.0,
-        "mandates": 19
+        "pct": 9.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 1019373,
-        "pct": 8.6,
-        "mandates": 18
+        "pct": 8.6
       },
       "FDP": {
         "votes": 390038,
@@ -4093,7 +4027,7 @@
         "votes": 251097,
         "pct": 2.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 239425,
         "pct": 2.0
       },
@@ -4121,7 +4055,7 @@
         "votes": 16081,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1619,
         "pct": 0.0
       }
@@ -4521,7 +4455,7 @@
         "votes": 1389,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 163,
         "pct": 0.0
       }
@@ -4554,7 +4488,7 @@
         "votes": 47153,
         "pct": 3.9
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 8489,
         "pct": 0.7
       },
@@ -4591,11 +4525,11 @@
         "votes": 143080,
         "pct": 7.1
       },
-      "Gr\u00fcne/AL": {
+      "Grüne/AL": {
         "votes": 100839,
         "pct": 5.0
       },
-      "B\u00fc90/Gr": {
+      "Bü90/Gr": {
         "votes": 87891,
         "pct": 4.4
       },
@@ -4603,7 +4537,7 @@
         "votes": 62041,
         "pct": 3.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 5160,
         "pct": 0.3
       },
@@ -4636,7 +4570,7 @@
         "votes": 244196,
         "pct": 14.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 219990,
         "pct": 13.2
       },
@@ -4680,11 +4614,11 @@
         "votes": 4309,
         "pct": 0.3
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 4965,
         "pct": 0.3
       },
-      "B\u00fcrgerbund": {
+      "Bürgerbund": {
         "votes": 1944,
         "pct": 0.1
       },
@@ -4692,7 +4626,7 @@
         "votes": 1185,
         "pct": 0.1
       },
-      "\u00d6koli": {
+      "Ökoli": {
         "votes": 33,
         "pct": 0.0
       },
@@ -4721,7 +4655,7 @@
         "votes": 276869,
         "pct": 17.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 155322,
         "pct": 9.9
       },
@@ -4749,7 +4683,7 @@
         "votes": 7583,
         "pct": 0.5
       },
-      "B\u00fcrgerbund": {
+      "Bürgerbund": {
         "votes": 2980,
         "pct": 0.2
       },
@@ -4769,7 +4703,7 @@
         "votes": 1409,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 531,
         "pct": 0.0
       },
@@ -4802,7 +4736,7 @@
         "votes": 160953,
         "pct": 9.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 148066,
         "pct": 9.1
       },
@@ -4822,11 +4756,11 @@
         "votes": 13396,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 3304,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1889,
         "pct": 0.1
       },
@@ -4853,30 +4787,23 @@
     "results": {
       "SPD": {
         "votes": 424054,
-        "pct": 30.8,
-        "mandates": 53,
-        "government": true
+        "pct": 30.8
       },
       "CDU": {
         "votes": 294026,
-        "pct": 21.3,
-        "mandates": 37
+        "pct": 21.3
       },
       "Linke": {
         "votes": 185185,
-        "pct": 13.4,
-        "mandates": 23,
-        "government": true
+        "pct": 13.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 180865,
-        "pct": 13.1,
-        "mandates": 23
+        "pct": 13.1
       },
       "FDP": {
         "votes": 104584,
-        "pct": 7.6,
-        "mandates": 13
+        "pct": 7.6
       },
       "Graue": {
         "votes": 52884,
@@ -4918,7 +4845,7 @@
         "votes": 2375,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 2335,
         "pct": 0.2
       },
@@ -4938,7 +4865,7 @@
         "votes": 1846,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 986,
         "pct": 0.1
       },
@@ -4961,30 +4888,23 @@
     "results": {
       "SPD": {
         "votes": 413332,
-        "pct": 28.3,
-        "mandates": 47,
-        "government": true
+        "pct": 28.3
       },
       "CDU": {
         "votes": 341158,
-        "pct": 23.3,
-        "mandates": 39,
-        "government": true
+        "pct": 23.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 257063,
-        "pct": 17.6,
-        "mandates": 29
+        "pct": 17.6
       },
       "Linke": {
         "votes": 171050,
-        "pct": 11.7,
-        "mandates": 19
+        "pct": 11.7
       },
       "Piraten": {
         "votes": 130105,
-        "pct": 8.9,
-        "mandates": 15
+        "pct": 8.9
       },
       "NPD": {
         "votes": 31241,
@@ -5022,7 +4942,7 @@
         "votes": 2332,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1676,
         "pct": 0.1
       },
@@ -5034,7 +4954,7 @@
         "votes": 1421,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1940,
         "pct": 0.1
       },
@@ -5042,7 +4962,7 @@
         "votes": 1690,
         "pct": 0.1
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 834,
         "pct": 0.1
       },
@@ -5079,11 +4999,11 @@
         "votes": 84501,
         "pct": 6.6
       },
-      "B\u00fc.90": {
+      "Bü.90": {
         "votes": 81725,
         "pct": 6.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 36238,
         "pct": 2.8
       },
@@ -5136,7 +5056,7 @@
         "votes": 200628,
         "pct": 18.7
       },
-      "Gr\u00fcne/B90": {
+      "Grüne/B90": {
         "votes": 31033,
         "pct": 2.9
       },
@@ -5148,7 +5068,7 @@
         "votes": 12140,
         "pct": 1.1
       },
-      "B\u00fcrger": {
+      "Bürger": {
         "votes": 10405,
         "pct": 1.0
       },
@@ -5168,7 +5088,7 @@
         "votes": 1932,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1354,
         "pct": 0.1
       }
@@ -5201,7 +5121,7 @@
         "votes": 20472,
         "pct": 1.9
       },
-      "Gr\u00fcne/B90": {
+      "Grüne/B90": {
         "votes": 21410,
         "pct": 1.9
       },
@@ -5242,7 +5162,7 @@
         "votes": 71045,
         "pct": 6.1
       },
-      "Gr\u00fcne/B90": {
+      "Grüne/B90": {
         "votes": 42087,
         "pct": 3.6
       },
@@ -5311,7 +5231,7 @@
         "votes": 100123,
         "pct": 7.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 78550,
         "pct": 5.7
       },
@@ -5319,7 +5239,7 @@
         "votes": 35544,
         "pct": 2.6
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 23296,
         "pct": 1.7
       },
@@ -5358,35 +5278,27 @@
     "results": {
       "SPD": {
         "votes": 315202,
-        "pct": 31.9,
-        "mandates": 30,
-        "government": true
+        "pct": 31.9
       },
       "CDU": {
         "votes": 226835,
-        "pct": 23.0,
-        "mandates": 21
+        "pct": 23.0
       },
       "Linke": {
         "votes": 183178,
-        "pct": 18.6,
-        "mandates": 17,
-        "government": true
+        "pct": 18.6
       },
       "AfD": {
         "votes": 120077,
-        "pct": 12.2,
-        "mandates": 11
+        "pct": 12.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 60767,
-        "pct": 6.2,
-        "mandates": 6
+        "pct": 6.2
       },
       "BVB/FW": {
         "votes": 26317,
-        "pct": 2.7,
-        "mandates": 3
+        "pct": 2.7
       },
       "NPD": {
         "votes": 21605,
@@ -5433,7 +5345,7 @@
         "votes": 76411,
         "pct": 11.5
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 24876,
         "pct": 3.7
       }
@@ -5511,7 +5423,7 @@
         "votes": 18744,
         "pct": 5.6
       },
-      "W\u00e4hlerg.": {
+      "Wählerg.": {
         "votes": 14355,
         "pct": 4.3
       },
@@ -5737,7 +5649,7 @@
         "votes": 117,
         "pct": 0.0
       },
-      "W\u00e4hlerinitiative Europ\u00e4ische Arbeiterpartei": {
+      "Wählerinitiative Europäische Arbeiterpartei": {
         "votes": 59,
         "pct": 0.0
       }
@@ -5762,7 +5674,7 @@
         "votes": 43730,
         "pct": 10.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 20909,
         "pct": 5.1
       },
@@ -5803,7 +5715,7 @@
         "votes": 136635,
         "pct": 33.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 22280,
         "pct": 5.4
       },
@@ -5848,7 +5760,7 @@
         "votes": 91334,
         "pct": 23.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 39839,
         "pct": 10.2
       },
@@ -5897,7 +5809,7 @@
         "votes": 113512,
         "pct": 30.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 42096,
         "pct": 11.4
       },
@@ -5946,7 +5858,7 @@
         "votes": 112301,
         "pct": 32.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 44977,
         "pct": 13.1
       },
@@ -6011,7 +5923,7 @@
         "votes": 108050,
         "pct": 37.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 25958,
         "pct": 8.9
       },
@@ -6056,7 +5968,7 @@
         "votes": 86819,
         "pct": 29.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 37350,
         "pct": 12.8
       },
@@ -6084,7 +5996,7 @@
         "votes": 1391,
         "pct": 0.5
       },
-      "W\u00e4hlervereinigungen": {
+      "Wählervereinigungen": {
         "votes": 1448,
         "pct": 0.5
       },
@@ -6107,35 +6019,27 @@
     "results": {
       "SPD": {
         "votes": 101290,
-        "pct": 36.7,
-        "mandates": 32,
-        "government": true
+        "pct": 36.7
       },
       "CDU": {
         "votes": 70728,
-        "pct": 25.6,
-        "mandates": 23
+        "pct": 25.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 45493,
-        "pct": 16.5,
-        "mandates": 14,
-        "government": true
+        "pct": 16.5
       },
       "Linke": {
         "votes": 23282,
-        "pct": 8.4,
-        "mandates": 7
+        "pct": 8.4
       },
       "FDP": {
         "votes": 16486,
-        "pct": 6.0,
-        "mandates": 5
+        "pct": 6.0
       },
       "DVU": {
         "votes": 7536,
-        "pct": 2.7,
-        "mandates": 1
+        "pct": 2.7
       },
       "Die Konservativen": {
         "votes": 4462,
@@ -6143,8 +6047,7 @@
       },
       "BIW": {
         "votes": 2336,
-        "pct": 0.8,
-        "mandates": 1
+        "pct": 0.8
       },
       "Die Frauen": {
         "votes": 1318,
@@ -6177,30 +6080,23 @@
     "results": {
       "SPD": {
         "votes": 505348,
-        "pct": 38.6,
-        "mandates": 36,
-        "government": true
+        "pct": 38.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 293993,
-        "pct": 22.5,
-        "mandates": 21,
-        "government": true
+        "pct": 22.5
       },
       "CDU": {
         "votes": 266483,
-        "pct": 20.4,
-        "mandates": 20
+        "pct": 20.4
       },
       "Linke": {
         "votes": 73769,
-        "pct": 5.6,
-        "mandates": 5
+        "pct": 5.6
       },
       "BIW": {
         "votes": 48530,
-        "pct": 3.7,
-        "mandates": 1
+        "pct": 3.7
       },
       "FDP": {
         "votes": 31176,
@@ -6234,11 +6130,11 @@
         "votes": 4534,
         "pct": 0.3
       },
-      "FREIE W\u00c4HLER BREMEN": {
+      "FREIE WÄHLER BREMEN": {
         "votes": 2437,
         "pct": 0.2
       },
-      "F\u00fcr Bremerhaven": {
+      "Für Bremerhaven": {
         "votes": 1981,
         "pct": 0.2
       },
@@ -6257,40 +6153,31 @@
     "results": {
       "SPD": {
         "votes": 383509,
-        "pct": 32.8,
-        "mandates": 30,
-        "government": true
+        "pct": 32.8
       },
       "CDU": {
         "votes": 261929,
-        "pct": 22.4,
-        "mandates": 20
+        "pct": 22.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 176807,
-        "pct": 15.1,
-        "mandates": 14,
-        "government": true
+        "pct": 15.1
       },
       "Linke": {
         "votes": 111485,
-        "pct": 9.5,
-        "mandates": 8
+        "pct": 9.5
       },
       "FDP": {
         "votes": 76754,
-        "pct": 6.6,
-        "mandates": 6
+        "pct": 6.6
       },
       "AfD": {
         "votes": 64368,
-        "pct": 5.5,
-        "mandates": 4
+        "pct": 5.5
       },
       "BIW": {
         "votes": 37759,
-        "pct": 3.2,
-        "mandates": 1
+        "pct": 3.2
       },
       "Die Partei": {
         "votes": 21888,
@@ -6337,7 +6224,7 @@
         "votes": 20034,
         "pct": 0.7
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 13881,
         "pct": 0.5
       },
@@ -6628,7 +6515,7 @@
         "votes": 5588,
         "pct": 0.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1666,
         "pct": 0.2
       },
@@ -6636,7 +6523,7 @@
         "votes": 716,
         "pct": 0.1
       },
-      "B\u00fcrgerpartei/Umweltunion": {
+      "Bürgerpartei/Umweltunion": {
         "votes": 138,
         "pct": 0.0
       },
@@ -6702,7 +6589,7 @@
         "votes": 400402,
         "pct": 41.7
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 99779,
         "pct": 10.4
       },
@@ -6759,7 +6646,7 @@
         "votes": 398686,
         "pct": 40.5
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 69148,
         "pct": 7.0
       },
@@ -6779,7 +6666,7 @@
         "votes": 1456,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 733,
         "pct": 0.1
       },
@@ -6808,7 +6695,7 @@
         "votes": 287467,
         "pct": 35.1
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 59262,
         "pct": 7.2
       },
@@ -6848,7 +6735,7 @@
         "votes": 683,
         "pct": 0.1
       },
-      "Gl\u00fcckliche Zukunft": {
+      "Glückliche Zukunft": {
         "votes": 528,
         "pct": 0.1
       },
@@ -6885,7 +6772,7 @@
         "votes": 212186,
         "pct": 25.1
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 114263,
         "pct": 13.5
       },
@@ -6909,7 +6796,7 @@
         "votes": 13329,
         "pct": 1.6
       },
-      "F\u00fcr Kinder": {
+      "Für Kinder": {
         "votes": 3968,
         "pct": 0.5
       },
@@ -6937,7 +6824,7 @@
         "votes": 466,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1251,
         "pct": 0.1
       },
@@ -6970,7 +6857,7 @@
         "votes": 252354,
         "pct": 30.7
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 114776,
         "pct": 13.9
       },
@@ -7006,7 +6893,7 @@
         "votes": 3754,
         "pct": 0.5
       },
-      "F\u00fcr Kinder": {
+      "Für Kinder": {
         "votes": 4083,
         "pct": 0.5
       },
@@ -7042,7 +6929,7 @@
         "votes": 439,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 129,
         "pct": 0.0
       },
@@ -7054,7 +6941,7 @@
         "votes": 116,
         "pct": 0.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 373,
         "pct": 0.0
       }
@@ -7079,7 +6966,7 @@
         "votes": 165421,
         "pct": 19.4
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 72771,
         "pct": 8.6
       },
@@ -7152,7 +7039,7 @@
         "votes": 251441,
         "pct": 30.5
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 101227,
         "pct": 12.3
       },
@@ -7192,11 +7079,11 @@
         "votes": 1571,
         "pct": 0.2
       },
-      "B\u00fcrgerbund": {
+      "Bürgerbund": {
         "votes": 463,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 658,
         "pct": 0.1
       },
@@ -7215,25 +7102,19 @@
     "results": {
       "CDU": {
         "votes": 331067,
-        "pct": 42.6,
-        "mandates": 56,
-				"government": true
+        "pct": 42.6
       },
       "SPD": {
         "votes": 265516,
-        "pct": 34.1,
-        "mandates": 45
+        "pct": 34.1
       },
-      "Gr\u00fcne/GAL": {
+      "Grüne/GAL": {
         "votes": 74472,
-        "pct": 9.6,
-        "mandates": 12,
-				"government": true
+        "pct": 9.6
       },
       "Linke": {
         "votes": 50132,
-        "pct": 6.4,
-        "mandates": 8
+        "pct": 6.4
       },
       "FDP": {
         "votes": 36953,
@@ -7263,7 +7144,7 @@
         "votes": 989,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 981,
         "pct": 0.1
       },
@@ -7286,29 +7167,23 @@
     "results": {
       "SPD": {
         "votes": 1667804,
-        "pct": 48.4,
-        "mandates": 62,
-        "government": true
+        "pct": 48.4
       },
       "CDU": {
         "votes": 753805,
-        "pct": 21.9,
-        "mandates": 28
+        "pct": 21.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 384502,
-        "pct": 11.2,
-        "mandates": 14
+        "pct": 11.2
       },
       "FDP": {
         "votes": 229125,
-        "pct": 6.7,
-        "mandates": 9
+        "pct": 6.7
       },
       "Linke": {
         "votes": 220428,
-        "pct": 6.4,
-        "mandates": 8
+        "pct": 6.4
       },
       "Piraten": {
         "votes": 73126,
@@ -7330,11 +7205,11 @@
         "votes": 15847,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 10464,
         "pct": 0.3
       },
-      "B\u00fcMi": {
+      "BüMi": {
         "votes": 8380,
         "pct": 0.2
       },
@@ -7353,35 +7228,27 @@
     "results": {
       "SPD": {
         "votes": 1611274,
-        "pct": 45.6,
-        "mandates": 58,
-        "government": true
+        "pct": 45.6
       },
       "CDU": {
         "votes": 561377,
-        "pct": 15.9,
-        "mandates": 20
+        "pct": 15.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 432713,
-        "pct": 12.3,
-        "mandates": 15,
-        "government": true
+        "pct": 12.3
       },
       "Linke": {
         "votes": 300567,
-        "pct": 8.5,
-        "mandates": 11
+        "pct": 8.5
       },
       "FDP": {
         "votes": 262157,
-        "pct": 7.4,
-        "mandates": 9
+        "pct": 7.4
       },
       "AfD": {
         "votes": 214833,
-        "pct": 6.1,
-        "mandates": 8
+        "pct": 6.1
       },
       "Piraten": {
         "votes": 54802,
@@ -7395,7 +7262,7 @@
         "votes": 18464,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 13621,
         "pct": 0.4
       },
@@ -7469,7 +7336,7 @@
         "votes": 1989,
         "pct": 0.1
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 1081,
         "pct": 0.1
       },
@@ -7518,7 +7385,7 @@
         "votes": 416,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 253,
         "pct": 0.0
       }
@@ -7563,7 +7430,7 @@
         "votes": 466,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 152,
         "pct": 0.0
       }
@@ -7711,7 +7578,7 @@
         "votes": 23,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 91,
         "pct": 0.0
       }
@@ -7776,7 +7643,7 @@
         "votes": 274,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 16,
         "pct": 0.0
       }
@@ -7797,7 +7664,7 @@
         "votes": 1483930,
         "pct": 42.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 278450,
         "pct": 8.0
       },
@@ -7838,7 +7705,7 @@
         "votes": 256801,
         "pct": 7.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 200415,
         "pct": 5.9
       },
@@ -7883,7 +7750,7 @@
         "votes": 1331760,
         "pct": 40.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 311395,
         "pct": 9.4
       },
@@ -7895,7 +7762,7 @@
         "votes": 9168,
         "pct": 0.3
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 4627,
         "pct": 0.1
       },
@@ -7907,15 +7774,15 @@
         "votes": 1004,
         "pct": 0.0
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 129,
         "pct": 0.0
       },
-      "\u00d6ko": {
+      "Öko": {
         "votes": 123,
         "pct": 0.0
       },
-      "Ung\u00fcltig": {
+      "Ungültig": {
         "votes": 244,
         "pct": 0.0
       }
@@ -7936,7 +7803,7 @@
         "votes": 1195965,
         "pct": 40.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 262161,
         "pct": 8.8
       },
@@ -7952,7 +7819,7 @@
         "votes": 16521,
         "pct": 0.6
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 8772,
         "pct": 0.3
       },
@@ -7977,7 +7844,7 @@
         "votes": 1051452,
         "pct": 38.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 309897,
         "pct": 11.2
       },
@@ -8009,7 +7876,7 @@
         "votes": 4522,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 5248,
         "pct": 0.2
       },
@@ -8029,7 +7896,7 @@
         "votes": 2199,
         "pct": 0.1
       },
-      "B\u00fcrgerrechtsbewegung Solidarit\u00e4t": {
+      "Bürgerrechtsbewegung Solidarität": {
         "votes": 484,
         "pct": 0.0
       },
@@ -8054,7 +7921,7 @@
         "votes": 1102544,
         "pct": 39.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 201194,
         "pct": 7.2
       },
@@ -8098,7 +7965,7 @@
         "votes": 2499,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 2053,
         "pct": 0.1
       },
@@ -8106,7 +7973,7 @@
         "votes": 1909,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 612,
         "pct": 0.0
       },
@@ -8131,7 +7998,7 @@
         "votes": 795576,
         "pct": 29.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 276276,
         "pct": 10.1
       },
@@ -8167,11 +8034,11 @@
         "votes": 6674,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1643,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 2683,
         "pct": 0.1
       },
@@ -8200,7 +8067,7 @@
         "votes": 258550,
         "pct": 9.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 206610,
         "pct": 7.5
       },
@@ -8212,7 +8079,7 @@
         "votes": 27724,
         "pct": 1.0
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 24327,
         "pct": 0.9
       },
@@ -8248,7 +8115,7 @@
         "votes": 3130,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1118,
         "pct": 0.0
       },
@@ -8277,7 +8144,7 @@
         "votes": 420426,
         "pct": 16.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 356040,
         "pct": 13.7
       },
@@ -8285,7 +8152,7 @@
         "votes": 139074,
         "pct": 5.4
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 42153,
         "pct": 1.6
       },
@@ -8301,7 +8168,7 @@
         "votes": 13796,
         "pct": 0.5
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 4136,
         "pct": 0.2
       }
@@ -8322,7 +8189,7 @@
         "votes": 961896,
         "pct": 30.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 348661,
         "pct": 11.1
       },
@@ -8374,11 +8241,11 @@
         "votes": 1998,
         "pct": 0.1
       },
-      "\u00f6dp": {
+      "ödp": {
         "votes": 4024,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1422,
         "pct": 0.0
       },
@@ -8411,7 +8278,7 @@
         "votes": 49104,
         "pct": 5.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 37336,
         "pct": 4.2
       },
@@ -8419,7 +8286,7 @@
         "votes": 26230,
         "pct": 2.9
       },
-      "B\u00fc.90": {
+      "Bü.90": {
         "votes": 19948,
         "pct": 2.2
       },
@@ -8480,7 +8347,7 @@
         "votes": 37498,
         "pct": 3.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 36035,
         "pct": 3.7
       },
@@ -8541,7 +8408,7 @@
         "votes": 31194,
         "pct": 2.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 29240,
         "pct": 2.7
       },
@@ -8602,7 +8469,7 @@
         "votes": 45676,
         "pct": 4.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 25402,
         "pct": 2.6
       },
@@ -8671,7 +8538,7 @@
         "votes": 59845,
         "pct": 7.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 27642,
         "pct": 3.4
       },
@@ -8687,7 +8554,7 @@
         "votes": 4281,
         "pct": 0.5
       },
-      "B\u00fcndnis F\u00fcr M-V": {
+      "Bündnis Für M-V": {
         "votes": 3547,
         "pct": 0.4
       },
@@ -8736,7 +8603,7 @@
         "votes": 125528,
         "pct": 18.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 59004,
         "pct": 8.7
       },
@@ -8756,7 +8623,7 @@
         "votes": 10538,
         "pct": 1.5
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 7782,
         "pct": 1.1
       },
@@ -8776,7 +8643,7 @@
         "votes": 868,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 598,
         "pct": 0.1
       },
@@ -8813,7 +8680,7 @@
         "votes": 106256,
         "pct": 13.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 38836,
         "pct": 4.8
       },
@@ -8861,7 +8728,7 @@
         "votes": 1315,
         "pct": 0.2
       },
-      "B\u00fcndnisC": {
+      "BündnisC": {
         "votes": 829,
         "pct": 0.1
       }
@@ -8955,7 +8822,7 @@
         "votes": 2768,
         "pct": 0.1
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 132,
         "pct": 0.0
       }
@@ -9004,7 +8871,7 @@
         "votes": 183,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 1314,
         "pct": 0.0
       },
@@ -9057,7 +8924,7 @@
         "votes": 243,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 139,
         "pct": 0.0
       }
@@ -9139,7 +9006,7 @@
         "votes": 671,
         "pct": 0.0
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 52,
         "pct": 0.0
       }
@@ -9172,7 +9039,7 @@
         "votes": 16753,
         "pct": 0.4
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 301,
         "pct": 0.0
       }
@@ -9250,7 +9117,7 @@
         "votes": 1526346,
         "pct": 36.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 273338,
         "pct": 6.5
       },
@@ -9262,7 +9129,7 @@
         "votes": 11552,
         "pct": 0.3
       },
-      "B\u00fcrgerpartei/Umweltunion": {
+      "Bürgerpartei/Umweltunion": {
         "votes": 97,
         "pct": 0.0
       },
@@ -9307,7 +9174,7 @@
         "votes": 1807157,
         "pct": 42.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 303308,
         "pct": 7.1
       },
@@ -9327,11 +9194,11 @@
         "votes": 5690,
         "pct": 0.1
       },
-      "B\u00fcrgerpartei": {
+      "Bürgerpartei": {
         "votes": 198,
         "pct": 0.0
       },
-      "Deutsche Solidarit\u00e4t": {
+      "Deutsche Solidarität": {
         "votes": 38,
         "pct": 0.0
       },
@@ -9364,7 +9231,7 @@
         "votes": 252615,
         "pct": 6.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 229846,
         "pct": 5.5
       },
@@ -9376,7 +9243,7 @@
         "votes": 8255,
         "pct": 0.2
       },
-      "Die Unabh\u00e4ngigen": {
+      "Die Unabhängigen": {
         "votes": 2739,
         "pct": 0.1
       },
@@ -9388,11 +9255,11 @@
         "votes": 4529,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 3603,
         "pct": 0.1
       },
-      "\u00d6ko-Union": {
+      "Öko-Union": {
         "votes": 3682,
         "pct": 0.1
       },
@@ -9445,7 +9312,7 @@
         "votes": 1547610,
         "pct": 36.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 314344,
         "pct": 7.4
       },
@@ -9481,7 +9348,7 @@
         "votes": 9430,
         "pct": 0.2
       },
-      "\u00d6ko-Union": {
+      "Öko-Union": {
         "votes": 7902,
         "pct": 0.2
       },
@@ -9493,7 +9360,7 @@
         "votes": 8819,
         "pct": 0.2
       },
-      "Die Unabh\u00e4ngigen": {
+      "Die Unabhängigen": {
         "votes": 4906,
         "pct": 0.1
       },
@@ -9501,7 +9368,7 @@
         "votes": 4123,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 4347,
         "pct": 0.1
       }
@@ -9522,7 +9389,7 @@
         "votes": 1549227,
         "pct": 35.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 304193,
         "pct": 7.0
       },
@@ -9554,7 +9421,7 @@
         "votes": 6140,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 4730,
         "pct": 0.1
       }
@@ -9579,7 +9446,7 @@
         "votes": 323107,
         "pct": 8.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 304532,
         "pct": 7.6
       },
@@ -9603,7 +9470,7 @@
         "votes": 7819,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 3671,
         "pct": 0.1
       }
@@ -9618,30 +9485,23 @@
     "results": {
       "CDU": {
         "votes": 1456742,
-        "pct": 42.5,
-        "mandates": 68,
-				"government": true
+        "pct": 42.5
       },
       "SPD": {
         "votes": 1036727,
-        "pct": 30.3,
-        "mandates": 48
+        "pct": 30.3
       },
       "FDP": {
         "votes": 279826,
-        "pct": 8.2,
-        "mandates": 13,
-				"government": true
+        "pct": 8.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 274221,
-        "pct": 8.0,
-        "mandates": 12
+        "pct": 8.0
       },
       "Linke": {
         "votes": 243361,
-        "pct": 7.1,
-        "mandates": 11
+        "pct": 7.1
       },
       "NPD": {
         "votes": 52986,
@@ -9675,7 +9535,7 @@
         "votes": 5934,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1962,
         "pct": 0.1
       }
@@ -9690,25 +9550,19 @@
     "results": {
       "CDU": {
         "votes": 1287549,
-        "pct": 36.0,
-        "mandates": 54
+        "pct": 36.0
       },
       "SPD": {
         "votes": 1165419,
-        "pct": 32.6,
-        "mandates": 49,
-				"government": true
+        "pct": 32.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 489473,
-        "pct": 13.7,
-        "mandates": 20,
-				"government": true
+        "pct": 13.7
       },
       "FDP": {
         "votes": 354970,
-        "pct": 9.9,
-        "mandates": 14
+        "pct": 9.9
       },
       "Linke": {
         "votes": 112212,
@@ -9734,7 +9588,7 @@
         "votes": 5676,
         "pct": 0.2
       },
-      "B\u00fcndnis 21/RRP": {
+      "Bündnis 21/RRP": {
         "votes": 2962,
         "pct": 0.1
       }
@@ -9775,7 +9629,7 @@
         "votes": 13547,
         "pct": 0.3
       },
-      "Unabh\u00e4ngige": {
+      "Unabhängige": {
         "votes": 855,
         "pct": 0.0
       }
@@ -10119,7 +9973,7 @@
         "votes": 489225,
         "pct": 5.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 291379,
         "pct": 3.0
       },
@@ -10127,7 +9981,7 @@
         "votes": 30441,
         "pct": 0.3
       },
-      "B\u00fcrgerpartei": {
+      "Bürgerpartei": {
         "votes": 5410,
         "pct": 0.1
       },
@@ -10184,7 +10038,7 @@
         "votes": 565413,
         "pct": 6.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 431371,
         "pct": 4.6
       },
@@ -10236,7 +10090,7 @@
         "votes": 3338,
         "pct": 0.0
       },
-      "M\u00fcndige B\u00fcrger": {
+      "Mündige Bürger": {
         "votes": 925,
         "pct": 0.0
       },
@@ -10265,7 +10119,7 @@
         "votes": 535656,
         "pct": 5.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 469098,
         "pct": 5.0
       },
@@ -10273,7 +10127,7 @@
         "votes": 171867,
         "pct": 1.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 46650,
         "pct": 0.5
       },
@@ -10330,7 +10184,7 @@
         "votes": 3124758,
         "pct": 37.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 830861,
         "pct": 10.0
       },
@@ -10346,7 +10200,7 @@
         "votes": 58155,
         "pct": 0.7
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 21159,
         "pct": 0.3
       },
@@ -10394,7 +10248,7 @@
         "votes": 2757,
         "pct": 0.0
       },
-      "Solidarit\u00e4t": {
+      "Solidarität": {
         "votes": 850,
         "pct": 0.0
       },
@@ -10427,7 +10281,7 @@
         "votes": 721558,
         "pct": 9.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 518295,
         "pct": 7.1
       },
@@ -10439,7 +10293,7 @@
         "votes": 83296,
         "pct": 1.1
       },
-      "Unabh. B\u00fcrger": {
+      "Unabh. Bürger": {
         "votes": 22059,
         "pct": 0.3
       },
@@ -10471,7 +10325,7 @@
         "votes": 178,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 2530,
         "pct": 0.0
       },
@@ -10511,15 +10365,15 @@
         "votes": 2357,
         "pct": 0.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1923,
         "pct": 0.0
       },
-      "\u00d6koli": {
+      "Ökoli": {
         "votes": 304,
         "pct": 0.0
       },
-      "Partei Der Nichtw\u00e4hler": {
+      "Partei Der Nichtwähler": {
         "votes": 175,
         "pct": 0.0
       },
@@ -10542,25 +10396,19 @@
     "results": {
       "CDU": {
         "votes": 3696506,
-        "pct": 44.8,
-        "mandates": 89,
-				"government": true
+        "pct": 44.8
       },
       "SPD": {
         "votes": 3058988,
-        "pct": 37.1,
-        "mandates": 74
+        "pct": 37.1
       },
       "FDP": {
         "votes": 508266,
-        "pct": 6.2,
-        "mandates": 12,
-				"government": true
+        "pct": 6.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 509293,
-        "pct": 6.2,
-        "mandates": 12
+        "pct": 6.2
       },
       "WASG": {
         "votes": 181988,
@@ -10582,11 +10430,11 @@
         "votes": 18335,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 15751,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 6856,
         "pct": 0.1
       },
@@ -10602,7 +10450,7 @@
         "votes": 6361,
         "pct": 0.1
       },
-      "Unabh. B\u00fcrger": {
+      "Unabh. Bürger": {
         "votes": 6950,
         "pct": 0.1
       },
@@ -10630,7 +10478,7 @@
         "votes": 213,
         "pct": 0.0
       },
-      "\u00d6koli": {
+      "Ökoli": {
         "votes": 184,
         "pct": 0.0
       },
@@ -10657,30 +10505,23 @@
     "results": {
       "CDU": {
         "votes": 2681700,
-        "pct": 34.6,
-        "mandates": 67
+        "pct": 34.6
       },
       "SPD": {
         "votes": 2675818,
-        "pct": 34.5,
-        "mandates": 67,
-				"government": true
+        "pct": 34.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 941162,
-        "pct": 12.1,
-        "mandates": 23,
-				"government": true
+        "pct": 12.1
       },
       "FDP": {
         "votes": 522229,
-        "pct": 6.7,
-        "mandates": 13
+        "pct": 6.7
       },
       "Linke": {
         "votes": 435627,
-        "pct": 5.6,
-        "mandates": 11
+        "pct": 5.6
       },
       "Piraten": {
         "votes": 121046,
@@ -10730,11 +10571,11 @@
         "votes": 5968,
         "pct": 0.1
       },
-      "FBI/Freie W\u00e4hler": {
+      "FBI/Freie Wähler": {
         "votes": 6636,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 7505,
         "pct": 0.1
       },
@@ -10750,7 +10591,7 @@
         "votes": 672,
         "pct": 0.0
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 3370,
         "pct": 0.0
       },
@@ -10773,30 +10614,23 @@
     "results": {
       "SPD": {
         "votes": 3049983,
-        "pct": 39.1,
-        "mandates": 99,
-				"government": true
+        "pct": 39.1
       },
       "CDU": {
         "votes": 2050321,
-        "pct": 26.3,
-        "mandates": 67
+        "pct": 26.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 884298,
-        "pct": 11.3,
-        "mandates": 29,
-				"government": true
+        "pct": 11.3
       },
       "FDP": {
         "votes": 670082,
-        "pct": 8.6,
-        "mandates": 22
+        "pct": 8.6
       },
       "Piraten": {
         "votes": 609176,
-        "pct": 7.8,
-        "mandates": 20
+        "pct": 7.8
       },
       "Linke": {
         "votes": 194428,
@@ -10838,7 +10672,7 @@
         "votes": 9496,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 7842,
         "pct": 0.1
       },
@@ -11130,7 +10964,7 @@
         "votes": 5280,
         "pct": 0.2
       },
-      "WV K\u00e4mpft mit der KPD": {
+      "WV Kämpft mit der KPD": {
         "votes": 2018,
         "pct": 0.1
       }
@@ -11188,7 +11022,7 @@
         "votes": 995795,
         "pct": 39.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 113809,
         "pct": 4.5
       },
@@ -11229,7 +11063,7 @@
         "votes": 158964,
         "pct": 7.3
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 128653,
         "pct": 5.9
       },
@@ -11241,7 +11075,7 @@
         "votes": 18227,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 9580,
         "pct": 0.4
       },
@@ -11274,7 +11108,7 @@
         "votes": 146400,
         "pct": 6.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 137139,
         "pct": 6.5
       },
@@ -11282,7 +11116,7 @@
         "votes": 43480,
         "pct": 2.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 19355,
         "pct": 0.9
       },
@@ -11311,7 +11145,7 @@
         "votes": 184426,
         "pct": 8.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 142665,
         "pct": 6.9
       },
@@ -11323,7 +11157,7 @@
         "votes": 14338,
         "pct": 0.7
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 10879,
         "pct": 0.5
       },
@@ -11343,7 +11177,7 @@
         "votes": 2608,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 370,
         "pct": 0.0
       }
@@ -11368,7 +11202,7 @@
         "votes": 143427,
         "pct": 7.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 95567,
         "pct": 5.2
       },
@@ -11388,7 +11222,7 @@
         "votes": 9110,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 5458,
         "pct": 0.3
       },
@@ -11407,21 +11241,17 @@
     "results": {
       "SPD": {
         "votes": 799377,
-        "pct": 45.6,
-        "mandates": 53,
-				"government": true
+        "pct": 45.6
       },
       "CDU": {
         "votes": 574329,
-        "pct": 32.8,
-        "mandates": 38
+        "pct": 32.8
       },
       "FDP": {
         "votes": 140865,
-        "pct": 8.0,
-        "mandates": 10
+        "pct": 8.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 81411,
         "pct": 4.6
       },
@@ -11457,7 +11287,7 @@
         "votes": 3347,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 3844,
         "pct": 0.2
       },
@@ -11480,20 +11310,15 @@
     "results": {
       "SPD": {
         "votes": 666817,
-        "pct": 35.7,
-        "mandates": 42,
-				"government": true
+        "pct": 35.7
       },
       "CDU": {
         "votes": 658474,
-        "pct": 35.2,
-        "mandates": 41
+        "pct": 35.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 288489,
-        "pct": 15.4,
-        "mandates": 18,
-				"government": true
+        "pct": 15.4
       },
       "FDP": {
         "votes": 79343,
@@ -11519,11 +11344,11 @@
         "votes": 15600,
         "pct": 0.8
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 6997,
         "pct": 0.4
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1504,
         "pct": 0.1
       },
@@ -11542,31 +11367,23 @@
     "results": {
       "SPD": {
         "votes": 771848,
-        "pct": 36.2,
-        "mandates": 39,
-				"government": true
+        "pct": 36.2
       },
       "CDU": {
         "votes": 677507,
-        "pct": 31.8,
-        "mandates": 35
+        "pct": 31.8
       },
       "AfD": {
         "votes": 268628,
-        "pct": 12.6,
-        "mandates": 14
+        "pct": 12.6
       },
       "FDP": {
         "votes": 132294,
-        "pct": 6.2,
-        "mandates": 7,
-				"government": true
+        "pct": 6.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 113261,
-        "pct": 5.3,
-        "mandates": 6,
-				"government": true
+        "pct": 5.3
       },
       "Linke": {
         "votes": 59970,
@@ -11588,7 +11405,7 @@
         "votes": 10565,
         "pct": 0.5
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 8623,
         "pct": 0.4
       },
@@ -11645,7 +11462,7 @@
         "votes": 3795,
         "pct": 0.6
       },
-      "\u00dcEVPS": {
+      "ÜEVPS": {
         "votes": 2081,
         "pct": 0.4
       }
@@ -11798,7 +11615,7 @@
         "votes": 47977,
         "pct": 6.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 19945,
         "pct": 2.9
       },
@@ -11831,7 +11648,7 @@
         "votes": 70713,
         "pct": 10.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 17642,
         "pct": 2.5
       },
@@ -11868,7 +11685,7 @@
         "votes": 23263,
         "pct": 3.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 18380,
         "pct": 2.6
       },
@@ -11901,7 +11718,7 @@
         "votes": 265871,
         "pct": 38.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 38087,
         "pct": 5.5
       },
@@ -11941,7 +11758,7 @@
         "votes": 1517,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1285,
         "pct": 0.2
       },
@@ -11966,7 +11783,7 @@
         "votes": 247311,
         "pct": 44.4
       },
-      "Gr\u00fcne Saar": {
+      "Grüne Saar": {
         "votes": 18106,
         "pct": 3.2
       },
@@ -11990,7 +11807,7 @@
         "votes": 4157,
         "pct": 0.7
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1557,
         "pct": 0.3
       },
@@ -12009,24 +11826,19 @@
     "results": {
       "CDU": {
         "votes": 209690,
-        "pct": 47.5,
-        "mandates": 27,
-				"government": true
+        "pct": 47.5
       },
       "SPD": {
         "votes": 136224,
-        "pct": 30.8,
-        "mandates": 18
+        "pct": 30.8
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 24830,
-        "pct": 5.6,
-        "mandates": 3
+        "pct": 5.6
       },
       "FDP": {
         "votes": 22842,
-        "pct": 5.2,
-        "mandates": 3
+        "pct": 5.2
       },
       "NPD": {
         "votes": 17590,
@@ -12077,7 +11889,7 @@
         "votes": 49064,
         "pct": 9.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 31516,
         "pct": 5.9
       },
@@ -12112,30 +11924,23 @@
     "results": {
       "CDU": {
         "votes": 169617,
-        "pct": 35.2,
-        "mandates": 19,
-				"government": true
+        "pct": 35.2
       },
       "SPD": {
         "votes": 147170,
-        "pct": 30.6,
-        "mandates": 17,
-				"government": true
+        "pct": 30.6
       },
       "Linke": {
         "votes": 77612,
-        "pct": 16.1,
-        "mandates": 9
+        "pct": 16.1
       },
       "Piraten": {
         "votes": 35656,
-        "pct": 7.4,
-        "mandates": 4
+        "pct": 7.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 24252,
-        "pct": 5.0,
-        "mandates": 2
+        "pct": 5.0
       },
       "Familie": {
         "votes": 8394,
@@ -12239,7 +12044,7 @@
         "votes": 339619,
         "pct": 16.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 85485,
         "pct": 4.1
       },
@@ -12284,7 +12089,7 @@
         "votes": 232311,
         "pct": 10.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 55609,
         "pct": 2.6
       },
@@ -12320,7 +12125,7 @@
         "votes": 4100,
         "pct": 0.2
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 2440,
         "pct": 0.1
       },
@@ -12343,35 +12148,27 @@
     "results": {
       "CDU": {
         "votes": 855203,
-        "pct": 41.1,
-        "mandates": 55,
-				"government": true
+        "pct": 41.1
       },
       "PDS": {
         "votes": 490488,
-        "pct": 23.6,
-        "mandates": 31
+        "pct": 23.6
       },
       "SPD": {
         "votes": 204438,
-        "pct": 9.8,
-        "mandates": 13,
-				"government": true
+        "pct": 9.8
       },
       "NPD": {
         "votes": 190909,
-        "pct": 9.2,
-        "mandates": 12
+        "pct": 9.2
       },
       "FDP": {
         "votes": 122605,
-        "pct": 5.9,
-        "mandates": 7
+        "pct": 5.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 106771,
-        "pct": 5.1,
-        "mandates": 6
+        "pct": 5.1
       },
       "Die Tierschutzpartei": {
         "votes": 34068,
@@ -12389,7 +12186,7 @@
         "votes": 11201,
         "pct": 0.5
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 11299,
         "pct": 0.5
       },
@@ -12426,7 +12223,7 @@
         "votes": 178867,
         "pct": 10.0
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 114963,
         "pct": 6.4
       },
@@ -12450,7 +12247,7 @@
         "votes": 7571,
         "pct": 0.4
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 4093,
         "pct": 0.2
       },
@@ -12485,30 +12282,23 @@
     "results": {
       "CDU": {
         "votes": 645414,
-        "pct": 39.4,
-        "mandates": 59,
-				"government": true
+        "pct": 39.4
       },
       "Linke": {
         "votes": 309581,
-        "pct": 18.9,
-        "mandates": 27
+        "pct": 18.9
       },
       "SPD": {
         "votes": 202396,
-        "pct": 12.4,
-        "mandates": 18,
-				"government": true
+        "pct": 12.4
       },
       "AfD": {
         "votes": 159611,
-        "pct": 9.7,
-        "mandates": 14
+        "pct": 9.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 93857,
-        "pct": 5.7,
-        "mandates": 8
+        "pct": 5.7
       },
       "NPD": {
         "votes": 81051,
@@ -12534,7 +12324,7 @@
         "votes": 11588,
         "pct": 0.7
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 3340,
         "pct": 0.2
       },
@@ -12571,7 +12361,7 @@
         "votes": 169319,
         "pct": 12.0
       },
-      "Gr\u00fcne/NF": {
+      "Grüne/NF": {
         "votes": 74696,
         "pct": 5.3
       },
@@ -12628,7 +12418,7 @@
         "votes": 225243,
         "pct": 19.9
       },
-      "B\u00fc90/Gr\u00fcne": {
+      "Bü90/Grüne": {
         "votes": 57739,
         "pct": 5.1
       },
@@ -12693,7 +12483,7 @@
         "votes": 63250,
         "pct": 4.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 48542,
         "pct": 3.2
       },
@@ -12742,7 +12532,7 @@
         "votes": 52589,
         "pct": 4.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 22696,
         "pct": 2.0
       },
@@ -12770,7 +12560,7 @@
         "votes": 1710,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1539,
         "pct": 0.1
       },
@@ -12789,27 +12579,21 @@
     "results": {
       "CDU": {
         "votes": 326721,
-        "pct": 36.2,
-        "mandates": 40,
-				"government": true
+        "pct": 36.2
       },
       "Linke": {
         "votes": 217295,
-        "pct": 24.1,
-        "mandates": 26
+        "pct": 24.1
       },
       "SPD": {
         "votes": 192754,
-        "pct": 21.4,
-        "mandates": 24,
-				"government": true
+        "pct": 21.4
       },
       "FDP": {
         "votes": 60209,
-        "pct": 6.7,
-        "mandates": 7
+        "pct": 6.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 32117,
         "pct": 3.6
       },
@@ -12882,7 +12666,7 @@
         "votes": 213611,
         "pct": 21.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 70922,
         "pct": 7.1
       },
@@ -12918,7 +12702,7 @@
         "votes": 2321,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1499,
         "pct": 0.2
       }
@@ -12933,31 +12717,23 @@
     "results": {
       "CDU": {
         "votes": 334139,
-        "pct": 29.8,
-        "mandates": 30,
-				"government": true
+        "pct": 29.8
       },
       "AfD": {
         "votes": 272496,
-        "pct": 24.3,
-        "mandates": 25
+        "pct": 24.3
       },
       "Linke": {
         "votes": 183290,
-        "pct": 16.3,
-        "mandates": 16
+        "pct": 16.3
       },
       "SPD": {
         "votes": 119368,
-        "pct": 10.6,
-        "mandates": 11,
-				"government": true
+        "pct": 10.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 58209,
-        "pct": 5.2,
-        "mandates": 5,
-				"government": true
+        "pct": 5.2
       },
       "FDP": {
         "votes": 54565,
@@ -13360,7 +13136,7 @@
         "votes": 90131,
         "pct": 5.7
       },
-      "Gr\u00fcne Liste": {
+      "Grüne Liste": {
         "votes": 38009,
         "pct": 2.4
       },
@@ -13397,7 +13173,7 @@
         "votes": 726632,
         "pct": 43.7
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 59358,
         "pct": 3.6
       },
@@ -13413,7 +13189,7 @@
         "votes": 2199,
         "pct": 0.1
       },
-      "Gr\u00fcne Demokraten": {
+      "Grüne Demokraten": {
         "votes": 1506,
         "pct": 0.1
       },
@@ -13454,7 +13230,7 @@
         "votes": 81113,
         "pct": 5.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 60408,
         "pct": 3.9
       },
@@ -13478,7 +13254,7 @@
         "votes": 39,
         "pct": 0.0
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 556,
         "pct": 0.0
       }
@@ -13503,7 +13279,7 @@
         "votes": 69620,
         "pct": 4.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 44898,
         "pct": 2.9
       },
@@ -13527,7 +13303,7 @@
         "votes": 2253,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1170,
         "pct": 0.1
       },
@@ -13564,7 +13340,7 @@
         "votes": 82963,
         "pct": 5.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 74014,
         "pct": 5.0
       },
@@ -13597,7 +13373,7 @@
         "votes": 559107,
         "pct": 37.2
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 121939,
         "pct": 8.1
       },
@@ -13625,7 +13401,7 @@
         "votes": 845,
         "pct": 0.1
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 1581,
         "pct": 0.1
       },
@@ -13658,7 +13434,7 @@
         "votes": 111649,
         "pct": 7.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 91389,
         "pct": 6.2
       },
@@ -13701,30 +13477,23 @@
     "results": {
       "CDU": {
         "votes": 576095,
-        "pct": 40.2,
-        "mandates": 30,
-				"government": true
+        "pct": 40.2
       },
       "SPD": {
         "votes": 554879,
-        "pct": 38.7,
-        "mandates": 29,
-				"government": true
+        "pct": 38.7
       },
       "FDP": {
         "votes": 94935,
-        "pct": 6.6,
-        "mandates": 4
+        "pct": 6.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 89387,
-        "pct": 6.2,
-        "mandates": 4
+        "pct": 6.2
       },
       "SSW": {
         "votes": 51920,
-        "pct": 3.6,
-        "mandates": 2
+        "pct": 3.6
       },
       "NPD": {
         "votes": 27676,
@@ -13779,7 +13548,7 @@
         "votes": 239338,
         "pct": 14.9
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 199367,
         "pct": 12.4
       },
@@ -13830,37 +13599,27 @@
     "results": {
       "CDU": {
         "votes": 408637,
-        "pct": 30.8,
-        "mandates": 22,
-				"government": true
+        "pct": 30.8
       },
       "SPD": {
         "votes": 404048,
-        "pct": 30.4,
-        "mandates": 22,
-				"government": true
+        "pct": 30.4
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 174953,
-        "pct": 13.2,
-        "mandates": 10,
-				"government": true
+        "pct": 13.2
       },
       "FDP": {
         "votes": 108953,
-        "pct": 8.2,
-        "mandates": 6
+        "pct": 8.2
       },
       "Piraten": {
         "votes": 108902,
-        "pct": 8.2,
-        "mandates": 6
+        "pct": 8.2
       },
       "SSW": {
         "votes": 61025,
-        "pct": 4.6,
-        "mandates": 3,
-				"government": true
+        "pct": 4.6
       },
       "Linke": {
         "votes": 29900,
@@ -13886,9 +13645,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1990-10-14-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 1990",
+    "title": "Landtagswahl Thüringen 1990",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "1990-10-14T00:00:00",
     "results": {
       "CDU": {
@@ -13943,9 +13702,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1994-10-16-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 1994",
+    "title": "Landtagswahl Thüringen 1994",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "1994-10-16T00:00:00",
     "results": {
       "CDU": {
@@ -13960,7 +13719,7 @@
         "votes": 235556,
         "pct": 16.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 64041,
         "pct": 4.5
       },
@@ -13988,7 +13747,7 @@
         "votes": 3223,
         "pct": 0.2
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 3115,
         "pct": 0.2
       }
@@ -13996,9 +13755,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/1999-09-12-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 1999",
+    "title": "Landtagswahl Thüringen 1999",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "1999-09-12T00:00:00",
     "results": {
       "CDU": {
@@ -14017,7 +13776,7 @@
         "votes": 36386,
         "pct": 3.1
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 21617,
         "pct": 1.9
       },
@@ -14057,9 +13816,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2004-06-13-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 2004",
+    "title": "Landtagswahl Thüringen 2004",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "2004-06-13T00:00:00",
     "results": {
       "CDU": {
@@ -14074,7 +13833,7 @@
         "votes": 146297,
         "pct": 14.5
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 45649,
         "pct": 4.5
       },
@@ -14082,7 +13841,7 @@
         "votes": 36483,
         "pct": 3.6
       },
-      "Freie W\u00e4hler Th\u00fcringen": {
+      "Freie Wähler Thüringen": {
         "votes": 26302,
         "pct": 2.6
       },
@@ -14114,7 +13873,7 @@
         "votes": 1842,
         "pct": 0.2
       },
-      "\u00d6PD": {
+      "ÖPD": {
         "votes": 2317,
         "pct": 0.2
       }
@@ -14122,9 +13881,9 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2009-08-30-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 2009",
+    "title": "Landtagswahl Thüringen 2009",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "2009-08-30T00:00:00",
     "results": {
       "CDU": {
@@ -14143,7 +13902,7 @@
         "votes": 80600,
         "pct": 7.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 64912,
         "pct": 6.2
       },
@@ -14155,7 +13914,7 @@
         "votes": 40811,
         "pct": 3.9
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 4455,
         "pct": 0.4
       },
@@ -14167,39 +13926,30 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2014-09-14-LT-DE-TH/index.shtml",
-    "title": "Landtagswahl Th\u00fcringen 2014",
+    "title": "Landtagswahl Thüringen 2014",
     "kind": "Landtagswahl",
-    "territory": "Th\u00fcringen",
+    "territory": "Thüringen",
     "date": "2014-09-14T00:00:00",
     "results": {
       "CDU": {
         "votes": 315104,
-        "pct": 33.5,
-        "mandates": 34
+        "pct": 33.5
       },
       "Linke": {
         "votes": 265428,
-        "pct": 28.2,
-        "mandates": 28,
-				"government": true
+        "pct": 28.2
       },
       "SPD": {
         "votes": 116889,
-        "pct": 12.4,
-        "mandates": 12,
-				"government": true
+        "pct": 12.4
       },
       "AfD": {
         "votes": 99545,
-        "pct": 10.6,
-        "mandates": 11
+        "pct": 10.6
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 53407,
-        "pct": 5.7,
-        "mandates": 6,
-				"government": true,
-        "government": true
+        "pct": 5.7
       },
       "NPD": {
         "votes": 34049,
@@ -14240,46 +13990,39 @@
     "results": {
       "CDU": {
         "votes": 12447656,
-        "pct": 26.8,
-        "mandates": 190
+        "pct": 26.76
       },
       "SPD": {
         "votes": 9539381,
-        "pct": 20.5,
-        "mandates": 153
+        "pct": 20.51
       },
       "AfD": {
         "votes": 5878115,
-        "pct": 12.6,
-        "mandates": 94
+        "pct": 12.64
       },
       "FDP": {
         "votes": 4999449,
-        "pct": 10.7,
-        "mandates": 80
+        "pct": 10.75
       },
-      "DIE LINKE": {
+      "Linke": {
         "votes": 4297270,
-        "pct": 9.2,
-        "mandates": 69
+        "pct": 9.24
       },
-      "GR\u00dcNE": {
+      "Grüne": {
         "votes": 4158400,
-        "pct": 8.9,
-        "mandates": 67
+        "pct": 8.94
       },
       "CSU": {
         "votes": 2869688,
-        "pct": 6.2,
-        "mandates": 56
+        "pct": 6.17
       },
-      "FREIE W\u00c4HLER": {
+      "FW": {
         "votes": 463292,
         "pct": 1.0
       },
-      "Die PARTEI": {
+      "Die Partei": {
         "votes": 454349,
-        "pct": 1.0
+        "pct": 0.98
       },
       "Tierschutzpartei": {
         "votes": 374179,
@@ -14287,85 +14030,85 @@
       },
       "NPD": {
         "votes": 176020,
-        "pct": 0.4
+        "pct": 0.38
       },
-      "PIRATEN": {
+      "Piraten": {
         "votes": 173476,
-        "pct": 0.4
+        "pct": 0.37
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 144809,
-        "pct": 0.3
+        "pct": 0.31
       },
       "BGE": {
         "votes": 97539,
-        "pct": 0.2
+        "pct": 0.21
       },
-      "V-Partei\u00b3": {
+      "V-Partei": {
         "votes": 64073,
-        "pct": 0.1
+        "pct": 0.14
       },
       "DM": {
         "votes": 63203,
-        "pct": 0.1
+        "pct": 0.14
       },
       "DiB": {
         "votes": 60914,
-        "pct": 0.1
+        "pct": 0.13
       },
       "BP": {
         "votes": 58037,
-        "pct": 0.1
+        "pct": 0.12
       },
       "AD-Demokraten": {
         "votes": 41251,
-        "pct": 0.1
+        "pct": 0.09
       },
       "Tierschutzallianz": {
         "votes": 32221,
-        "pct": 0.1
+        "pct": 0.07
       },
       "MLPD": {
         "votes": 29785,
-        "pct": 0.1
+        "pct": 0.06
       },
       "Gesundheitsforschung": {
         "votes": 23404,
-        "pct": 0.1
+        "pct": 0.05
+      },
+      "MENSCHLICHE WELT": {
+        "votes": 11558,
+        "pct": 0.03
       },
       "DKP": {
-        "votes": 11558,
-        "pct": 0.0
-      },
-      "MenschlicheWelt": {
         "votes": 11661,
-        "pct": 0.0
+        "pct": 0.02
+      },
+      "Die Grauen": {
+        "votes": 9631,
+        "pct": 0.02
       },
       "Volksabstimmung": {
-        "votes": 9631,
-        "pct": 0.0
-      },
-      "DieGrauen": {
         "votes": 10009,
-        "pct": 0.0
+        "pct": 0.02
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 6693,
-        "pct": 0.0
+        "pct": 0.01
       },
-      "DieHumanisten": {
+      "Die Humanisten": {
         "votes": 5991,
-        "pct": 0.0
+        "pct": 0.01
       },
       "MG": {
         "votes": 5617,
-        "pct": 0.0
+        "pct": 0.01
       },
       "du.": {
         "votes": 3032,
-        "pct": 0.0
+        "pct": 0.01
       },
-      "DIERECHTE": {
+      "DIE RECHTE": {
         "votes": 2054,
         "pct": 0.0
       },
@@ -14373,54 +14116,18 @@
         "votes": 1291,
         "pct": 0.0
       },
-      "Bergpartei": {
+      "B*": {
         "votes": 911,
         "pct": 0.0
       },
       "PDV": {
         "votes": 533,
         "pct": 0.0
-      },
-      "B\u00fcndnisC": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "DieEinheit": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "DieVioletten": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "Familie": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "DieFrauen": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "Mieterpartei": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "NeueLiberale": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "UNABH\u00c4NGIGE": {
-        "votes": 0.0,
-        "pct": 0.0
-      },
-      "\u00dcbrige": {
-        "votes": 0.0,
-        "pct": 0.0
       }
     }
   },
   {
-    "url": "https://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml",
+    "url": "https://de.wikipedia.org/wiki/Landtagswahl im Saarland 2017",
     "title": "Landtagswahl im Saarland 2017",
     "kind": "Landtagswahl",
     "territory": "Saarland",
@@ -14428,27 +14135,21 @@
     "results": {
       "CDU": {
         "votes": 217263,
-        "pct": 40.7,
-        "mandates": 24,
-				"government": true
+        "pct": 40.7
       },
       "SPD": {
         "votes": 158057,
-        "pct": 29.61,
-        "mandates": 17,
-				"government": true
+        "pct": 29.61
       },
       "Die LINKE": {
         "votes": 68566,
-        "pct": 12.85,
-        "mandates": 7
+        "pct": 12.85
       },
       "AfD": {
         "votes": 32971,
-        "pct": 6.18,
-        "mandates": 3
+        "pct": 6.18
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 21392,
         "pct": 4.01
       },
@@ -14468,7 +14169,7 @@
         "votes": 3744,
         "pct": 0.7
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 2146,
         "pct": 0.4
       },
@@ -14499,7 +14200,7 @@
     }
   },
   {
-    "url": "https://wahl.tagesschau.de/wahlen/2017-05-07-LT-DE-SH/index.shtml",
+    "url": "https://de.wikipedia.org/wiki/Landtagswahl in Schleswig-Holstein 2017",
     "title": "Landtagswahl in Schleswig-Holstein 2017",
     "kind": "Landtagswahl",
     "territory": "Schleswig-Holstein",
@@ -14507,26 +14208,19 @@
     "results": {
       "CDU": {
         "votes": 471460,
-        "pct": 32.0,
-        "mandates": 25,
-				"government": true
+        "pct": 32.0
       },
       "SPD": {
         "votes": 401806,
-        "pct": 27.3,
-        "mandates": 21
+        "pct": 27.3
       },
-      "GR\u00dcNE": {
+      "GRÜNE": {
         "votes": 190181,
-        "pct": 12.9,
-        "mandates": 10,
-				"government": true
+        "pct": 12.9
       },
       "FDP": {
         "votes": 169037,
-        "pct": 11.5,
-        "mandates": 9,
-				"government": true
+        "pct": 11.5
       },
       "PIRATEN": {
         "votes": 17091,
@@ -14534,8 +14228,7 @@
       },
       "SSW": {
         "votes": 48968,
-        "pct": 3.3,
-        "mandates": 3
+        "pct": 3.3
       },
       "DIE LINKE": {
         "votes": 56018,
@@ -14545,14 +14238,13 @@
         "votes": 9262,
         "pct": 0.6
       },
-      "FREIE W\u00c4HLER": {
+      "FREIE WÄHLER": {
         "votes": 8369,
         "pct": 0.6
       },
       "AfD": {
         "votes": 86711,
-        "pct": 5.9,
-        "mandates": 5
+        "pct": 5.9
       },
       "LKR": {
         "votes": 3053,
@@ -14569,7 +14261,7 @@
     }
   },
   {
-    "url": "http://wahl.tagesschau.de/wahlen/2017-05-14-LT-DE-NW/index.shtml",
+    "url": "de.wikipedia.org/wiki/Landtagswahl in Nordrhein-Westfalen 2017",
     "title": "Landtagswahl in Nordrhein-Westfalen 2017",
     "kind": "Landtagswahl",
     "territory": "Nordrhein-Westfalen",
@@ -14577,30 +14269,23 @@
     "results": {
       "CDU": {
         "votes": 2796683,
-        "pct": 32.95,
-        "mandates": 72,
-				"government": true
+        "pct": 32.95
       },
       "SPD": {
         "votes": 2649205,
-        "pct": 31.21,
-        "mandates": 69
+        "pct": 31.21
       },
       "FDP": {
         "votes": 1065307,
-        "pct": 12.55,
-        "mandates": 28,
-				"government": true
+        "pct": 12.55
       },
       "AfD": {
         "votes": 626756,
-        "pct": 7.38,
-        "mandates": 16
+        "pct": 7.38
       },
-      "Gr\u00fcne": {
+      "Grüne": {
         "votes": 539062,
-        "pct": 6.35,
-        "mandates": 14
+        "pct": 6.35
       },
       "Die Linke": {
         "votes": 415936,
@@ -14618,7 +14303,7 @@
         "votes": 54990,
         "pct": 0.65
       },
-      "Freie W\u00e4hler": {
+      "Freie Wähler": {
         "votes": 33083,
         "pct": 0.39
       },
@@ -14630,7 +14315,7 @@
         "votes": 17421,
         "pct": 0.21
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 13288,
         "pct": 0.16
       },
@@ -14638,7 +14323,7 @@
         "votes": 12688,
         "pct": 0.15
       },
-      "V-Partei\u00b3": {
+      "V-Partei³": {
         "votes": 10013,
         "pct": 0.12
       },
@@ -14674,7 +14359,7 @@
         "votes": 5260,
         "pct": 0.06
       },
-      "Sch\u00f6ner Leben": {
+      "Schöner Leben": {
         "votes": 5162,
         "pct": 0.06
       },
@@ -14698,7 +14383,7 @@
         "votes": 2877,
         "pct": 0.03
       },
-      "Parteilose WG \u201eBRD\u201c": {
+      "Parteilose WG „BRD“": {
         "votes": 2002,
         "pct": 0.02
       },
@@ -14725,7 +14410,7 @@
     }
   },
   {
-    "url": "https://wahl.tagesschau.de/wahlen/2016-09-18-LT-DE-BE/index.shtml",
+    "url": "https://de.wikipedia.org/wiki/Landtagswahl in Berlin 2016",
     "title": "Landtagswahl in Berlin 2016",
     "kind": "Landtagswahl",
     "territory": "Berlin",
@@ -14733,36 +14418,27 @@
     "results": {
       "SPD": {
         "votes": 352430,
-        "pct": 21.6,
-        "mandates": 38,
-        "government": true
+        "pct": 21.6
       },
       "CDU": {
         "votes": 287997,
-        "pct": 17.6,
-        "mandates": 31
+        "pct": 17.6
       },
       "DIE LINKE": {
         "votes": 255701,
-        "pct": 15.6,
-        "mandates": 27,
-        "government": true
+        "pct": 15.6
       },
-      "GR\u00dcNE": {
+      "GRÜNE": {
         "votes": 248324,
-        "pct": 15.2,
-        "mandates": 27,
-        "government": true
+        "pct": 15.2
       },
       "AfD": {
         "votes": 231492,
-        "pct": 14.2,
-        "mandates": 25
+        "pct": 14.2
       },
       "FDP": {
         "votes": 109500,
-        "pct": 6.7,
-        "mandates": 12
+        "pct": 6.7
       },
       "Die PARTEI": {
         "votes": 31924,
@@ -14804,7 +14480,7 @@
         "votes": 2046,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 1286,
         "pct": 0.1
       },
@@ -14820,14 +14496,14 @@
         "votes": 636,
         "pct": 0.0
       },
-      "\u00f6dp": {
+      "ödp": {
         "votes": 295,
         "pct": 0.0
       }
     }
   },
   {
-    "url": "https://wahl.tagesschau.de/wahlen/2014-05-25-EP-DE/index.shtml",
+    "url": "https://de.wikipedia.org/wiki/Europawahl in Deutschland 2014",
     "title": "Europawahl in Deutschland 2014",
     "kind": "Europawahl",
     "territory": "Europa",
@@ -14835,73 +14511,59 @@
     "results": {
       "CDU": {
         "votes": 8812653,
-        "pct": 30.0,
-        "mandates": 29
+        "pct": 30.0
       },
       "SPD": {
         "votes": 8003628,
-        "pct": 27.3,
-        "mandates": 27
+        "pct": 27.3
       },
-      "GR\u00dcNE": {
+      "GRÜNE": {
         "votes": 3139274,
-        "pct": 10.7,
-        "mandates": 11
+        "pct": 10.7
       },
       "DIE LINKE": {
         "votes": 2168455,
-        "pct": 7.4,
-        "mandates": 7
+        "pct": 7.4
       },
       "AfD": {
         "votes": 2070014,
-        "pct": 7.1,
-        "mandates": 7
+        "pct": 7.1
       },
       "CSU": {
         "votes": 1567448,
-        "pct": 5.3,
-        "mandates": 5
+        "pct": 5.3
       },
       "FDP": {
         "votes": 986841,
-        "pct": 3.4,
-        "mandates": 3
+        "pct": 3.4
       },
-      "FREIE W\u00c4HLER": {
+      "FREIE WÄHLER": {
         "votes": 428800,
-        "pct": 1.5,
-        "mandates": 1
+        "pct": 1.5
       },
       "PIRATEN": {
         "votes": 425044,
-        "pct": 1.4,
-        "mandates": 1
+        "pct": 1.4
       },
       "Tierschutzpartei": {
         "votes": 366598,
-        "pct": 1.2,
-        "mandates": 1
+        "pct": 1.2
       },
       "NPD": {
         "votes": 301139,
-        "pct": 1.0,
-        "mandates": 1
+        "pct": 1.0
       },
       "FAMILIE": {
         "votes": 202803,
-        "pct": 0.7,
-        "mandates": 1
+        "pct": 0.7
       },
-      "\u00d6DP": {
+      "ÖDP": {
         "votes": 185244,
-        "pct": 0.6,
-        "mandates": 1
+        "pct": 0.6
       },
       "Die PARTEI": {
         "votes": 184709,
-        "pct": 0.6,
-        "mandates": 1
+        "pct": 0.6
       },
       "REP": {
         "votes": 109757,
@@ -14939,11 +14601,11 @@
         "votes": 18198,
         "pct": 0.1
       },
-      "B\u00fcSo": {
+      "BüSo": {
         "votes": 10369,
         "pct": 0.0
       },
-      "PSG": {
+      "PSG ": {
         "votes": 8924,
         "pct": 0.0
       }
