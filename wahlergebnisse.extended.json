@@ -946,19 +946,25 @@
     "results": {
       "SPD": {
         "votes": 18488668,
-        "pct": 38.5
+        "pct": 38.5,
+        "mandates": 251,
+        "government": true
       },
       "Union": {
         "votes": 18482641,
-        "pct": 38.5
+        "pct": 38.5,
+        "mandates": 248
       },
       "Gr\u00fcne": {
         "votes": 4110355,
-        "pct": 8.6
+        "pct": 8.6,
+        "mandates": 55,
+        "government": true
       },
       "FDP": {
         "votes": 3538815,
-        "pct": 7.4
+        "pct": 7.4,
+        "mandates": 47
       },
       "PDS": {
         "votes": 1916702,
@@ -1047,23 +1053,30 @@
     "results": {
       "Union": {
         "votes": 16631049,
-        "pct": 35.2
+        "pct": 35.2,
+        "mandates": 226,
+        "government": true
       },
       "SPD": {
         "votes": 16194665,
-        "pct": 34.2
+        "pct": 34.2,
+        "mandates": 222,
+        "government": true
       },
       "FDP": {
         "votes": 4648144,
-        "pct": 9.8
+        "pct": 9.8,
+        "mandates": 61
       },
       "Linke": {
         "votes": 4118194,
-        "pct": 8.7
+        "pct": 8.7,
+        "mandates": 54
       },
       "Gr\u00fcne": {
         "votes": 3838326,
-        "pct": 8.1
+        "pct": 8.1,
+        "mandates": 51
       },
       "NPD": {
         "votes": 748568,
@@ -1152,23 +1165,30 @@
     "results": {
       "Union": {
         "votes": 14658515,
-        "pct": 33.8
+        "pct": 33.8,
+        "mandates": 239,
+        "government": true
       },
       "SPD": {
         "votes": 9990488,
-        "pct": 23.0
+        "pct": 23.0,
+        "mandates": 146
       },
       "FDP": {
         "votes": 6316080,
-        "pct": 14.6
+        "pct": 14.6,
+        "mandates": 93,
+        "government": true
       },
       "Linke": {
         "votes": 5155933,
-        "pct": 11.9
+        "pct": 11.9,
+        "mandates": 76
       },
       "Gr\u00fcne": {
         "votes": 4643272,
-        "pct": 10.7
+        "pct": 10.7,
+        "mandates": 68
       },
       "Piraten": {
         "votes": 847870,
@@ -1265,19 +1285,25 @@
     "results": {
       "Union": {
         "votes": 18165446,
-        "pct": 41.5
+        "pct": 41.5,
+        "mandates": 311,
+        "government": true
       },
       "SPD": {
         "votes": 11252215,
-        "pct": 25.7
+        "pct": 25.7,
+        "mandates": 193,
+        "government": true
       },
       "Linke": {
         "votes": 3755699,
-        "pct": 8.6
+        "pct": 8.6,
+        "mandates": 64
       },
       "Gr\u00fcne": {
         "votes": 3694057,
-        "pct": 8.4
+        "pct": 8.4,
+        "mandates": 63
       },
       "FDP": {
         "votes": 2083533,
@@ -1860,27 +1886,33 @@
     "results": {
       "CDU": {
         "votes": 9412997,
-        "pct": 36.5
+        "pct": 36.5,
+        "mandates": 40
       },
       "SPD": {
         "votes": 5547971,
-        "pct": 21.5
+        "pct": 21.5,
+        "mandates": 23
       },
       "Gr\u00fcne": {
         "votes": 3079728,
-        "pct": 11.9
+        "pct": 11.9,
+        "mandates": 13
       },
       "CSU": {
         "votes": 2063900,
-        "pct": 8.0
+        "pct": 8.0,
+        "mandates": 9
       },
       "FDP": {
         "votes": 1565431,
-        "pct": 6.1
+        "pct": 6.1,
+        "mandates": 7
       },
       "PDS": {
         "votes": 1579109,
-        "pct": 6.1
+        "pct": 6.1,
+        "mandates": 7
       },
       "REP": {
         "votes": 485662,
@@ -1965,27 +1997,33 @@
     "results": {
       "CDU": {
         "votes": 8071391,
-        "pct": 30.7
+        "pct": 30.7,
+        "mandates": 34
       },
       "SPD": {
         "votes": 5472566,
-        "pct": 20.8
+        "pct": 20.8,
+        "mandates": 23
       },
       "Gr\u00fcne": {
         "votes": 3194509,
-        "pct": 12.1
+        "pct": 12.1,
+        "mandates": 14
       },
       "FDP": {
         "votes": 2888084,
-        "pct": 11.0
+        "pct": 11.0,
+        "mandates": 12
       },
       "Linke": {
         "votes": 1969239,
-        "pct": 7.5
+        "pct": 7.5,
+        "mandates": 8
       },
       "CSU": {
         "votes": 1896762,
-        "pct": 7.2
+        "pct": 7.2,
+        "mandates": 8
       },
       "FW": {
         "votes": 442579,
@@ -2878,19 +2916,25 @@
     "results": {
       "CDU": {
         "votes": 1748766,
-        "pct": 44.2
+        "pct": 44.2,
+        "mandates": 69,
+        "government": true
       },
       "SPD": {
         "votes": 996207,
-        "pct": 25.2
+        "pct": 25.2,
+        "mandates": 38
       },
       "Gr\u00fcne": {
         "votes": 462889,
-        "pct": 11.7
+        "pct": 11.7,
+        "mandates": 17
       },
       "FDP": {
         "votes": 421994,
-        "pct": 10.7
+        "pct": 10.7,
+        "mandates": 15,
+        "government": true
       },
       "WASG": {
         "votes": 121753,
@@ -2967,19 +3011,25 @@
     "results": {
       "CDU": {
         "votes": 1943912,
-        "pct": 39.0
+        "pct": 39.0,
+        "mandates": 60
       },
       "Gr\u00fcne": {
         "votes": 1206182,
-        "pct": 24.2
+        "pct": 24.2,
+        "mandates": 36,
+        "government": true
       },
       "SPD": {
         "votes": 1152594,
-        "pct": 23.1
+        "pct": 23.1,
+        "mandates": 35,
+        "government": true
       },
       "FDP": {
         "votes": 262784,
-        "pct": 5.3
+        "pct": 5.3,
+        "mandates": 7
       },
       "Linke": {
         "votes": 139700,
@@ -3052,23 +3102,30 @@
     "results": {
       "Gr\u00fcne": {
         "votes": 1623107,
-        "pct": 30.3
+        "pct": 30.3,
+        "mandates": 47,
+        "government": true
       },
       "CDU": {
         "votes": 1447462,
-        "pct": 27.0
+        "pct": 27.0,
+        "mandates": 42,
+        "government": true
       },
       "AfD": {
         "votes": 809564,
-        "pct": 15.1
+        "pct": 15.1,
+        "mandates": 23
       },
       "SPD": {
         "votes": 679727,
-        "pct": 12.7
+        "pct": 12.7,
+        "mandates": 19
       },
       "FDP": {
         "votes": 445498,
-        "pct": 8.3
+        "pct": 8.3,
+        "mandates": 12
       },
       "Linke": {
         "votes": 156240,
@@ -3871,15 +3928,19 @@
     "results": {
       "CSU": {
         "votes": 6217864,
-        "pct": 60.7
+        "pct": 60.7,
+        "mandates": 124,
+        "government": true
       },
       "SPD": {
         "votes": 2012265,
-        "pct": 19.6
+        "pct": 19.6,
+        "mandates": 41
       },
       "Gr\u00fcne": {
         "votes": 793050,
-        "pct": 7.7
+        "pct": 7.7,
+        "mandates": 15
       },
       "FW": {
         "votes": 411306,
@@ -4001,19 +4062,24 @@
     "results": {
       "CSU": {
         "votes": 5636425,
-        "pct": 47.7
+        "pct": 47.7,
+        "mandates": 101,
+        "government": true
       },
       "SPD": {
         "votes": 2437401,
-        "pct": 20.6
+        "pct": 20.6,
+        "mandates": 42
       },
       "FW": {
         "votes": 1062553,
-        "pct": 9.0
+        "pct": 9.0,
+        "mandates": 19
       },
       "Gr\u00fcne": {
         "votes": 1019373,
-        "pct": 8.6
+        "pct": 8.6,
+        "mandates": 18
       },
       "FDP": {
         "votes": 390038,
@@ -4787,23 +4853,30 @@
     "results": {
       "SPD": {
         "votes": 424054,
-        "pct": 30.8
+        "pct": 30.8,
+        "mandates": 53,
+        "government": true
       },
       "CDU": {
         "votes": 294026,
-        "pct": 21.3
+        "pct": 21.3,
+        "mandates": 37
       },
       "Linke": {
         "votes": 185185,
-        "pct": 13.4
+        "pct": 13.4,
+        "mandates": 23,
+        "government": true
       },
       "Gr\u00fcne": {
         "votes": 180865,
-        "pct": 13.1
+        "pct": 13.1,
+        "mandates": 23
       },
       "FDP": {
         "votes": 104584,
-        "pct": 7.6
+        "pct": 7.6,
+        "mandates": 13
       },
       "Graue": {
         "votes": 52884,
@@ -4888,23 +4961,30 @@
     "results": {
       "SPD": {
         "votes": 413332,
-        "pct": 28.3
+        "pct": 28.3,
+        "mandates": 47,
+        "government": true
       },
       "CDU": {
         "votes": 341158,
-        "pct": 23.3
+        "pct": 23.3,
+        "mandates": 39,
+        "government": true
       },
       "Gr\u00fcne": {
         "votes": 257063,
-        "pct": 17.6
+        "pct": 17.6,
+        "mandates": 29
       },
       "Linke": {
         "votes": 171050,
-        "pct": 11.7
+        "pct": 11.7,
+        "mandates": 19
       },
       "Piraten": {
         "votes": 130105,
-        "pct": 8.9
+        "pct": 8.9,
+        "mandates": 15
       },
       "NPD": {
         "votes": 31241,
@@ -5278,27 +5358,35 @@
     "results": {
       "SPD": {
         "votes": 315202,
-        "pct": 31.9
+        "pct": 31.9,
+        "mandates": 30,
+        "government": true
       },
       "CDU": {
         "votes": 226835,
-        "pct": 23.0
+        "pct": 23.0,
+        "mandates": 21
       },
       "Linke": {
         "votes": 183178,
-        "pct": 18.6
+        "pct": 18.6,
+        "mandates": 17,
+        "government": true
       },
       "AfD": {
         "votes": 120077,
-        "pct": 12.2
+        "pct": 12.2,
+        "mandates": 11
       },
       "Gr\u00fcne": {
         "votes": 60767,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 6
       },
       "BVB/FW": {
         "votes": 26317,
-        "pct": 2.7
+        "pct": 2.7,
+        "mandates": 3
       },
       "NPD": {
         "votes": 21605,
@@ -6019,27 +6107,35 @@
     "results": {
       "SPD": {
         "votes": 101290,
-        "pct": 36.7
+        "pct": 36.7,
+        "mandates": 32,
+        "government": true
       },
       "CDU": {
         "votes": 70728,
-        "pct": 25.6
+        "pct": 25.6,
+        "mandates": 23
       },
       "Gr\u00fcne": {
         "votes": 45493,
-        "pct": 16.5
+        "pct": 16.5,
+        "mandates": 14,
+        "government": true
       },
       "Linke": {
         "votes": 23282,
-        "pct": 8.4
+        "pct": 8.4,
+        "mandates": 7
       },
       "FDP": {
         "votes": 16486,
-        "pct": 6.0
+        "pct": 6.0,
+        "mandates": 5
       },
       "DVU": {
         "votes": 7536,
-        "pct": 2.7
+        "pct": 2.7,
+        "mandates": 1
       },
       "Die Konservativen": {
         "votes": 4462,
@@ -6047,7 +6143,8 @@
       },
       "BIW": {
         "votes": 2336,
-        "pct": 0.8
+        "pct": 0.8,
+        "mandates": 1
       },
       "Die Frauen": {
         "votes": 1318,
@@ -6080,23 +6177,30 @@
     "results": {
       "SPD": {
         "votes": 505348,
-        "pct": 38.6
+        "pct": 38.6,
+        "mandates": 36,
+        "government": true
       },
       "Gr\u00fcne": {
         "votes": 293993,
-        "pct": 22.5
+        "pct": 22.5,
+        "mandates": 21,
+        "government": true
       },
       "CDU": {
         "votes": 266483,
-        "pct": 20.4
+        "pct": 20.4,
+        "mandates": 20
       },
       "Linke": {
         "votes": 73769,
-        "pct": 5.6
+        "pct": 5.6,
+        "mandates": 5
       },
       "BIW": {
         "votes": 48530,
-        "pct": 3.7
+        "pct": 3.7,
+        "mandates": 1
       },
       "FDP": {
         "votes": 31176,
@@ -6153,31 +6257,40 @@
     "results": {
       "SPD": {
         "votes": 383509,
-        "pct": 32.8
+        "pct": 32.8,
+        "mandates": 30,
+        "government": true
       },
       "CDU": {
         "votes": 261929,
-        "pct": 22.4
+        "pct": 22.4,
+        "mandates": 20
       },
       "Gr\u00fcne": {
         "votes": 176807,
-        "pct": 15.1
+        "pct": 15.1,
+        "mandates": 14,
+        "government": true
       },
       "Linke": {
         "votes": 111485,
-        "pct": 9.5
+        "pct": 9.5,
+        "mandates": 8
       },
       "FDP": {
         "votes": 76754,
-        "pct": 6.6
+        "pct": 6.6,
+        "mandates": 6
       },
       "AfD": {
         "votes": 64368,
-        "pct": 5.5
+        "pct": 5.5,
+        "mandates": 4
       },
       "BIW": {
         "votes": 37759,
-        "pct": 3.2
+        "pct": 3.2,
+        "mandates": 1
       },
       "Die Partei": {
         "votes": 21888,
@@ -7102,19 +7215,25 @@
     "results": {
       "CDU": {
         "votes": 331067,
-        "pct": 42.6
+        "pct": 42.6,
+        "mandates": 56,
+				"government": true
       },
       "SPD": {
         "votes": 265516,
-        "pct": 34.1
+        "pct": 34.1,
+        "mandates": 45
       },
       "Gr\u00fcne/GAL": {
         "votes": 74472,
-        "pct": 9.6
+        "pct": 9.6,
+        "mandates": 12,
+				"government": true
       },
       "Linke": {
         "votes": 50132,
-        "pct": 6.4
+        "pct": 6.4,
+        "mandates": 8
       },
       "FDP": {
         "votes": 36953,
@@ -7167,23 +7286,29 @@
     "results": {
       "SPD": {
         "votes": 1667804,
-        "pct": 48.4
+        "pct": 48.4,
+        "mandates": 62,
+        "government": true
       },
       "CDU": {
         "votes": 753805,
-        "pct": 21.9
+        "pct": 21.9,
+        "mandates": 28
       },
       "Gr\u00fcne": {
         "votes": 384502,
-        "pct": 11.2
+        "pct": 11.2,
+        "mandates": 14
       },
       "FDP": {
         "votes": 229125,
-        "pct": 6.7
+        "pct": 6.7,
+        "mandates": 9
       },
       "Linke": {
         "votes": 220428,
-        "pct": 6.4
+        "pct": 6.4,
+        "mandates": 8
       },
       "Piraten": {
         "votes": 73126,
@@ -7228,27 +7353,35 @@
     "results": {
       "SPD": {
         "votes": 1611274,
-        "pct": 45.6
+        "pct": 45.6,
+        "mandates": 58,
+        "government": true
       },
       "CDU": {
         "votes": 561377,
-        "pct": 15.9
+        "pct": 15.9,
+        "mandates": 20
       },
       "Gr\u00fcne": {
         "votes": 432713,
-        "pct": 12.3
+        "pct": 12.3,
+        "mandates": 15,
+        "government": true
       },
       "Linke": {
         "votes": 300567,
-        "pct": 8.5
+        "pct": 8.5,
+        "mandates": 11
       },
       "FDP": {
         "votes": 262157,
-        "pct": 7.4
+        "pct": 7.4,
+        "mandates": 9
       },
       "AfD": {
         "votes": 214833,
-        "pct": 6.1
+        "pct": 6.1,
+        "mandates": 8
       },
       "Piraten": {
         "votes": 54802,
@@ -9485,23 +9618,30 @@
     "results": {
       "CDU": {
         "votes": 1456742,
-        "pct": 42.5
+        "pct": 42.5,
+        "mandates": 68,
+				"government": true
       },
       "SPD": {
         "votes": 1036727,
-        "pct": 30.3
+        "pct": 30.3,
+        "mandates": 48
       },
       "FDP": {
         "votes": 279826,
-        "pct": 8.2
+        "pct": 8.2,
+        "mandates": 13,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 274221,
-        "pct": 8.0
+        "pct": 8.0,
+        "mandates": 12
       },
       "Linke": {
         "votes": 243361,
-        "pct": 7.1
+        "pct": 7.1,
+        "mandates": 11
       },
       "NPD": {
         "votes": 52986,
@@ -9550,19 +9690,25 @@
     "results": {
       "CDU": {
         "votes": 1287549,
-        "pct": 36.0
+        "pct": 36.0,
+        "mandates": 54
       },
       "SPD": {
         "votes": 1165419,
-        "pct": 32.6
+        "pct": 32.6,
+        "mandates": 49,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 489473,
-        "pct": 13.7
+        "pct": 13.7,
+        "mandates": 20,
+				"government": true
       },
       "FDP": {
         "votes": 354970,
-        "pct": 9.9
+        "pct": 9.9,
+        "mandates": 14
       },
       "Linke": {
         "votes": 112212,
@@ -10396,19 +10542,25 @@
     "results": {
       "CDU": {
         "votes": 3696506,
-        "pct": 44.8
+        "pct": 44.8,
+        "mandates": 89,
+				"government": true
       },
       "SPD": {
         "votes": 3058988,
-        "pct": 37.1
+        "pct": 37.1,
+        "mandates": 74
       },
       "FDP": {
         "votes": 508266,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 12,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 509293,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 12
       },
       "WASG": {
         "votes": 181988,
@@ -10505,23 +10657,30 @@
     "results": {
       "CDU": {
         "votes": 2681700,
-        "pct": 34.6
+        "pct": 34.6,
+        "mandates": 67
       },
       "SPD": {
         "votes": 2675818,
-        "pct": 34.5
+        "pct": 34.5,
+        "mandates": 67,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 941162,
-        "pct": 12.1
+        "pct": 12.1,
+        "mandates": 23,
+				"government": true
       },
       "FDP": {
         "votes": 522229,
-        "pct": 6.7
+        "pct": 6.7,
+        "mandates": 13
       },
       "Linke": {
         "votes": 435627,
-        "pct": 5.6
+        "pct": 5.6,
+        "mandates": 11
       },
       "Piraten": {
         "votes": 121046,
@@ -10614,23 +10773,30 @@
     "results": {
       "SPD": {
         "votes": 3049983,
-        "pct": 39.1
+        "pct": 39.1,
+        "mandates": 99,
+				"government": true
       },
       "CDU": {
         "votes": 2050321,
-        "pct": 26.3
+        "pct": 26.3,
+        "mandates": 67
       },
       "Gr\u00fcne": {
         "votes": 884298,
-        "pct": 11.3
+        "pct": 11.3,
+        "mandates": 29,
+				"government": true
       },
       "FDP": {
         "votes": 670082,
-        "pct": 8.6
+        "pct": 8.6,
+        "mandates": 22
       },
       "Piraten": {
         "votes": 609176,
-        "pct": 7.8
+        "pct": 7.8,
+        "mandates": 20
       },
       "Linke": {
         "votes": 194428,
@@ -11241,15 +11407,19 @@
     "results": {
       "SPD": {
         "votes": 799377,
-        "pct": 45.6
+        "pct": 45.6,
+        "mandates": 53,
+				"government": true
       },
       "CDU": {
         "votes": 574329,
-        "pct": 32.8
+        "pct": 32.8,
+        "mandates": 38
       },
       "FDP": {
         "votes": 140865,
-        "pct": 8.0
+        "pct": 8.0,
+        "mandates": 10
       },
       "Gr\u00fcne": {
         "votes": 81411,
@@ -11310,15 +11480,20 @@
     "results": {
       "SPD": {
         "votes": 666817,
-        "pct": 35.7
+        "pct": 35.7,
+        "mandates": 42,
+				"government": true
       },
       "CDU": {
         "votes": 658474,
-        "pct": 35.2
+        "pct": 35.2,
+        "mandates": 41
       },
       "Gr\u00fcne": {
         "votes": 288489,
-        "pct": 15.4
+        "pct": 15.4,
+        "mandates": 18,
+				"government": true
       },
       "FDP": {
         "votes": 79343,
@@ -11367,23 +11542,31 @@
     "results": {
       "SPD": {
         "votes": 771848,
-        "pct": 36.2
+        "pct": 36.2,
+        "mandates": 39,
+				"government": true
       },
       "CDU": {
         "votes": 677507,
-        "pct": 31.8
+        "pct": 31.8,
+        "mandates": 35
       },
       "AfD": {
         "votes": 268628,
-        "pct": 12.6
+        "pct": 12.6,
+        "mandates": 14
       },
       "FDP": {
         "votes": 132294,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 7,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 113261,
-        "pct": 5.3
+        "pct": 5.3,
+        "mandates": 6,
+				"government": true
       },
       "Linke": {
         "votes": 59970,
@@ -11826,19 +12009,24 @@
     "results": {
       "CDU": {
         "votes": 209690,
-        "pct": 47.5
+        "pct": 47.5,
+        "mandates": 27,
+				"government": true
       },
       "SPD": {
         "votes": 136224,
-        "pct": 30.8
+        "pct": 30.8,
+        "mandates": 18
       },
       "Gr\u00fcne": {
         "votes": 24830,
-        "pct": 5.6
+        "pct": 5.6,
+        "mandates": 3
       },
       "FDP": {
         "votes": 22842,
-        "pct": 5.2
+        "pct": 5.2,
+        "mandates": 3
       },
       "NPD": {
         "votes": 17590,
@@ -11924,23 +12112,30 @@
     "results": {
       "CDU": {
         "votes": 169617,
-        "pct": 35.2
+        "pct": 35.2,
+        "mandates": 19,
+				"government": true
       },
       "SPD": {
         "votes": 147170,
-        "pct": 30.6
+        "pct": 30.6,
+        "mandates": 17,
+				"government": true
       },
       "Linke": {
         "votes": 77612,
-        "pct": 16.1
+        "pct": 16.1,
+        "mandates": 9
       },
       "Piraten": {
         "votes": 35656,
-        "pct": 7.4
+        "pct": 7.4,
+        "mandates": 4
       },
       "Gr\u00fcne": {
         "votes": 24252,
-        "pct": 5.0
+        "pct": 5.0,
+        "mandates": 2
       },
       "Familie": {
         "votes": 8394,
@@ -12148,27 +12343,35 @@
     "results": {
       "CDU": {
         "votes": 855203,
-        "pct": 41.1
+        "pct": 41.1,
+        "mandates": 55,
+				"government": true
       },
       "PDS": {
         "votes": 490488,
-        "pct": 23.6
+        "pct": 23.6,
+        "mandates": 31
       },
       "SPD": {
         "votes": 204438,
-        "pct": 9.8
+        "pct": 9.8,
+        "mandates": 13,
+				"government": true
       },
       "NPD": {
         "votes": 190909,
-        "pct": 9.2
+        "pct": 9.2,
+        "mandates": 12
       },
       "FDP": {
         "votes": 122605,
-        "pct": 5.9
+        "pct": 5.9,
+        "mandates": 7
       },
       "Gr\u00fcne": {
         "votes": 106771,
-        "pct": 5.1
+        "pct": 5.1,
+        "mandates": 6
       },
       "Die Tierschutzpartei": {
         "votes": 34068,
@@ -12282,23 +12485,30 @@
     "results": {
       "CDU": {
         "votes": 645414,
-        "pct": 39.4
+        "pct": 39.4,
+        "mandates": 59,
+				"government": true
       },
       "Linke": {
         "votes": 309581,
-        "pct": 18.9
+        "pct": 18.9,
+        "mandates": 27
       },
       "SPD": {
         "votes": 202396,
-        "pct": 12.4
+        "pct": 12.4,
+        "mandates": 18,
+				"government": true
       },
       "AfD": {
         "votes": 159611,
-        "pct": 9.7
+        "pct": 9.7,
+        "mandates": 14
       },
       "Gr\u00fcne": {
         "votes": 93857,
-        "pct": 5.7
+        "pct": 5.7,
+        "mandates": 8
       },
       "NPD": {
         "votes": 81051,
@@ -12579,19 +12789,25 @@
     "results": {
       "CDU": {
         "votes": 326721,
-        "pct": 36.2
+        "pct": 36.2,
+        "mandates": 40,
+				"government": true
       },
       "Linke": {
         "votes": 217295,
-        "pct": 24.1
+        "pct": 24.1,
+        "mandates": 26
       },
       "SPD": {
         "votes": 192754,
-        "pct": 21.4
+        "pct": 21.4,
+        "mandates": 24,
+				"government": true
       },
       "FDP": {
         "votes": 60209,
-        "pct": 6.7
+        "pct": 6.7,
+        "mandates": 7
       },
       "Gr\u00fcne": {
         "votes": 32117,
@@ -12717,23 +12933,31 @@
     "results": {
       "CDU": {
         "votes": 334139,
-        "pct": 29.8
+        "pct": 29.8,
+        "mandates": 30,
+				"government": true
       },
       "AfD": {
         "votes": 272496,
-        "pct": 24.3
+        "pct": 24.3,
+        "mandates": 25
       },
       "Linke": {
         "votes": 183290,
-        "pct": 16.3
+        "pct": 16.3,
+        "mandates": 16
       },
       "SPD": {
         "votes": 119368,
-        "pct": 10.6
+        "pct": 10.6,
+        "mandates": 11,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 58209,
-        "pct": 5.2
+        "pct": 5.2,
+        "mandates": 5,
+				"government": true
       },
       "FDP": {
         "votes": 54565,
@@ -13477,23 +13701,30 @@
     "results": {
       "CDU": {
         "votes": 576095,
-        "pct": 40.2
+        "pct": 40.2,
+        "mandates": 30,
+				"government": true
       },
       "SPD": {
         "votes": 554879,
-        "pct": 38.7
+        "pct": 38.7,
+        "mandates": 29,
+				"government": true
       },
       "FDP": {
         "votes": 94935,
-        "pct": 6.6
+        "pct": 6.6,
+        "mandates": 4
       },
       "Gr\u00fcne": {
         "votes": 89387,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 4
       },
       "SSW": {
         "votes": 51920,
-        "pct": 3.6
+        "pct": 3.6,
+        "mandates": 2
       },
       "NPD": {
         "votes": 27676,
@@ -13599,27 +13830,37 @@
     "results": {
       "CDU": {
         "votes": 408637,
-        "pct": 30.8
+        "pct": 30.8,
+        "mandates": 22,
+				"government": true
       },
       "SPD": {
         "votes": 404048,
-        "pct": 30.4
+        "pct": 30.4,
+        "mandates": 22,
+				"government": true
       },
       "Gr\u00fcne": {
         "votes": 174953,
-        "pct": 13.2
+        "pct": 13.2,
+        "mandates": 10,
+				"government": true
       },
       "FDP": {
         "votes": 108953,
-        "pct": 8.2
+        "pct": 8.2,
+        "mandates": 6
       },
       "Piraten": {
         "votes": 108902,
-        "pct": 8.2
+        "pct": 8.2,
+        "mandates": 6
       },
       "SSW": {
         "votes": 61025,
-        "pct": 4.6
+        "pct": 4.6,
+        "mandates": 3,
+				"government": true
       },
       "Linke": {
         "votes": 29900,
@@ -13933,23 +14174,32 @@
     "results": {
       "CDU": {
         "votes": 315104,
-        "pct": 33.5
+        "pct": 33.5,
+        "mandates": 34
       },
       "Linke": {
         "votes": 265428,
-        "pct": 28.2
+        "pct": 28.2,
+        "mandates": 28,
+				"government": true
       },
       "SPD": {
         "votes": 116889,
-        "pct": 12.4
+        "pct": 12.4,
+        "mandates": 12,
+				"government": true
       },
       "AfD": {
         "votes": 99545,
-        "pct": 10.6
+        "pct": 10.6,
+        "mandates": 11
       },
       "Gr\u00fcne": {
         "votes": 53407,
-        "pct": 5.7
+        "pct": 5.7,
+        "mandates": 6,
+				"government": true,
+        "government": true
       },
       "NPD": {
         "votes": 34049,
@@ -13990,31 +14240,38 @@
     "results": {
       "CDU": {
         "votes": 12447656,
-        "pct": 26.8
+        "pct": 26.8,
+        "mandates": 190
       },
       "SPD": {
         "votes": 9539381,
-        "pct": 20.5
+        "pct": 20.5,
+        "mandates": 153
       },
       "AfD": {
         "votes": 5878115,
-        "pct": 12.6
+        "pct": 12.6,
+        "mandates": 94
       },
       "FDP": {
         "votes": 4999449,
-        "pct": 10.7
+        "pct": 10.7,
+        "mandates": 80
       },
       "DIE LINKE": {
         "votes": 4297270,
-        "pct": 9.2
+        "pct": 9.2,
+        "mandates": 69
       },
       "GR\u00dcNE": {
         "votes": 4158400,
-        "pct": 8.9
+        "pct": 8.9,
+        "mandates": 67
       },
       "CSU": {
         "votes": 2869688,
-        "pct": 6.2
+        "pct": 6.2,
+        "mandates": 56
       },
       "FREIE W\u00c4HLER": {
         "votes": 463292,
@@ -14171,19 +14428,25 @@
     "results": {
       "CDU": {
         "votes": 217263,
-        "pct": 40.7
+        "pct": 40.7,
+        "mandates": 24,
+				"government": true
       },
       "SPD": {
         "votes": 158057,
-        "pct": 29.61
+        "pct": 29.61,
+        "mandates": 17,
+				"government": true
       },
       "Die LINKE": {
         "votes": 68566,
-        "pct": 12.85
+        "pct": 12.85,
+        "mandates": 7
       },
       "AfD": {
         "votes": 32971,
-        "pct": 6.18
+        "pct": 6.18,
+        "mandates": 3
       },
       "Gr\u00fcne": {
         "votes": 21392,
@@ -14244,19 +14507,26 @@
     "results": {
       "CDU": {
         "votes": 471460,
-        "pct": 32.0
+        "pct": 32.0,
+        "mandates": 25,
+				"government": true
       },
       "SPD": {
         "votes": 401806,
-        "pct": 27.3
+        "pct": 27.3,
+        "mandates": 21
       },
       "GR\u00dcNE": {
         "votes": 190181,
-        "pct": 12.9
+        "pct": 12.9,
+        "mandates": 10,
+				"government": true
       },
       "FDP": {
         "votes": 169037,
-        "pct": 11.5
+        "pct": 11.5,
+        "mandates": 9,
+				"government": true
       },
       "PIRATEN": {
         "votes": 17091,
@@ -14264,7 +14534,8 @@
       },
       "SSW": {
         "votes": 48968,
-        "pct": 3.3
+        "pct": 3.3,
+        "mandates": 3
       },
       "DIE LINKE": {
         "votes": 56018,
@@ -14280,7 +14551,8 @@
       },
       "AfD": {
         "votes": 86711,
-        "pct": 5.9
+        "pct": 5.9,
+        "mandates": 5
       },
       "LKR": {
         "votes": 3053,
@@ -14305,23 +14577,30 @@
     "results": {
       "CDU": {
         "votes": 2796683,
-        "pct": 32.95
+        "pct": 32.95,
+        "mandates": 72,
+				"government": true
       },
       "SPD": {
         "votes": 2649205,
-        "pct": 31.21
+        "pct": 31.21,
+        "mandates": 69
       },
       "FDP": {
         "votes": 1065307,
-        "pct": 12.55
+        "pct": 12.55,
+        "mandates": 28,
+				"government": true
       },
       "AfD": {
         "votes": 626756,
-        "pct": 7.38
+        "pct": 7.38,
+        "mandates": 16
       },
       "Gr\u00fcne": {
         "votes": 539062,
-        "pct": 6.35
+        "pct": 6.35,
+        "mandates": 14
       },
       "Die Linke": {
         "votes": 415936,
@@ -14447,34 +14726,43 @@
   },
   {
     "url": "https://wahl.tagesschau.de/wahlen/2016-09-18-LT-DE-BE/index.shtml",
-    "title": "Landtagswahl in Schleswig-Holstein 2017",
+    "title": "Landtagswahl in Berlin 2016",
     "kind": "Landtagswahl",
     "territory": "Berlin",
     "date": "2016-09-18T00:00:00",
     "results": {
       "SPD": {
         "votes": 352430,
-        "pct": 21.6
+        "pct": 21.6,
+        "mandates": 38,
+        "government": true
       },
       "CDU": {
         "votes": 287997,
-        "pct": 17.6
+        "pct": 17.6,
+        "mandates": 31
       },
       "DIE LINKE": {
         "votes": 255701,
-        "pct": 15.6
+        "pct": 15.6,
+        "mandates": 27,
+        "government": true
       },
       "GR\u00dcNE": {
         "votes": 248324,
-        "pct": 15.2
+        "pct": 15.2,
+        "mandates": 27,
+        "government": true
       },
       "AfD": {
         "votes": 231492,
-        "pct": 14.2
+        "pct": 14.2,
+        "mandates": 25
       },
       "FDP": {
         "votes": 109500,
-        "pct": 6.7
+        "pct": 6.7,
+        "mandates": 12
       },
       "Die PARTEI": {
         "votes": 31924,
@@ -14547,59 +14835,73 @@
     "results": {
       "CDU": {
         "votes": 8812653,
-        "pct": 30.0
+        "pct": 30.0,
+        "mandates": 29
       },
       "SPD": {
         "votes": 8003628,
-        "pct": 27.3
+        "pct": 27.3,
+        "mandates": 27
       },
       "GR\u00dcNE": {
         "votes": 3139274,
-        "pct": 10.7
+        "pct": 10.7,
+        "mandates": 11
       },
       "DIE LINKE": {
         "votes": 2168455,
-        "pct": 7.4
+        "pct": 7.4,
+        "mandates": 7
       },
       "AfD": {
         "votes": 2070014,
-        "pct": 7.1
+        "pct": 7.1,
+        "mandates": 7
       },
       "CSU": {
         "votes": 1567448,
-        "pct": 5.3
+        "pct": 5.3,
+        "mandates": 5
       },
       "FDP": {
         "votes": 986841,
-        "pct": 3.4
+        "pct": 3.4,
+        "mandates": 3
       },
       "FREIE W\u00c4HLER": {
         "votes": 428800,
-        "pct": 1.5
+        "pct": 1.5,
+        "mandates": 1
       },
       "PIRATEN": {
         "votes": 425044,
-        "pct": 1.4
+        "pct": 1.4,
+        "mandates": 1
       },
       "Tierschutzpartei": {
         "votes": 366598,
-        "pct": 1.2
+        "pct": 1.2,
+        "mandates": 1
       },
       "NPD": {
         "votes": 301139,
-        "pct": 1.0
+        "pct": 1.0,
+        "mandates": 1
       },
       "FAMILIE": {
         "votes": 202803,
-        "pct": 0.7
+        "pct": 0.7,
+        "mandates": 1
       },
       "\u00d6DP": {
         "votes": 185244,
-        "pct": 0.6
+        "pct": 0.6,
+        "mandates": 1
       },
       "Die PARTEI": {
         "votes": 184709,
-        "pct": 0.6
+        "pct": 0.6,
+        "mandates": 1
       },
       "REP": {
         "votes": 109757,
