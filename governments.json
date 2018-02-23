@@ -1,0 +1,553 @@
+{
+  "Bundestagswahl 2002": {
+    "mandates": {
+      "SPD": 251,
+      "Union": 248,
+      "Grüne": 55,
+      "FDP": 47
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Bundestagswahl 2005": {
+    "mandates": {
+      "Union": 226,
+      "SPD": 222,
+      "FDP": 61,
+      "Linke": 54,
+      "Grüne": 51
+    },
+    "government": [
+      "Union",
+      "SPD"
+    ]
+  },
+  "Bundestagswahl 2009": {
+    "mandates": {
+      "Union": 239,
+      "SPD": 146,
+      "FDP": 93,
+      "Linke": 76,
+      "Grüne": 68
+    },
+    "government": [
+      "Union",
+      "FDP"
+    ]
+  },
+  "Bundestagswahl 2013": {
+    "mandates": {
+      "Union": 311,
+      "SPD": 193,
+      "Linke": 64,
+      "Grüne": 63
+    },
+    "government": [
+      "Union",
+      "SPD"
+    ]
+  },
+  "Europawahl 2004": {
+    "mandates": {
+      "CDU": 40,
+      "SPD": 23,
+      "Grüne": 13,
+      "CSU": 9,
+      "FDP": 7,
+      "PDS": 7
+    }
+  },
+  "Europawahl 2009": {
+    "mandates": {
+      "CDU": 34,
+      "SPD": 23,
+      "Grüne": 14,
+      "FDP": 12,
+      "Linke": 8,
+      "CSU": 8
+    }
+  },
+  "Landtagswahl Baden-Württemberg 2006": {
+    "mandates": {
+      "CDU": 69,
+      "SPD": 38,
+      "Grüne": 17,
+      "FDP": 15
+    },
+    "government": [
+      "CDU",
+      "FDP"
+    ]
+  },
+  "Landtagswahl Baden-Württemberg 2011": {
+    "mandates": {
+      "CDU": 60,
+      "Grüne": 36,
+      "SPD": 35,
+      "FDP": 7
+    },
+    "government": [
+      "Grüne",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Baden-Württemberg 2016": {
+    "mandates": {
+      "Grüne": 47,
+      "CDU": 42,
+      "AfD": 23,
+      "SPD": 19,
+      "FDP": 12
+    },
+    "government": [
+      "Grüne",
+      "CDU"
+    ]
+  },
+  "Landtagswahl Bayern 2003": {
+    "mandates": {
+      "CSU": 124,
+      "SPD": 41,
+      "Grüne": 15
+    },
+    "government": [
+      "CSU"
+    ]
+  },
+  "Landtagswahl Bayern 2013": {
+    "mandates": {
+      "CSU": 101,
+      "SPD": 42,
+      "FW": 19,
+      "Grüne": 18
+    },
+    "government": [
+      "CSU"
+    ]
+  },
+  "Landtagswahl Berlin 2006": {
+    "mandates": {
+      "SPD": 53,
+      "CDU": 37,
+      "Linke": 23,
+      "Grüne": 23,
+      "FDP": 13
+    },
+    "government": [
+      "SPD",
+      "Linke"
+    ]
+  },
+  "Landtagswahl Berlin 2011": {
+    "mandates": {
+      "SPD": 47,
+      "CDU": 39,
+      "Grüne": 29,
+      "Linke": 19,
+      "Piraten": 15
+    },
+    "government": [
+      "SPD",
+      "CDU"
+    ]
+  },
+  "Landtagswahl Brandenburg 2014": {
+    "mandates": {
+      "SPD": 30,
+      "CDU": 21,
+      "Linke": 17,
+      "AfD": 11,
+      "Grüne": 6,
+      "BVB/FW": 3
+    },
+    "government": [
+      "SPD",
+      "Linke"
+    ]
+  },
+  "Landtagswahl Bremen 2007": {
+    "mandates": {
+      "SPD": 32,
+      "CDU": 23,
+      "Grüne": 14,
+      "Linke": 7,
+      "FDP": 5,
+      "DVU": 1,
+      "BIW": 1
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Bremen 2011": {
+    "mandates": {
+      "SPD": 36,
+      "Grüne": 21,
+      "CDU": 20,
+      "Linke": 5,
+      "BIW": 1
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Bremen 2015": {
+    "mandates": {
+      "SPD": 30,
+      "CDU": 20,
+      "Grüne": 14,
+      "Linke": 8,
+      "FDP": 6,
+      "AfD": 4,
+      "BIW": 1
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Hamburg 2008": {
+    "mandates": {
+      "CDU": 56,
+      "SPD": 45,
+      "Grüne/GAL": 12,
+      "Linke": 8
+    },
+    "government": [
+      "CDU",
+      "Grüne/GAL"
+    ]
+  },
+  "Landtagswahl Hamburg 2011": {
+    "mandates": {
+      "SPD": 62,
+      "CDU": 28,
+      "Grüne": 14,
+      "FDP": 9,
+      "Linke": 8
+    },
+    "government": [
+      "SPD"
+    ]
+  },
+  "Landtagswahl Hamburg 2015": {
+    "mandates": {
+      "SPD": 58,
+      "CDU": 20,
+      "Grüne": 15,
+      "Linke": 11,
+      "FDP": 9,
+      "AfD": 8
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Niedersachsen 2008": {
+    "mandates": {
+      "CDU": 68,
+      "SPD": 48,
+      "FDP": 13,
+      "Grüne": 12,
+      "Linke": 11
+    },
+    "government": [
+      "CDU",
+      "FDP"
+    ]
+  },
+  "Landtagswahl Niedersachsen 2013": {
+    "mandates": {
+      "CDU": 54,
+      "SPD": 49,
+      "Grüne": 20,
+      "FDP": 14
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Nordrhein-Westfalen 2005": {
+    "mandates": {
+      "CDU": 89,
+      "SPD": 74,
+      "FDP": 12,
+      "Grüne": 12
+    },
+    "government": [
+      "CDU",
+      "FDP"
+    ]
+  },
+  "Landtagswahl Nordrhein-Westfalen 2010": {
+    "mandates": {
+      "CDU": 67,
+      "SPD": 67,
+      "Grüne": 23,
+      "FDP": 13,
+      "Linke": 11
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Nordrhein-Westfalen 2012": {
+    "mandates": {
+      "SPD": 99,
+      "CDU": 67,
+      "Grüne": 29,
+      "FDP": 22,
+      "Piraten": 20
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Rheinland-Pfalz 2006": {
+    "mandates": {
+      "SPD": 53,
+      "CDU": 38,
+      "FDP": 10
+    },
+    "government": [
+      "SPD"
+    ]
+  },
+  "Landtagswahl Rheinland-Pfalz 2011": {
+    "mandates": {
+      "SPD": 42,
+      "CDU": 41,
+      "Grüne": 18
+    },
+    "government": [
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Rheinland-Pfalz 2016": {
+    "mandates": {
+      "SPD": 39,
+      "CDU": 35,
+      "AfD": 14,
+      "FDP": 7,
+      "Grüne": 6
+    },
+    "government": [
+      "SPD",
+      "FDP",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Saarland 2004": {
+    "mandates": {
+      "CDU": 27,
+      "SPD": 18,
+      "Grüne": 3,
+      "FDP": 3
+    },
+    "government": [
+      "CDU"
+    ]
+  },
+  "Landtagswahl Saarland 2012": {
+    "mandates": {
+      "CDU": 19,
+      "SPD": 17,
+      "Linke": 9,
+      "Piraten": 4,
+      "Grüne": 2
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Sachsen 2004": {
+    "mandates": {
+      "CDU": 55,
+      "PDS": 31,
+      "SPD": 13,
+      "NPD": 12,
+      "FDP": 7,
+      "Grüne": 6
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Sachsen 2014": {
+    "mandates": {
+      "CDU": 59,
+      "Linke": 27,
+      "SPD": 18,
+      "AfD": 14,
+      "Grüne": 8
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Sachsen-Anhalt 2006": {
+    "mandates": {
+      "CDU": 40,
+      "Linke": 26,
+      "SPD": 24,
+      "FDP": 7
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Sachsen-Anhalt 2016": {
+    "mandates": {
+      "CDU": 30,
+      "AfD": 25,
+      "Linke": 16,
+      "SPD": 11,
+      "Grüne": 5
+    },
+    "government": [
+      "CDU",
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Landtagswahl Schleswig-Holstein 2005": {
+    "mandates": {
+      "CDU": 30,
+      "SPD": 29,
+      "FDP": 4,
+      "Grüne": 4,
+      "SSW": 2
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl Schleswig-Holstein 2012": {
+    "mandates": {
+      "CDU": 22,
+      "SPD": 22,
+      "Grüne": 10,
+      "FDP": 6,
+      "Piraten": 6,
+      "SSW": 3
+    },
+    "government": [
+      "CDU",
+      "SPD",
+      "Grüne",
+      "SSW"
+    ]
+  },
+  "Landtagswahl Thüringen 2014": {
+    "mandates": {
+      "CDU": 34,
+      "Linke": 28,
+      "SPD": 12,
+      "AfD": 11,
+      "Grüne": 6
+    },
+    "government": [
+      "Linke",
+      "SPD",
+      "Grüne"
+    ]
+  },
+  "Bundestagswahl 2017": {
+    "mandates": {
+      "CDU": 190,
+      "SPD": 153,
+      "AfD": 94,
+      "FDP": 80,
+      "DIE LINKE": 69,
+      "GRÜNE": 67,
+      "CSU": 56
+    }
+  },
+  "Landtagswahl im Saarland 2017": {
+    "mandates": {
+      "CDU": 24,
+      "SPD": 17,
+      "Die LINKE": 7,
+      "AfD": 3
+    },
+    "government": [
+      "CDU",
+      "SPD"
+    ]
+  },
+  "Landtagswahl in Schleswig-Holstein 2017": {
+    "mandates": {
+      "CDU": 25,
+      "SPD": 21,
+      "GRÜNE": 10,
+      "FDP": 9,
+      "SSW": 3,
+      "AfD": 5
+    },
+    "government": [
+      "CDU",
+      "GRÜNE",
+      "FDP"
+    ]
+  },
+  "Landtagswahl in Nordrhein-Westfalen 2017": {
+    "mandates": {
+      "CDU": 72,
+      "SPD": 69,
+      "FDP": 28,
+      "AfD": 16,
+      "Grüne": 14
+    },
+    "government": [
+      "CDU",
+      "FDP"
+    ]
+  },
+  "Landtagswahl in Berlin 2016": {
+    "mandates": {
+      "SPD": 38,
+      "CDU": 31,
+      "DIE LINKE": 27,
+      "GRÜNE": 27,
+      "AfD": 25,
+      "FDP": 12
+    },
+    "government": [
+      "SPD",
+      "DIE LINKE",
+      "GRÜNE"
+    ]
+  },
+  "Europawahl in Deutschland 2014": {
+    "mandates": {
+      "CDU": 29,
+      "SPD": 27,
+      "GRÜNE": 11,
+      "DIE LINKE": 7,
+      "AfD": 7,
+      "CSU": 5,
+      "FDP": 3,
+      "FREIE WÄHLER": 1,
+      "PIRATEN": 1,
+      "Tierschutzpartei": 1,
+      "NPD": 1,
+      "FAMILIE": 1,
+      "ÖDP": 1,
+      "Die PARTEI": 1
+    }
+  }
+}
