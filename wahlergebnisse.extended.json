@@ -4062,6 +4062,37 @@
     }
   },
   {
+    "url": "https://dawum.de/Bayern/",
+    "title": "Landtagswahl Bayern 2018",
+    "kind": "Landtagswahl",
+    "territory": "Bayern",
+    "date": "2018-10-14T00:00:00",
+    "final": false,
+    "results": {
+      "CSU": {
+        "pct": 35.5
+      },
+      "SPD": {
+        "pct": 12.1
+      },
+      "FW": {
+        "pct": 9.4
+      },
+      "Grüne": {
+        "pct": 17.4
+      },
+      "FDP": {
+        "pct": 5.2
+      },
+      "Linke": {
+        "pct": 4.0
+      },
+      "AfD": {
+        "pct": 12.0
+      }
+    }
+  },
+  {
     "url": "https://wahl.tagesschau.de/wahlen/1946-10-20-LT-DE-BE/index.shtml",
     "title": "Landtagswahl Berlin 1946",
     "kind": "Landtagswahl",
