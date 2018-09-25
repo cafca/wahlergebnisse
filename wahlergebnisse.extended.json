@@ -4067,7 +4067,7 @@
     "kind": "Landtagswahl",
     "territory": "Bayern",
     "date": "2018-10-14T00:00:00",
-    "final": false,
+    "preliminary": true,
     "results": {
       "CSU": {
         "pct": 35.5
