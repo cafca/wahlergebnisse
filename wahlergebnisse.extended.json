@@ -4061,7 +4061,7 @@
       }
     }
   },
-  {
+  { 
     "url": "https://dawum.de/Bayern/",
     "title": "Landtagswahl Bayern 2018",
     "kind": "Landtagswahl",
@@ -4089,6 +4089,9 @@
       },
       "AfD": {
         "pct": 12.0
+      },
+      "Sonstige": {
+        "pct": 4.4
       }
     }
   },
