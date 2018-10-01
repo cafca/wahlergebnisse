@@ -4070,16 +4070,16 @@
     "preliminary": true,
     "results": {
       "CSU": {
-        "pct": 35.5
+        "pct": 35.0
       },
       "SPD": {
         "pct": 12.1
       },
       "FW": {
-        "pct": 9.4
+        "pct": 10.0
       },
       "Grüne": {
-        "pct": 17.4
+        "pct": 17.1
       },
       "FDP": {
         "pct": 5.2
@@ -4088,7 +4088,7 @@
         "pct": 4.0
       },
       "AfD": {
-        "pct": 12.0
+        "pct": 12.2
       },
       "Sonstige": {
         "pct": 4.4
