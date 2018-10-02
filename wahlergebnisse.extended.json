@@ -8290,6 +8290,37 @@
     }
   },
   {
+    "url": "https://dawum.de/Hessen/",
+    "title": "Landtagswahl Hessen 2018",
+    "kind": "Landtagswahl",
+    "territory": "Hessen",
+    "date": "2018-10-28T00:00:00",
+    "preliminary": true,
+    "results": {
+      "CDU": {
+        "pct": 29.4
+      },
+      "SPD": {
+        "pct": 23.6
+      },
+      "Grüne": {
+        "pct": 15.9
+      },
+      "AfD": {
+        "pct": 12.5
+      },
+      "Linke": {
+        "pct": 8.3
+      },
+      "FDP": {
+        "pct": 6.9
+      },
+      "Sonstige": {
+        "pct": 3.4
+      }
+    }
+  },
+  {
     "url": "https://wahl.tagesschau.de/wahlen/1990-10-14-LT-DE-MV/index.shtml",
     "title": "Landtagswahl Mecklenburg-Vorpommern 1990",
     "kind": "Landtagswahl",
