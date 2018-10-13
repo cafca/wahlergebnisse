@@ -4070,28 +4070,28 @@
     "preliminary": true,
     "results": {
       "CSU": {
-        "pct": 35.0
+        "pct": 33.5
       },
       "SPD": {
-        "pct": 12.1
+        "pct": 11.3
       },
       "FW": {
-        "pct": 10.0
+        "pct": 10.3
       },
       "Grüne": {
-        "pct": 17.1
+        "pct": 18.1
       },
       "FDP": {
-        "pct": 5.2
+        "pct": 5.6
       },
       "Linke": {
-        "pct": 4.0
+        "pct": 4.2
       },
       "AfD": {
-        "pct": 12.2
+        "pct": 11.8
       },
       "Sonstige": {
-        "pct": 4.4
+        "pct": 5.2
       }
     }
   },
@@ -8298,25 +8298,25 @@
     "preliminary": true,
     "results": {
       "CDU": {
-        "pct": 29.4
+        "pct": 28.7
       },
       "SPD": {
-        "pct": 23.6
+        "pct": 24.2
       },
       "Grüne": {
-        "pct": 15.9
+        "pct": 18.1
       },
       "AfD": {
-        "pct": 12.5
+        "pct": 12.3
       },
       "Linke": {
-        "pct": 8.3
+        "pct": 7.7
       },
       "FDP": {
-        "pct": 6.9
+        "pct": 5.8
       },
       "Sonstige": {
-        "pct": 3.4
+        "pct": 3.2
       }
     }
   },
