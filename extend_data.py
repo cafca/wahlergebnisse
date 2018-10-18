@@ -19,7 +19,7 @@ def compile_results(parties, votes, percentages):
         }
     return rv
 
-missing_occasions = list()
+missing_elections = list()
 
 
 # BTW17
@@ -31,7 +31,7 @@ votes = [12447656, 9539381, 5878115, 4999449, 4297270, 4158400, 2869688, 463292,
 percentages = [26.76, 20.51, 12.64, 10.75, 9.24, 8.94, 6.17, 1.00, 0.98, 0.80, 0.38, 0.37, 0.31, 0.21, 0.14, 0.14, 0.13, 0.12, 0.09, 0.07, 0.06, 0.05, 0.03, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.00, 0.00, 0.00, 0.00]
 
 
-missing_occasions.append({
+missing_elections.append({
     "url": "https://wahl.tagesschau.de/wahlen/2017-09-24-BT-DE/index.shtml",
     "title": "Bundestagswahl 2017",
     "kind": "Bundestagswahl",
@@ -52,7 +52,7 @@ percentages = [40.70, 29.61, 12.85, 6.18, 4.01, 3.26, 0.83, 0.75, 0.70, 0.40, 0.
 # TODO: Replace WP-data with data from
 # https://wahl.tagesschau.de/wahlen/2017-03-26-LT-DE-SL/index.shtml
 
-missing_occasions.append({
+missing_elections.append({
     "url": "https://de.wikipedia.org/wiki/Landtagswahl im Saarland 2017",
     "title": "Landtagswahl im Saarland 2017",
     "kind": "Landtagswahl",
@@ -73,7 +73,7 @@ percentages = [32.0, 27.3, 12.9, 11.5, 1.2, 3.3, 3.8, 0.6, 0.6, 5.9, 0.2, 0.6, 0
 # TODO: Replace WP-data with data from
 # "https://wahl.tagesschau.de/wahlen/2017-05-07-LT-DE-SH/index.shtml"
 
-missing_occasions.append({
+missing_elections.append({
     "url": "https://de.wikipedia.org/wiki/Landtagswahl in Schleswig-Holstein 2017",
     "title": "Landtagswahl in Schleswig-Holstein 2017",
     "kind": "Landtagswahl",
@@ -93,7 +93,7 @@ percentages =[32.95, 31.21, 12.55, 7.38, 6.35, 4.90, 0.95, 0.70, 0.65, 0.39, 0.3
 # TODO: Replace WP-data with data from
 # http://wahl.tagesschau.de/wahlen/2017-05-14-LT-DE-NW/index.shtml
 
-missing_occasions.append({
+missing_elections.append({
     "url": "de.wikipedia.org/wiki/Landtagswahl in Nordrhein-Westfalen 2017",
     "title": "Landtagswahl in Nordrhein-Westfalen 2017",
     "kind": "Landtagswahl",
@@ -114,7 +114,7 @@ percentages = [21.6, 17.6, 15.6, 15.2, 14.2, 6.7, 2.0, 1.9, 1.7, 1.1, 0.6, 0.5, 
 # TODO: Replace WP-data with data from
 # "https://wahl.tagesschau.de/wahlen/2016-09-18-LT-DE-BE/index.shtml"
 
-missing_occasions.append({
+missing_elections.append({
     "url": "https://de.wikipedia.org/wiki/Landtagswahl in Berlin 2016",
     "title": "Landtagswahl in Berlin 2016",
     "kind": "Landtagswahl",
@@ -135,7 +135,7 @@ percentages = [30.0, 27.3, 10.7, 7.4, 7.1, 5.3, 3.4, 1.5, 1.4, 1.2, 1.0, 0.7, 0.
 # TODO: Replace WP-data with data from
 # "https://wahl.tagesschau.de/wahlen/2014-05-25-EP-DE/index.shtml"
 
-missing_occasions.append({
+missing_elections.append({
     "url": "https://de.wikipedia.org/wiki/Europawahl in Deutschland 2014",
     "title": "Europawahl in Deutschland 2014",
     "kind": "Europawahl",
@@ -149,9 +149,9 @@ if __name__ == '__main__':
     with open("wahlergebnisse.json") as f:
         rv = json.load(f)
 
-    print("Adding {} missing occasions...".format(len(missing_occasions)))
+    print("Adding {} missing elections...".format(len(missing_elections)))
 
-    rv += missing_occasions
+    rv += missing_elections
 
     with open("wahlergebnisse.extended.json", 'w') as f:
         json.dump(rv, f, indent=2, ensure_ascii=False)
