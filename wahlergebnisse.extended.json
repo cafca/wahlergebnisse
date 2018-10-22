@@ -4069,28 +4069,76 @@
     "date": "2018-10-14T00:00:00",
     "results": {
       "CSU": {
-        "pct": 37.2
+        "pct": 37.25,
+        "votes": 5047006
       },
       "SPD": {
-        "pct": 9.7
+        "pct": 9.73,
+        "votes": 1317942
       },
       "FW": {
-        "pct": 11.6
+        "pct": 11.6,
+        "votes": 1571288
       },
       "Grüne": {
-        "pct": 17.5
+        "pct": 17.55,
+        "votes": 2377766
       },
       "FDP": {
-        "pct": 5.1
+        "pct": 5.08,
+        "votes": 687842
       },
       "Linke": {
-        "pct": 3.2
+        "pct": 3.22,
+        "votes": 435949
       },
       "AfD": {
-        "pct": 10.2
+        "pct": 10.21,
+        "votes": 1383866
       },
-      "Sonstige": {
-        "pct": 5.4
+      "BP": {
+        "pct": 1.71,
+        "votes": 231930
+      },
+      "ÖDP": {
+        "pct": 1.56,
+        "votes": 211784
+      },
+      "Piraten": {
+        "pct": 0.44,
+        "votes": 60087
+      },
+      "Die Partei": {
+        "pct": 0.43,
+        "votes": 58696
+      },
+      "mut": {
+        "pct": 0.33,
+        "votes": 45243
+      },
+      "Tierschutzpartei": {
+        "pct": 0.3,
+        "votes": 40337
+      },
+      "V-Partei3": {
+        "pct": 0.25,
+        "votes": 34409
+      },
+      "DIE FRANKEN": {
+        "pct": 0.23,
+        "votes": 31547
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.06,
+        "votes": 7.743
+      }, 
+      "Die HUMANISTEN": {
+        "pct": 0.03,
+        "votes": 3563
+      },
+      "LKR": {
+        "pct": 0.02,
+        "votes": 2113
       }
     }
   },
