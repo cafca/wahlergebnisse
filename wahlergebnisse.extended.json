@@ -8337,7 +8337,8 @@
     }
   },
   {
-    "url": "https://dawum.de/Hessen/",
+    "url": "http://www.forschungsgruppe.de/Aktuelles/PB-Extra_Hessen/",
+    "source": "Forschungsgruppe Wahlen",
     "title": "Landtagswahl Hessen 2018",
     "kind": "Landtagswahl",
     "territory": "Hessen",
@@ -8345,25 +8346,25 @@
     "preliminary": true,
     "results": {
       "CDU": {
-        "pct": 26.7
+        "pct": 26
       },
       "SPD": {
-        "pct": 21.8
+        "pct": 20
       },
       "Grüne": {
-        "pct": 20.2
+        "pct": 22
       },
       "AfD": {
-        "pct": 11.9
+        "pct": 12
       },
       "Linke": {
-        "pct": 7.9
+        "pct": 8
       },
       "FDP": {
-        "pct": 7.6
+        "pct": 8
       },
       "Sonstige": {
-        "pct": 3.9
+        "pct": 4
       }
     }
   },
