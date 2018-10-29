@@ -8337,34 +8337,82 @@
     }
   },
   {
-    "url": "http://www.forschungsgruppe.de/Aktuelles/PB-Extra_Hessen/",
-    "source": "Forschungsgruppe Wahlen",
+    "url": "https://wahlen.hessen.de/land-hessen/landtagswahl-2018/vorl%C3%A4ufige-ergebnisse",
+    "source": "Landeswahlleiter",
     "title": "Landtagswahl Hessen 2018",
     "kind": "Landtagswahl",
     "territory": "Hessen",
     "date": "2018-10-28T00:00:00",
-    "preliminary": true,
+    "preliminary": false,
     "results": {
       "CDU": {
-        "pct": 28
+        "pct": 27
       },
       "SPD": {
-        "pct": 20
+        "pct": 19.8
       },
       "Grüne": {
-        "pct": 20
+        "pct": 19.8
       },
       "AfD": {
-        "pct": 12
+        "pct": 13.1
       },
       "Linke": {
-        "pct": 8
+        "pct": 6.3
       },
       "FDP": {
-        "pct": 8
+        "pct": 7.5
       },
-      "Sonstige": {
-        "pct": 4
+      "Piraten": {
+        "pct": 0.4
+      },
+      "Freie Wähler": {
+        "pct": 3.0
+      },
+      "NPD": {
+        "pct": 0.2
+      },
+      "Die Partei": {
+        "pct": 0.6
+      },
+      "ÖDP": {
+        "pct": 0.3
+      },
+      "Graue Panther": {
+        "pct": 0.2
+      },
+      "Büso": {
+        "pct": 0.2
+      },
+      "AD-Demokraten": {
+        "pct": 0.1
+      },
+      "Bündnis C": {
+        "pct": 0.1
+      },
+      "BGE": {
+        "pct": 0.1
+      },
+      "Die Violetten": {
+        "pct": 0.1
+      },
+      "LKR": {
+        "pct": 0.0
+      },
+      "Menschliche Welt": {
+        "pct": 0.1
+      },
+      "Die Humanisten": {
+        "pct": 0.1
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.1
+      },
+      "Tierschutzpartei": {
+        "pct": 1.0
+      },
+      "V-Partei³": {
+        "pct": 0.1
       }
     }
   },
