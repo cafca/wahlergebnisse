@@ -1,6 +1,6 @@
 # wahlergebnisse
 
-JSON Wahlergebnisse der 270 Bundestags-, Landtags- und Europawahlen in Deutschland seit 1946.
+JSON Wahlergebnisse aller Bundestags-, Landtags- und Europawahlen in Deutschland seit 1946.
 
 Die Daten wurden aus dem Wahlarchiv der Tagesschau extrahiert.
 
