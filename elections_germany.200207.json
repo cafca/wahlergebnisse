@@ -20704,5 +20704,718 @@
         "long_name": "Nationaldemokratische Partei Deutschlands (DDR)"
       }
     }
+  },
+  {
+    "title": "Bürgerschaftswahl Hamburg 2020",
+    "url": "https://www.tagesschau.de/wahl/archiv/2020-02-23-LT-DE-HH/index.shtml",
+    "date": "2020-02-23T00:00:00",
+    "territory": "Hamburg",
+    "kind": "Bürgerschaftswahl",
+    "government": [
+      "SPD",
+      "Grüne"
+    ],
+    "turnout": 63.2,
+    "results": {
+      "SP": {
+        "pct": 39.23,
+        "votes": 1593825
+      },
+      "Grüne": {
+        "pct": 24.16,
+        "votes": 981628
+      },
+      "CDU": {
+        "pct": 11.17,
+        "votes": 453717
+      },
+      "Linke": {
+        "pct": 9.08,
+        "votes": 368683
+      },
+      "AfD": {
+        "pct": 5.30,
+        "votes": 215306
+      },
+      "FD": {
+        "pct": 4.97,
+        "votes": 202059
+      },
+      "Die Partei": {
+        "pct": 1.40,
+        "votes": 56755
+      },
+      "VOLT": {
+        "pct": 1.29,
+        "votes": 52361
+      },
+      "ÖDP": {
+        "pct": 0.68,
+        "votes": 27617
+      },
+      "Die Tierschutzpartei": {
+        "pct": 0.67,
+        "votes": 27200
+      },
+      "FW": {
+        "pct": 0.62,
+        "votes": 25023
+      },
+      "Tierschutz hier!": {
+        "pct": 0.53,
+        "votes": 21530
+      },
+      "Piraten": {
+        "pct": 0.51,
+        "votes": 20559
+      },
+      "Die Humanisten": {
+        "pct": 0.21,
+        "votes": 8354
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.19,
+        "votes": 7759
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Baden-Württemberg 2021",
+    "url": "https://www.tagesschau.de/wahl/archiv/2021-03-14-LT-DE-BW/index.shtml",
+    "date": "2021-03-14T00:00:00",
+    "territory": "Baden-Württemberg",
+    "kind": "Landtagswahl",
+    "government": [
+      "Grüne",
+      "CDU"
+    ],
+    "turnout": 63.8,
+    "results": {
+      "Grüne": {
+        "pct": 32.64,
+        "votes": 1586192
+      },
+      "CDU": {
+        "pct": 24.05,
+        "votes": 1168975
+      },
+      "SPD": {
+        "pct": 11.02,
+        "votes": 535489
+      },
+      "FDP": {
+        "pct": 10.46,
+        "votes": 508429
+      },
+      "AfD": {
+        "pct": 9.74,
+        "votes": 473485
+      },
+      "Linke": {
+        "pct": 3.57,
+        "votes": 173317
+      },
+      "FW": {
+        "pct": 3.01,
+        "votes": 146259
+      },
+      "Die Partei": {
+        "pct": 1.22,
+        "votes": 59463
+      },
+      "BASIS": {
+        "pct": 1.00,
+        "votes": 48497
+      },
+      "KLIMALISTE": {
+        "pct": 0.88,
+        "votes": 42685
+      },
+      "WIR2020": {
+        "pct": 0.85,
+        "votes": 41128
+      },
+      "ÖDP": {
+        "pct": 0.78,
+        "votes": 37819
+      },
+      "VOLT": {
+        "pct": 0.47,
+        "votes": 22782
+      },
+      "Einzelbewerber/Innen": {
+        "pct": 0.09,
+        "votes": 4463
+      },
+      "BÜNDNISC": {
+        "pct": 0.08,
+        "votes": 4081
+      },
+      "Piraten": {
+        "pct": 0.06,
+        "votes": 2878
+      },
+      "DIB": {
+        "pct": 0.02,
+        "votes": 1005
+      },
+      "Humanisten": {
+        "pct": 0.02,
+        "votes": 976
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.02,
+        "votes": 975
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.01,
+        "votes": 468
+      },
+      "EINEFÜRALLE": {
+        "pct": 0.00,
+        "votes": 178
+      },
+      "DKP": {
+        "pct": 0.00,
+        "votes": 107
+      }
+    }
+  },
+  {
+    "title": "Abgeordnetenhauswahl Berlin 2021",
+    "url": "https://www.tagesschau.de/wahl/archiv/2016-09-18-LT-DE-BE/index.shtml",
+    "date": "2021-09-26T00:00:00",
+    "kind": "Abgeordnetenhauswahl",
+    "territory": "Berlin",
+    "government": [
+      "SPD",
+      "Grüne",
+      "Linke"
+    ],
+    "turnout": 66.9,
+    "results": {
+      "SPD": {
+        "pct": 21.55,
+        "votes": 352430
+      },
+      "CDU": {
+        "pct": 17.61,
+        "votes": 287997
+      },
+      "Linke": {
+        "pct": 15.64,
+        "votes": 255701
+      },
+      "Grüne": {
+        "pct": 15.19,
+        "votes": 248324
+      },
+      "AfD": {
+        "pct": 14.16,
+        "votes": 231492
+      },
+      "FDP": {
+        "pct": 6.70,
+        "votes": 109500
+      },
+      "Die Partei": {
+        "pct": 1.95,
+        "votes": 31924
+      },
+      "Tierschutzpartei": {
+        "pct": 1.87,
+        "votes": 30620
+      },
+      "Piraten": {
+        "pct": 1.73,
+        "votes": 28332
+      },
+      "Graue Panther": {
+        "pct": 1.11,
+        "votes": 18159
+      },
+      "NPD": {
+        "pct": 0.58,
+        "votes": 9459
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.48,
+        "votes": 7854
+      },
+      "pro Deutschland": {
+        "pct": 0.45,
+        "votes": 7288
+      },
+      "Alfa": {
+        "pct": 0.41,
+        "votes": 6658
+      },
+      "DKP": {
+        "pct": 0.21,
+        "votes": 3473
+      },
+      "PSG": {
+        "pct": 0.13,
+        "votes": 2046
+      },
+      "BüSo": {
+        "pct": 0.08,
+        "votes": 1286
+      },
+      "DIE VIOLETTEN": {
+        "pct": 0.05,
+        "votes": 856
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.05,
+        "votes": 839
+      },
+      "B": {
+        "pct": 0.04,
+        "votes": 636
+      },
+      "ÖDP": {
+        "pct": 0.02,
+        "votes": 295
+      }
+    }
+  },
+  {
+    "title": "Bundestagswahl 2021",
+    "date": "2021-09-26T00:00:00",
+    "url": "https://www.tagesschau.de/wahl/archiv/2021-09-26-BT-DE/index.shtml",
+    "kind": "Bundestagswahl",
+    "territory": "Deutschland",
+    "turnout": 76.6,
+    "results": {
+      "SPD": {
+        "pct": 25.74
+      },
+      "CDU": {
+        "pct": 18.90
+      },
+      "Grüne": {
+        "pct": 14.75
+      },
+      "FDP": {
+        "pct": 11.45
+      },
+      "AfD": {
+        "pct": 10.35
+      },
+      "CSU": {
+        "pct": 5.18
+      },
+      "Linke": {
+        "pct": 4.89,
+        "votes": 2269993
+      },
+      "FW": {
+        "pct": 2.43,
+        "votes": 1127171
+      },
+      "Tierschutzpartei": {
+        "pct": 1.45,
+        "votes": 674789
+      },
+      "dieBasis": {
+        "pct": 1.35,
+        "votes": 628432
+      },
+      "Die Partei": {
+        "pct": 0.99,
+        "votes": 461487
+      },
+      "Team Todenhöfer": {
+        "pct": 0.46,
+        "votes": 214281
+      },
+      "Piraten": {
+        "pct": 0.37,
+        "votes": 169889
+      },
+      "Volt": {
+        "pct": 0.36,
+        "votes": 165153
+      },
+      "ÖDP": {
+        "pct": 0.24,
+        "votes": 112351
+      },
+      "NPD": {
+        "pct": 0.14,
+        "votes": 64608
+      },
+      "SSW": {
+        "pct": 0.12,
+        "votes": 55330
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.11,
+        "votes": 49331
+      },
+      "Humanisten": {
+        "pct": 0.10,
+        "votes": 47838
+      },
+      "Bündnis C": {
+        "pct": 0.09,
+        "votes": 40126
+      },
+      "BP": {
+        "pct": 0.07,
+        "votes": 32901
+      },
+      "V-Partei3": {
+        "pct": 0.07,
+        "votes": 31966
+      },
+      "Unabhängige": {
+        "pct": 0.05,
+        "votes": 22770
+      },
+      "Die Grauen": {
+        "pct": 0.04,
+        "votes": 19382
+      },
+      "MLPD": {
+        "pct": 0.04,
+        "votes": 17.994
+      },
+      "du.": {
+        "pct": 0.04,
+        "votes": 17861
+      },
+      "DKP": {
+        "pct": 0.03,
+        "votes": 15158
+      },
+      "TIERSCHUTZALLIANZ": {
+        "pct": 0.03,
+        "votes": 13686
+      },
+      "LIEBE": {
+        "pct": 0.03,
+        "votes": 12946
+      },
+      "LKR": {
+        "pct": 0.02,
+        "votes": 11.184
+      },
+      "LFK": {
+        "pct": 0.02,
+        "votes": 9195
+      },
+      "III. Weg": {
+        "pct": 0.02,
+        "votes": 7830
+      },
+      "GARTENPARTEI": {
+        "pct": 0.02,
+        "votes": 7611
+      },
+      "BÜRGERBEWEGUNG": {
+        "pct": 0.02,
+        "votes": 7485
+      },
+      "DIB": {
+        "pct": 0.02,
+        "votes": 7291
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.01,
+        "votes": 3794
+      },
+      "BÜNDNIS21": {
+        "pct": 0.01,
+        "votes": 3537
+      },
+      "PdF": {
+        "pct": 0.01,
+        "votes": 3234
+      },
+      "SGP": {
+        "pct": 0.00,
+        "votes": 1535
+      },
+      "BüSo": {
+        "pct": 0.00,
+        "votes": 737
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Mecklenburg-Vorpommern 2021",
+    "url": "https://www.tagesschau.de/wahl/archiv/2021-09-26-LT-DE-MV/index.shtml",
+    "date": "2021-09-26T00:00:00",
+    "kind": "Landtagswahl",
+    "turnout": 70.8,
+    "results": {
+      "SPD": {
+        "pct": 39.59,
+        "votes": 361761
+      },
+      "AfD": {
+        "pct": 16.72,
+        "votes": 152747
+      },
+      "CDU": {
+        "pct": 13.30,
+        "votes": 121566
+      },
+      "Linke": {
+        "pct": 9.94,
+        "votes": 90865
+      },
+      "Grüne": {
+        "pct": 6.30,
+        "votes": 57548
+      },
+      "FDP": {
+        "pct": 5.79,
+        "votes": 52945
+      },
+      "Tierschutzpartei": {
+        "pct": 1.66,
+        "votes": 15188
+      },
+      "dieBasis": {
+        "pct": 1.66,
+        "votes": 15165
+      },
+      "FW": {
+        "pct": 1.10,
+        "votes": 10064
+      },
+      "NPD": {
+        "pct": 0.77,
+        "votes": 7074
+      },
+      "Die PARTEI": {
+        "pct": 0.77,
+        "votes": 7024
+      },
+      "TIERSCHUTZ hier!": {
+        "pct": 0.43,
+        "votes": 3909
+      },
+      "Piraten": {
+        "pct": 0.40,
+        "votes": 3694
+      },
+      "FREIER HORIZONT": {
+        "pct": 0.37,
+        "votes": 3360
+      },
+      "UNABHÄNGIGE": {
+        "pct": 0.25,
+        "votes": 2328
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.22,
+        "votes": 2020
+      },
+      "Team Todenhöfer": {
+        "pct": 0.18,
+        "votes": 1625
+      },
+      "Humanisten": {
+        "pct": 0.12,
+        "votes": 1114
+      },
+      "ÖDP": {
+        "pct": 0.10,
+        "votes": 932
+      },
+      "Bündnis C": {
+        "pct": 0.09,
+        "votes": 831
+      },
+      "DKP": {
+        "pct": 0.08,
+        "votes": 728
+      },
+      "DiB": {
+        "pct": 0.06,
+        "votes": 583
+      },
+      "FPA": {
+        "pct": 0.05,
+        "votes": 437
+      },
+      "LKR": {
+        "pct": 0.02,
+        "votes": 221
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Rheinland-Pfalz 2021",
+    "url": "https://www.tagesschau.de/wahl/archiv/2021-03-14-LT-DE-RP/index.shtml",
+    "date": "2021-03-14T00:00:00",
+    "government": [
+      "SPD",
+      "Grüne",
+      "FDP"
+    ],
+    "kind": "Landtagswahl",
+    "turnout": 64.5,
+    "results": {
+      "SPD": {
+        "pct": 35.71,
+        "votes": 690.962
+      },
+      "CDU": {
+        "pct": 27.67,
+        "votes": 535.318
+      },
+      "Grüne": {
+        "pct": 9.30,
+        "votes": 179.860
+      },
+      "AfD": {
+        "pct": 8.28,
+        "votes": 160.293
+      },
+      "FDP": {
+        "pct": 5.52,
+        "votes": 106.809
+      },
+      "FW": {
+        "pct": 5.36,
+        "votes": 103.619
+      },
+      "Linke": {
+        "pct": 2.49,
+        "votes": 48.206
+      },
+      "Tierschutzpartei": {
+        "pct": 1.68,
+        "votes": 32.527
+      },
+      "Die Partei": {
+        "pct": 1.06,
+        "votes": 20.519
+      },
+      "VOLT": {
+        "pct": 1.00,
+        "votes": 19.286
+      },
+      "Klimaliste RLP e. V.": {
+        "pct": 0.71,
+        "votes": 13.681
+      },
+      "ÖDP": {
+        "pct": 0.69,
+        "votes": 13.406
+      },
+      "Piraten": {
+        "pct": 0.54,
+        "votes": 10.393
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Sachsen-Anhalt 2021",
+    "url": "https://www.tagesschau.de/wahl/archiv/2021-06-06-LT-DE-ST/index.shtml",
+    "date": "2021-06-06T00:00:00",
+    "kind": "Landtagswahl",
+    "territory": "Sachsen-Anhalt",
+    "government": [
+      "CDU",
+      "SPD",
+      "FDP"
+    ],
+    "turnout": 60.3,
+    "results": {
+      "CDU": {
+        "pct": 37.19,
+        "votes": 394810
+      },
+      "AfD": {
+        "pct": 20.87,
+        "votes": 221487
+      },
+      "Linke": {
+        "pct": 11.02,
+        "votes": 116927
+      },
+      "SPD": {
+        "pct": 8.43,
+        "votes": 89475
+      },
+      "FDP": {
+        "pct": 6.43,
+        "votes": 68277
+      },
+      "Grüne": {
+        "pct": 5.95,
+        "votes": 63145
+      },
+      "FW": {
+        "pct": 3.14,
+        "votes": 33291
+      },
+      "DIEBASIS": {
+        "pct": 1.47,
+        "votes": 15623
+      },
+      "Die Tierschutzpartei": {
+        "pct": 1.44,
+        "votes": 15279
+      },
+      "GARTENPARTEI": {
+        "pct": 0.81,
+        "votes": 8583
+      },
+      "Die Partei": {
+        "pct": 0.73,
+        "votes": 7768
+      },
+      "TIERSCHUTZ hier!": {
+        "pct": 0.59,
+        "votes": 6238
+      },
+      "TIERSCHUTZALLIANZ": {
+        "pct": 0.48,
+        "votes": 5109
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.37,
+        "votes": 3951
+      },
+      "Piraten": {
+        "pct": 0.36,
+        "votes": 3815
+      },
+      "NPD": {
+        "pct": 0.27,
+        "votes": 2888
+      },
+      "WIR2020": {
+        "pct": 0.16,
+        "votes": 1649
+      },
+      "FBM": {
+        "pct": 0.15,
+        "votes": 1613
+      },
+      "Humanisten": {
+        "pct": 0.13,
+        "votes": 1405
+      },
+      "ÖDP": {
+        "pct": 0.10,
+        "votes": 1062
+      },
+      "KLIMALISTE": {
+        "pct": 0.08,
+        "votes": 827
+      },
+      "LKR": {
+        "pct": 0.04,
+        "votes": 475
+      }
+    }
   }
 ]
