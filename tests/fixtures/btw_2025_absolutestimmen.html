@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+
+
+<!-- absolutestimmen 2023 tpl -->
+<head>
+	<meta charset="utf-8" />
+	<title>Absolute Stimmen</title>  
+
+
+<!-- unified -->
+    <script src="https://www.tagesschau.de/wahl/bundles/js/main-complete-7770460a5f55d84594449a1ce92e169ca4770727.bundle.js" ></script>
+	
+<!-- unified -->
+    <link rel="stylesheet" href="https://www.tagesschau.de/wahl/bundles/css/main-complete-7770460a5f55d84594449a1ce92e169ca4770727.css" />
+
+
+	<style>
+	/*  ts css einfügen oder überschreiben
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, font, img, ins, kbd, q, s, samp, small, strike, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td
+		{		
+			font-size: 1.01em;
+			font-size: 100.01%;
+		} */
+	body { background:#fff;}
+	
+		.row:after, .row:before {display:none;}
+	
+	
+	/* 41 css */
+		div.detailresult-index, 
+		div.detailresult-content,
+		div.wk-detailresult  {
+				font-size: 1.3em;
+				font-size: 2.14em;
+				font-weight: bold;
+				clear: both;
+		}
+
+		div.detailresult-index #vollstaendiges-ergebnis {
+				position: relative;
+		}
+		 div.detailresult-content {
+			width: 837px;
+		 }
+		.chart table {
+				border-collapse: collapse;
+				font-weight: bold;
+				margin-top:1.3em; 
+				margin-bottom:1.9rem;
+				vertical-align: middle;
+				font-size: 0.75em;
+				white-space: nowrap;
+				width: 100%;
+		}  
+		.detailresult-content .chartheader table.fivepercent { 
+				margin-top:1.1em;
+				position:relative;
+		}
+		.detailresult-index .chartheader table.fivepercent { 
+				margin-top:1.2em;
+				font-size: 0.9em;   
+				position: relative;
+		
+		}
+		.ellip {
+			white-space: nowrap;
+			/*max-width: 200px;*/
+			width:293px;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			cursor: help;
+		}
+
+		th {
+				font-size: 1.2rem;
+				line-height: 0;
+				text-align:left;
+				color: #80807E;
+				padding: 0 0.8 0 1.6rem;
+				padding: 0 0.8rem;
+		}
+		/* 
+.thPadding {
+			padding: 0 0 0 0.4em;
+		}
+ */
+		.pr {
+			position: relative;
+		}
+		.pa {
+			position: absolute;
+		}
+		.masstab5prozentContainer {
+			bottom:0;
+			height:100%;
+		}
+		.masstabZeiger {
+			bottom:-1px;
+			border-left:1px solid #000;
+			height:10px
+		}
+		.right {
+			right:0;
+		}
+		.masstab5prozentText {
+			bottom: 0.65em;
+				font-size: 0.9em;
+				padding-left: 0.5em;
+		}
+		.masstabMaxprozentText {
+			font-size:0.75em;
+			 padding: 0 0 0.65em 0.3em;
+		}
+		.massstabAbstand {
+			height: 0.3rem;
+		}
+ 		.chart td {
+			vertical-align: middle;
+			border-bottom: 3px solid #f1f1f1;
+			padding: 0 0.8rem;
+		} 
+		.chart td.labelshort {	
+			font-size:14px;
+		}
+
+		.chart td.votes {
+			font-weight: 700; 
+			font-size: 18px;
+		}
+		.chart td.votes div {
+			font-weight: 700; 
+			font-size: 1.8rem;
+			line-height:2.4rem;
+		}
+		.chart td.perc {
+			font-size: 1.4rem;
+			line-height:1.8rem;
+		}
+		.chart td.labelshort,
+		.chart td.perc,
+		.chart td.votes {
+			background-color:#fff;
+		} 
+		.chart td.barholder {
+			width:15em;
+		}
+		.chart td.barholder div {
+			background-color:#ffffff;
+			padding: 0.21em;
+			height:29px!important;
+			font-size:20px;
+		}
+		table .tar { 
+			text-align: right;
+		}
+		.chart td.labellong div {
+			overflow:hidden;
+		}
+		td.votes, 
+		td.perc {
+			text-align: right;
+			font-size:1.25em;
+		}
+		.chart td.barholder {
+			padding-left: 0;
+		}
+		/* 5 Prozent Parteien Indexseite*/
+		.detailresult-index,
+		.detailresult-content,
+		.wk-detailresult {
+			color:#32332f;
+		}
+
+		.detailresult-index .chartholder,
+		.detailresult-content .chartholder,
+		.wk-detailresult .chartholder {
+				background-color: #f1f1f1;
+				padding-left: 5.2rem;
+				padding-right: 5.2rem;
+		}
+		.detailresult-index .chartheader,
+		.detailresult-content .chartheader,
+		.wk-detailresult .chartheader { 
+				padding-top: 1.3em;
+				padding-bottom: 0.2em
+		}    
+		.detailresult-index .chartheader .image {
+			z-index: 0;
+			position: absolute;
+			top: 8px;
+			/* width: 928px; */
+		}
+		.detailresult-index .chartheader h1,
+		.detailresult-content .chartheader h1 {
+			margin-top: 0em; 
+			position:relative;
+		/*     color: black; */
+				overflow: hidden;
+				font-weight: 400;
+				font-size:1.4rem;
+				line-height: 1.8rem;
+		}
+		.detailresult-index .chartheader h2,
+		.detailresult-content .chartheader h2 {
+			position:relative;
+			xmargin-top: 0.4em;
+			overflow: hidden;
+			xpadding: 0 !important;	
+			font-size: 2.0rem;
+			line-height:2.6rem;
+			font-weight:700;
+		}
+		.detailresult-index .chartfooter,
+		.detailresult-content .chartfooter,
+		.wk-detailresult .chartfooter {
+				font-size: 1.2rem;
+				padding-bottom: 2em;
+				color:#80807E;
+		}
+
+		.waToggleShare, .waLogoShare {
+			position:absolute;
+			z-index:2;
+			display: none;
+		}
+		.waToggleShare {
+			cursor:pointer;
+			right:0;
+			top:0;
+		}
+		.waLogoShare {
+			right:1.3em;
+			top:1.2em;
+			width: 3em;
+		}
+		.waLogoShare img {
+			width:100%;
+		}
+		
+		.glossarLabel {
+				height: 0.8em;
+				margin-left: 0.4em;
+				margin-top: 0.15em;
+				position: absolute;
+				width: 0.8em;
+		}
+		.glossarText {
+				
+				font-weight: bold;
+				/*margin-top: 0.17em; padding:3px 0; font-size: 0.97em;*/
+				margin-left: 1.98em;
+				
+		}
+		.glossarTextFullX {
+			margin-bottom: 0.1em;
+			margin-left: 1.98em;
+		}
+		.glossarTextFull {
+			margin-bottom: 0.2em;
+			font-weight:normal;
+		}
+		
+		
+
+
+/*WK*/
+      .chart td div.candidatename { 
+      		border-left:8px solid; 
+        	width: 100px;
+			overflow: hidden;
+			text-overflow: ellipsis;
+      	}
+
+		.chart td.labelshort div { 		
+			xpadding-left: 0.4rem;
+		}
+		
+		
+      .chart td.labelshort div { 
+        	width: 100px;
+			overflow: hidden;
+			text-overflow: ellipsis;
+			border-top: 2px solid #fff;
+  			border-bottom: 2px solid #fff;
+      	}
+      .chart td.labelshort div span { 
+      		padding: 0.8rem 0.8rem 0.8rem 0.8rem;
+      		border-left: 8px solid;
+      		display: inline-block;
+      }
+		
+
+
+		@media (min-width: 501px) {
+			.chart td.labelshort div { 
+				border-left:0;   
+				width:auto;
+			}
+			.chart td.labelshort div span { 
+				padding: 0.6rem 0.8rem 0.6rem 0;
+				border-left: 0px solid;
+			}
+
+
+		}
+      
+		@media (max-width: 500px) { 
+				div.detailresult-index .chart td:nth-child(2), 
+				div.detailresult-index .chart th:nth-child(2),
+				div.detailresult-index .chart td:nth-child(4), 
+				div.detailresult-index .chart th:nth-child(4), 
+				div.detailresult-index .chart td:nth-child(5), 
+				div.detailresult-index .chart th:nth-child(5) { 
+					display:none; 
+				}
+				.massstabAbstand {
+					height: 1.1rem;
+				}
+				.chart td {
+				  padding: 0 0.8rem 0  0;
+				}	
+				th {
+					padding: 0 0.8rem 0 1.6rem;
+				}				
+		}
+   
+      
+      
+	@media screen and (max-width:720px) {
+		.detailresult-index .chartholder,
+		.detailresult-content .chartholder,
+		.wk-detailresult .chartholder {
+				background-color: #f1f1f1;
+				padding-left: 4rem;
+				padding-right: 4rem;
+		}
+	  
+	}      
+
+
+</style>
+	
+	
+	
+</head>
+<body class="mouse-usage">
+	<div class="global-wrapper">
+		<!-- start 4e1 uLook Content -->
+			<!-- start content -->
+
+        <!-- slot-vollstaendiges-ergebnis ben -->
+        <div class="columns twelve teasergroup">
+        <div class="columns twelve">
+            <div class="detailresult-index">
+                <div class="chart" style="margin-bottom:20px;" id="vollstaendiges-ergebnis">	
+
+                    <div class="chartholder">
+                        <div class="chartheader">
+                            <!--h1>Bundestagswahl 2025</h1> 
+                            <h2>Absolute Stimmen Parteien über fünf Prozent</h2--> 
+                            <table class="fivepercentX" data-ctrl-table="
+                                {
+                                id:'tab',
+                                'action':
+                                { 'default':['hideCols'] }, 'hideCols':{'xl':[], 's':['1'], 'xs':['1']}
+                                }"> 	 
+                            
+                                <tr>
+                                <th>Partei</th>										
+                                <th class="tar thPadding">Prozent</th>
+        <th class="tar thPadding">Stimmen</th>
+                            <th class="schwarzeLinie pr" style="width:67.65247158924744%;">
+                                <div class="pa masstab5prozentContainer" style="left:16%;">
+                                    <div class="pa masstabZeiger"></div>
+                                    <div class="pa masstab5prozentText">5%</div>
+                                </div>
+                                <div class="pa masstabZeiger right"></div>
+                            </th>
+                            <th class="schwarzeLinie masstabMaxprozentText">30%</th>
+                            </tr>
+                                <tr>
+                                    <td class="massstabAbstand"></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+            
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #121212;">CDU</span></div></td>
+                            <td class="perc"><div>22,55</div></td>
+                <td class="votes"><div>11.196.374</div></td>
+                            <td class="barholder">
+                                <div style="width: 75.1694128769416%; background-color:  #121212; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#121212" fill="#121212"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #009ee0;">AfD</span></div></td>
+                            <td class="perc"><div>20,80</div></td>
+                <td class="votes"><div>10.328.780</div></td>
+                            <td class="barholder">
+                                <div style="width: 69.34462249430905%; background-color:  #009ee0; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#009ee0" fill="#009ee0"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #d71f1d;">SPD</span></div></td>
+                            <td class="perc"><div>16,41</div></td>
+                <td class="votes"><div>8.149.124</div></td>
+                            <td class="barholder">
+                                <div style="width: 54.71100434313769%; background-color:  #d71f1d; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#d71f1d" fill="#d71f1d"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #78bc1b;">Grüne</span></div></td>
+                            <td class="perc"><div>11,61</div></td>
+                <td class="votes"><div>5.762.380</div></td>
+                            <td class="barholder">
+                                <div style="width: 38.687053627704%; background-color:  #78bc1b; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#78bc1b" fill="#78bc1b"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #be3075;">Linke</span></div></td>
+                            <td class="perc"><div>8,77</div></td>
+                <td class="votes"><div>4.356.532</div></td>
+                            <td class="barholder">
+                                <div style="width: 29.248572137694588%; background-color:  #be3075; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#be3075" fill="#be3075"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                    <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #182d4a;">CSU</span></div></td>
+                            <td class="perc"><div>5,97</div></td>
+                <td class="votes"><div>2.964.028</div></td>
+                            <td class="barholder">
+                                <div style="width: 19.899678637996146%; background-color:  #182d4a; padding:0.21em 0 0.21em 0;">
+                                	<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+                                		<g>
+                                			<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#182d4a" fill="#182d4a"></rect>
+                                		</g>
+                                	</svg>
+                                </div>
+                            </td>	
+                            <td></td>                                                                                  
+                        </tr>
+                
+                            </table>
+                            </div>
+                            </div>
+                            </div>
+            
+
+                <div class="chart" id="vollstaendiges-ergebnis2">	
+                    <div class="chartholder">
+                        <div class="chartheader">
+
+
+                        <h2>Andere Parteien</h2> 
+                        <h1>Stimmanteil unter fünf Prozent</h1>
+                        <table class="fivepercentX" data-ctrl-table="
+                            {
+                            id:'tab',
+                            'action':
+                            { 'default':['hideCols'] }, 'hideCols':{'xl':[], 's':['1'], 'xs':['1']}
+                            }"> 	 
+                        
+                            <tr>
+                            	<th>Partei</th>
+                        
+                            	<th class="tar thPadding">Prozent</th>
+                <th class="tar thPadding">Stimmen</th>
+							<th class="schwarzeLinie pr" style="width:67.65247158924744%;">
+								<div class="pa masstabZeiger right"></div>
+							</th>
+							<th class="schwarzeLinie masstabMaxprozentText">5%</th>
+                        </tr>
+                        <tr>
+                            <td class="massstabAbstand"></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #691840;">BSW</span></div></td>	      
+                            <!--td class="perc"><div>4,98</div></td-->
+                            <td class="perc"><div>4,98</div></td>
+                    <td class="votes"><div>2.472.947</div></td>
+							<td class="barholder">
+								<div style="width: 99.616165411656%; background-color:  #691840; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#691840" fill="#691840"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #ffcc00;">FDP</span></div></td>	      
+                            <!--td class="perc"><div>4,33</div></td-->
+                            <td class="perc"><div>4,33</div></td>
+                    <td class="votes"><div>2.148.757</div></td>
+							<td class="barholder">
+								<div style="width: 86.55702396430401%; background-color:  #ffcc00; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#ffcc00" fill="#ffcc00"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #ff8c15;">FW</span></div></td>	      
+                            <!--td class="perc"><div>1,55</div></td-->
+                            <td class="perc"><div>1,55</div></td>
+                    <td class="votes"><div>769.279</div></td>
+							<td class="barholder">
+								<div style="width: 30.988381114400482%; background-color:  #ff8c15; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#ff8c15" fill="#ff8c15"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #06abaa;">Tierschutzpartei</span></div></td>	      
+                            <!--td class="perc"><div>0,97</div></td-->
+                            <td class="perc"><div>0,97</div></td>
+                    <td class="votes"><div>482.201</div></td>
+							<td class="barholder">
+								<div style="width: 19.424198972992926%; background-color:  #06abaa; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#06abaa" fill="#06abaa"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #502379;">VOLT</span></div></td>	      
+                            <!--td class="perc"><div>0,72</div></td-->
+                            <td class="perc"><div>0,72</div></td>
+                    <td class="votes"><div>355.262</div></td>
+							<td class="barholder">
+								<div style="width: 14.310795240041836%; background-color:  #502379; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#502379" fill="#502379"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #921022;">Die Partei</span></div></td>	      
+                            <!--td class="perc"><div>0,49</div></td-->
+                            <td class="perc"><div>0,49</div></td>
+                    <td class="votes"><div>242.741</div></td>
+							<td class="barholder">
+								<div style="width: 9.778182714061721%; background-color:  #921022; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#921022" fill="#921022"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">Die Basis</span></div></td>	      
+                            <!--td class="perc"><div>0,17</div></td-->
+                            <td class="perc"><div>0,17</div></td>
+                    <td class="votes"><div>85.373</div></td>
+							<td class="barholder">
+								<div style="width: 3.439026752166265%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #00c2da;">BÜNDNIS DEUTSCHLAND</span></div></td>	      
+                            <!--td class="perc"><div>0,15</div></td-->
+                            <td class="perc"><div>0,15</div></td>
+                    <td class="votes"><div>76.372</div></td>
+							<td class="barholder">
+								<div style="width: 3.0764451420992818%; background-color:  #00c2da; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#00c2da" fill="#00c2da"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #003c8f;">SSW</span></div></td>	      
+                            <!--td class="perc"><div>0,15</div></td-->
+                            <td class="perc"><div>0,15</div></td>
+                    <td class="votes"><div>76.138</div></td>
+							<td class="barholder">
+								<div style="width: 3.0670190675791535%; background-color:  #003c8f; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#003c8f" fill="#003c8f"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">ÖDP</span></div></td>	      
+                            <!--td class="perc"><div>0,10</div></td-->
+                            <td class="perc"><div>0,10</div></td>
+                    <td class="votes"><div>49.764</div></td>
+							<td class="barholder">
+								<div style="width: 2.0046118479472668%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">TEAM TODENHÖFER</span></div></td>	      
+                            <!--td class="perc"><div>0,05</div></td-->
+                            <td class="perc"><div>0,05</div></td>
+                    <td class="votes"><div>24.553</div></td>
+							<td class="barholder">
+								<div style="width: 0.9890530243278122%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">PdF</span></div></td>	      
+                            <!--td class="perc"><div>0,04</div></td-->
+                            <td class="perc"><div>0,04</div></td>
+                    <td class="votes"><div>21.388</div></td>
+							<td class="barholder">
+								<div style="width: 0.8615593240876164%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">MLPD</span></div></td>	      
+                            <!--td class="perc"><div>0,04</div></td-->
+                            <td class="perc"><div>0,04</div></td>
+                    <td class="votes"><div>19.551</div></td>
+							<td class="barholder">
+								<div style="width: 0.7875606108676356%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">Humanisten</span></div></td>	      
+                            <!--td class="perc"><div>0,03</div></td-->
+                            <td class="perc"><div>0,03</div></td>
+                    <td class="votes"><div>14.294</div></td>
+							<td class="barholder">
+								<div style="width: 0.5757961931227038%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #ff8c15;">Piraten</span></div></td>	      
+                            <!--td class="perc"><div>0,03</div></td-->
+                            <td class="perc"><div>0,03</div></td>
+                    <td class="votes"><div>13.800</div></td>
+							<td class="barholder">
+								<div style="width: 0.5558967024690998%; background-color:  #ff8c15; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#ff8c15" fill="#ff8c15"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">BP</span></div></td>	      
+                            <!--td class="perc"><div>0,02</div></td-->
+                            <td class="perc"><div>0,02</div></td>
+                    <td class="votes"><div>12.278</div></td>
+							<td class="barholder">
+								<div style="width: 0.4945869357185223%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">Bündnis C</span></div></td>	      
+                            <!--td class="perc"><div>0,02</div></td-->
+                            <td class="perc"><div>0,02</div></td>
+                    <td class="votes"><div>11.768</div></td>
+							<td class="barholder">
+								<div style="width: 0.4740429271490121%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">MERA25</span></div></td>	      
+                            <!--td class="perc"><div>0,01</div></td-->
+                            <td class="perc"><div>0,01</div></td>
+                    <td class="votes"><div>6.994</div></td>
+							<td class="barholder">
+								<div style="width: 0.28173489399049884%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">WerteUnion</span></div></td>	      
+                            <!--td class="perc"><div>0,01</div></td-->
+                            <td class="perc"><div>0,01</div></td>
+                    <td class="votes"><div>6.736</div></td>
+							<td class="barholder">
+								<div style="width: 0.27134204259651135%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">MENSCHLICHE WELT</span></div></td>	      
+                            <!--td class="perc"><div>0,00</div></td-->
+                            <td class="perc"><div>0,00</div></td>
+                    <td class="votes"><div>694</div></td>
+							<td class="barholder">
+								<div style="width: 0.02795596460243154%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">BüSo</span></div></td>	      
+                            <!--td class="perc"><div>0,00</div></td-->
+                            <td class="perc"><div>0,00</div></td>
+                    <td class="votes"><div>676</div></td>
+							<td class="barholder">
+								<div style="width: 0.027230881947037062%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">SGP</span></div></td>	      
+                            <!--td class="perc"><div>0,00</div></td-->
+                            <td class="perc"><div>0,00</div></td>
+                    <td class="votes"><div>425</div></td>
+							<td class="barholder">
+								<div style="width: 0.017120007141258508%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                        <tr class="row">  
+                            <td class="labelshort"><div><span style="border-color:  #707173;">Verjüngungsforschung</span></div></td>	      
+                            <!--td class="perc"><div>0,00</div></td-->
+                            <td class="perc"><div>0,00</div></td>
+                    <td class="votes"><div>303</div></td>
+							<td class="barholder">
+								<div style="width: 0.012205558032473713%; background-color:  #707173; padding:0.21em 0 0.21em 0;">
+									<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+										<g>
+											<rect height="100%" width="100%" y="0" x="0" stroke-width="0" stroke="#707173" fill="#707173"></rect>
+										</g>
+									</svg>
+								</div>
+							</td>
+							<td></td>
+                        </tr>
+                        
+                            </table>
+                        		
+                    </div>	
+                    <div class="chartfooter">
+                        Bundeswahlleiterin
+                        <!-- div class="tsLogo" style="width:40px;height:40px;float:right;"><img  style="width:100%; margin-top:-26px;" src="/wahl/assets-archiv/images/ts-Icon.png" alt="Tagesschau Logo"></div-->
+                    </div>
+                </div>
+            </div>
+            </div>
+        </div>						
+                    
+    </div>    
+    
+        <script>
+            window.onload = function(e) {sendSize()};
+            window.addEventListener('resize', function(event){
+                sendSize()
+            });
+            
+            var latestHeight = 0;
+            function sendSize(id) {
+                if (!id) {
+                    var idmatch = document.location.search.match(/id=([^&#]+)/);
+                    if (idmatch) id = idmatch[1];
+                }
+                var h = document.scrollingElement.offsetHeight || document.height || document.body.offsetHeight;
+                var w = document.width || document.body.offsetWidth;		
+                //if (h - latestHeight == 0) return;
+                latestHeight = h;
+                var data = {vendor:'4=1', action: 'contentSize', id: id, height: h, width: w, contentUrl: document.location.href};
+                window.parent.postMessage(data, '*');
+                //console.log(data)
+            }
+            
+            /* optional: if the outer page calls for the height */
+            
+            window.addEventListener('message', function(e) {
+                //console.log(e.data);
+                var message = e.data;
+                if (message && message.action == 'get-size') {
+                    sendSize(message.id);
+                }
+            });
+            
+            
+        </script>
+    
+<!-- end content -->
+
+		<!-- end 4e1 Content -->
+	</div>		
+
+</body>
+</html>
