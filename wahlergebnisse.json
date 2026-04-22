@@ -21471,5 +21471,1526 @@
         "votes": 475
       }
     }
+  },
+  {
+    "title": "Landtagswahl Saarland 2022",
+    "url": "https://www.tagesschau.de/wahl/archiv/2022-03-27-LT-DE-SL/index.shtml",
+    "date": "2022-03-27T00:00:00",
+    "territory": "Saarland",
+    "kind": "Landtagswahl",
+    "government": [
+      "SPD"
+    ],
+    "turnout": 61.4,
+    "results": {
+      "SPD": {
+        "pct": 43.5,
+        "votes": 196801,
+        "color": "#d71f1d"
+      },
+      "CDU": {
+        "pct": 28.55,
+        "votes": 129154,
+        "color": "#121212"
+      },
+      "AfD": {
+        "pct": 5.68,
+        "votes": 25719,
+        "color": "#0020c8"
+      },
+      "GrÃ¼ne": {
+        "pct": 4.995,
+        "votes": 22598,
+        "color": "#78bc1b"
+      },
+      "FDP": {
+        "pct": 4.778,
+        "votes": 21618,
+        "color": "#ffcc00"
+      },
+      "Linke": {
+        "pct": 2.584,
+        "votes": 11689,
+        "color": "#be3075"
+      },
+      "Die Tierschutzpartei": {
+        "pct": 2.297,
+        "votes": 10391
+      },
+      "FW": {
+        "pct": 1.688,
+        "votes": 7636,
+        "color": "#ff8c15"
+      },
+      "dieBasis": {
+        "pct": 1.425,
+        "votes": 6448,
+        "color": "#4076c2"
+      },
+      "bunt.saar": {
+        "pct": 1.374,
+        "votes": 6216,
+        "color": "#dd00dd"
+      },
+      "Die PARTEI": {
+        "pct": 1.042,
+        "votes": 4716
+      },
+      "Familie": {
+        "pct": 0.848,
+        "votes": 3836
+      },
+      "VOLT": {
+        "pct": 0.585,
+        "votes": 2645
+      },
+      "Piraten": {
+        "pct": 0.291,
+        "votes": 1318,
+        "color": "#ff8c15"
+      },
+      "ÃDP": {
+        "pct": 0.135,
+        "votes": 613
+      },
+      "SGV": {
+        "pct": 0.091,
+        "votes": 412,
+        "color": "#4076c2"
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.081,
+        "votes": 368
+      },
+      "Die Humanisten": {
+        "pct": 0.052,
+        "votes": 233
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Schleswig-Holstein 2022",
+    "url": "https://www.tagesschau.de/wahl/archiv/2022-05-08-LT-DE-SH/index.shtml",
+    "date": "2022-05-08T00:00:00",
+    "territory": "Schleswig-Holstein",
+    "kind": "Landtagswahl",
+    "government": [
+      "CDU",
+      "GRÃNE"
+    ],
+    "turnout": 60.3,
+    "results": {
+      "CDU": {
+        "pct": 43.39,
+        "votes": 601964,
+        "color": "#121212"
+      },
+      "GrÃ¼ne": {
+        "pct": 18.32,
+        "votes": 254158,
+        "color": "#78bc1b"
+      },
+      "SPD": {
+        "pct": 15.96,
+        "votes": 221496,
+        "color": "#d71f1d"
+      },
+      "FDP": {
+        "pct": 6.39,
+        "votes": 88593,
+        "color": "#ffcc00"
+      },
+      "SSW": {
+        "pct": 5.72,
+        "votes": 79301,
+        "color": "#2670d5"
+      },
+      "AfD": {
+        "pct": 4.407,
+        "votes": 61141,
+        "color": "#0020c8"
+      },
+      "Linke": {
+        "pct": 1.662,
+        "votes": 23054,
+        "color": "#be3075"
+      },
+      "BASIS": {
+        "pct": 1.11,
+        "votes": 15400,
+        "color": "#4076c2"
+      },
+      "Die Partei": {
+        "pct": 0.742,
+        "votes": 10292
+      },
+      "Die Tierschutzpartei": {
+        "pct": 0.737,
+        "votes": 10227
+      },
+      "FW": {
+        "pct": 0.59,
+        "votes": 8190,
+        "color": "#ff8c15"
+      },
+      "Piraten": {
+        "pct": 0.343,
+        "votes": 4753,
+        "color": "#ff8c15"
+      },
+      "VOLT": {
+        "pct": 0.304,
+        "votes": 4215
+      },
+      "Z": {
+        "pct": 0.122,
+        "votes": 1692
+      },
+      "Humanisten": {
+        "pct": 0.116,
+        "votes": 1603
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.095,
+        "votes": 1319
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Nordrhein-Westfalen 2022",
+    "url": "https://www.tagesschau.de/wahl/archiv/2022-05-15-LT-DE-NW/index.shtml",
+    "date": "2022-05-15T00:00:00",
+    "territory": "Nordrhein-Westfalen",
+    "kind": "Landtagswahl",
+    "government": [
+      "CDU",
+      "GRÃNE"
+    ],
+    "turnout": 55.5,
+    "results": {
+      "CDU": {
+        "pct": 35.71,
+        "votes": 2552337,
+        "color": "#121212"
+      },
+      "SPD": {
+        "pct": 26.66,
+        "votes": 1905033,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 18.18,
+        "votes": 1299580,
+        "color": "#78bc1b"
+      },
+      "FDP": {
+        "pct": 5.86,
+        "votes": 418448,
+        "color": "#ffcc00"
+      },
+      "AfD": {
+        "pct": 5.44,
+        "votes": 388893,
+        "color": "#0020c8"
+      },
+      "Linke": {
+        "pct": 2.051,
+        "votes": 146611,
+        "color": "#be3075"
+      },
+      "Die Partei": {
+        "pct": 1.061,
+        "votes": 75857
+      },
+      "Tierschutzpartei": {
+        "pct": 1.06,
+        "votes": 75763
+      },
+      "DIEBASIS": {
+        "pct": 0.839,
+        "votes": 59937,
+        "color": "#4076c2"
+      },
+      "FW": {
+        "pct": 0.699,
+        "votes": 49957,
+        "color": "#ff8c15"
+      },
+      "VOLT": {
+        "pct": 0.631,
+        "votes": 45072
+      },
+      "Piraten": {
+        "pct": 0.271,
+        "votes": 19385,
+        "color": "#ff8c15"
+      },
+      "TEAMTODENHÃFER": {
+        "pct": 0.207,
+        "votes": 14817,
+        "color": "#4076c2"
+      },
+      "Familie": {
+        "pct": 0.205,
+        "votes": 14668
+      },
+      "ÃDP": {
+        "pct": 0.135,
+        "votes": 9655
+      },
+      "LIEBE": {
+        "pct": 0.115,
+        "votes": 8233,
+        "color": "#4076c2"
+      },
+      "Humanisten": {
+        "pct": 0.115,
+        "votes": 8208
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.096,
+        "votes": 6841
+      },
+      "LFK": {
+        "pct": 0.089,
+        "votes": 6376,
+        "color": "#4076c2"
+      },
+      "PDF": {
+        "pct": 0.086,
+        "votes": 6163,
+        "color": "#4076c2"
+      },
+      "Volksabstimmung": {
+        "pct": 0.079,
+        "votes": 5613
+      },
+      "DU": {
+        "pct": 0.073,
+        "votes": 5209,
+        "color": "#4076c2"
+      },
+      "BIG": {
+        "pct": 0.059,
+        "votes": 4232
+      },
+      "Zentrum": {
+        "pct": 0.058,
+        "votes": 4163
+      },
+      "DSP": {
+        "pct": 0.054,
+        "votes": 3852
+      },
+      "MLPD": {
+        "pct": 0.047,
+        "votes": 3346
+      },
+      "DKP": {
+        "pct": 0.044,
+        "votes": 3117,
+        "color": "#d883ac"
+      },
+      "Die Violetten": {
+        "pct": 0.042,
+        "votes": 3002
+      },
+      "NEO": {
+        "pct": 0.031,
+        "votes": 2220,
+        "color": "#4076c2"
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Niedersachsen 2022",
+    "url": "https://www.tagesschau.de/wahl/archiv/2022-10-09-LT-DE-NI/index.shtml",
+    "date": "2022-10-09T00:00:00",
+    "territory": "Niedersachsen",
+    "kind": "Landtagswahl",
+    "government": [
+      "SPD",
+      "GRÃNE"
+    ],
+    "turnout": 60.3,
+    "results": {
+      "SPD": {
+        "pct": 33.43,
+        "votes": 1211210,
+        "color": "#d71f1d"
+      },
+      "CDU": {
+        "pct": 28.07,
+        "votes": 1017106,
+        "color": "#121212"
+      },
+      "GrÃ¼ne": {
+        "pct": 14.54,
+        "votes": 526787,
+        "color": "#78bc1b"
+      },
+      "AfD": {
+        "pct": 10.95,
+        "votes": 396714,
+        "color": "#0020c8"
+      },
+      "FDP": {
+        "pct": 4.7,
+        "votes": 170271,
+        "color": "#ffcc00"
+      },
+      "Linke": {
+        "pct": 2.72,
+        "votes": 98613,
+        "color": "#be3075"
+      },
+      "Die Tierschutzpartei": {
+        "pct": 1.47,
+        "votes": 53109
+      },
+      "dieBasis": {
+        "pct": 1.01,
+        "votes": 36613,
+        "color": "#4076c2"
+      },
+      "Die PARTEI": {
+        "pct": 0.94,
+        "votes": 34139
+      },
+      "FW": {
+        "pct": 0.84,
+        "votes": 30450,
+        "color": "#ff8c15"
+      },
+      "VOLT": {
+        "pct": 0.46,
+        "votes": 16659
+      },
+      "Piraten": {
+        "pct": 0.39,
+        "votes": 14245,
+        "color": "#ff8c15"
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.29,
+        "votes": 10667
+      },
+      "Die Humanisten": {
+        "pct": 0.18,
+        "votes": 6533
+      }
+    }
+  },
+  {
+    "title": "Abgeordnetenhauswahl Berlin 2023",
+    "url": "https://www.tagesschau.de/wahl/archiv/2023-02-12-LT-DE-BE/index.shtml",
+    "date": "2023-02-12T00:00:00",
+    "territory": "Berlin",
+    "kind": "Abgeordnetenhauswahl",
+    "government": [
+      "CDU",
+      "SPD"
+    ],
+    "turnout": 63.0,
+    "results": {
+      "CDU": {
+        "pct": 28.23,
+        "votes": 428228,
+        "color": "#121212"
+      },
+      "SPD": {
+        "pct": 18.39,
+        "votes": 279017,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 18.39,
+        "votes": 278964,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 12.2,
+        "votes": 185119,
+        "color": "#be3075"
+      },
+      "AfD": {
+        "pct": 9.09,
+        "votes": 137871,
+        "color": "#0020c8"
+      },
+      "FDP": {
+        "pct": 4.64,
+        "votes": 70416,
+        "color": "#ffcc00"
+      },
+      "Tierschutzp.": {
+        "pct": 2.39,
+        "votes": 36273,
+        "color": "#abc8f0"
+      },
+      "Die PARTEI": {
+        "pct": 1.42,
+        "votes": 21570,
+        "color": "#921022"
+      },
+      "VOLT": {
+        "pct": 0.93,
+        "votes": 14047
+      },
+      "dieBASIS": {
+        "pct": 0.55,
+        "votes": 8342,
+        "color": "#4076c2"
+      },
+      "Die Grauen": {
+        "pct": 0.43,
+        "votes": 6447,
+        "color": "#4076c2"
+      },
+      "TEAM TODENHÃFER": {
+        "pct": 0.42,
+        "votes": 6326,
+        "color": "#4076c2"
+      },
+      "Graue Panther": {
+        "pct": 0.41,
+        "votes": 6275
+      },
+      "Piraten": {
+        "pct": 0.34,
+        "votes": 5145,
+        "color": "#ff8c15"
+      },
+      "Klimaliste Berlin": {
+        "pct": 0.27,
+        "votes": 4103,
+        "color": "#4076c2"
+      },
+      "FW": {
+        "pct": 0.26,
+        "votes": 3923,
+        "color": "#ff8c15"
+      },
+      "Mieterpartei": {
+        "pct": 0.26,
+        "votes": 3902
+      },
+      "Gesundheitsforschung": {
+        "pct": 0.25,
+        "votes": 3768
+      },
+      "du.": {
+        "pct": 0.2,
+        "votes": 2993,
+        "color": "#4076c2"
+      },
+      "Humanisten": {
+        "pct": 0.18,
+        "votes": 2659
+      },
+      "DKP": {
+        "pct": 0.17,
+        "votes": 2517,
+        "color": "#d883ac"
+      },
+      "Bildet Berlin! e.V.": {
+        "pct": 0.12,
+        "votes": 1790,
+        "color": "#4076c2"
+      },
+      "ÃDP": {
+        "pct": 0.11,
+        "votes": 1674
+      },
+      "NPD": {
+        "pct": 0.1,
+        "votes": 1591,
+        "color": "#4e4526"
+      },
+      "bergpartei": {
+        "pct": 0.07,
+        "votes": 1137,
+        "color": "#4076c2"
+      },
+      "SGP": {
+        "pct": 0.05,
+        "votes": 801,
+        "color": "#4076c2"
+      },
+      "BÃNDNIS21": {
+        "pct": 0.05,
+        "votes": 786,
+        "color": "#4076c2"
+      },
+      "LKR": {
+        "pct": 0.03,
+        "votes": 475,
+        "color": "#4076c2"
+      },
+      "BÃ¼So": {
+        "pct": 0.03,
+        "votes": 409
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.01,
+        "votes": 163
+      },
+      "Die neuen Demokraten": {
+        "pct": 0.0,
+        "votes": 69,
+        "color": "#4076c2"
+      },
+      "REP": {
+        "pct": 0.0,
+        "votes": 44,
+        "color": "#79663d"
+      },
+      "DEUTSCHE KONSERVATIVE": {
+        "pct": 0.0,
+        "votes": 16,
+        "color": "#4076c2"
+      }
+    }
+  },
+  {
+    "title": "Bürgerschaftswahl Bremen 2023",
+    "url": "https://www.tagesschau.de/wahl/archiv/2023-05-14-LT-DE-HB/index.shtml",
+    "date": "2023-05-14T00:00:00",
+    "territory": "Bremen",
+    "kind": "Bürgerschaftswahl",
+    "government": null,
+    "turnout": 56.9,
+    "results": {
+      "SPD": {
+        "pct": 29.8,
+        "votes": 376610,
+        "color": "#d71f1d"
+      },
+      "CDU": {
+        "pct": 26.22,
+        "votes": 331380,
+        "color": "#121212"
+      },
+      "GrÃ¼ne": {
+        "pct": 11.89,
+        "votes": 150263,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 10.89,
+        "votes": 137676,
+        "color": "#be3075"
+      },
+      "BIW": {
+        "pct": 9.39,
+        "votes": 118695,
+        "color": "#00c2da"
+      },
+      "FDP": {
+        "pct": 5.08,
+        "votes": 64155,
+        "color": "#ffcc00"
+      },
+      "VOLT": {
+        "pct": 1.97,
+        "votes": 24848
+      },
+      "Tierschutzpartei": {
+        "pct": 1.09,
+        "votes": 13819
+      },
+      "Die Partei": {
+        "pct": 0.95,
+        "votes": 12052,
+        "color": "#921022"
+      },
+      "Die Basis": {
+        "pct": 0.79,
+        "votes": 9988
+      },
+      "MERA25": {
+        "pct": 0.63,
+        "votes": 7912,
+        "color": "#4076c2"
+      },
+      "ÃDP": {
+        "pct": 0.44,
+        "votes": 5498
+      },
+      "GFA": {
+        "pct": 0.42,
+        "votes": 5351,
+        "color": "#4076c2"
+      },
+      "Piraten": {
+        "pct": 0.17,
+        "votes": 2184,
+        "color": "#ff8c15"
+      },
+      "MLPD": {
+        "pct": 0.16,
+        "votes": 1993
+      },
+      "VERJÃNGUNGSFORSCHUNG": {
+        "pct": 0.12,
+        "votes": 1484,
+        "color": "#4076c2"
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Bayern 2023",
+    "url": "https://www.tagesschau.de/wahl/archiv/2023-10-08-LT-DE-BY/index.shtml",
+    "date": "2023-10-08T00:00:00",
+    "territory": "Bayern",
+    "kind": "Landtagswahl",
+    "government": [
+      "CSU",
+      "FW"
+    ],
+    "turnout": 73.3,
+    "results": {
+      "CSU": {
+        "pct": 37.04,
+        "votes": 5059571,
+        "color": "#182d4a"
+      },
+      "FW": {
+        "pct": 15.84,
+        "votes": 2163849,
+        "color": "#ff8c15"
+      },
+      "AfD": {
+        "pct": 14.65,
+        "votes": 2000435,
+        "color": "#0020c8"
+      },
+      "GrÃ¼ne": {
+        "pct": 14.44,
+        "votes": 1972725,
+        "color": "#78bc1b"
+      },
+      "SPD": {
+        "pct": 8.35,
+        "votes": 1140753,
+        "color": "#d71f1d"
+      },
+      "FDP": {
+        "pct": 3.03,
+        "votes": 413887,
+        "color": "#ffcc00"
+      },
+      "ÃDP": {
+        "pct": 1.8,
+        "votes": 245224
+      },
+      "Linke": {
+        "pct": 1.47,
+        "votes": 200878,
+        "color": "#be3075"
+      },
+      "BP": {
+        "pct": 0.95,
+        "votes": 129480
+      },
+      "Die Basis": {
+        "pct": 0.87,
+        "votes": 119489
+      },
+      "Die Tierschutzpartei": {
+        "pct": 0.51,
+        "votes": 69792,
+        "color": "#abc8f0"
+      },
+      "Die Partei": {
+        "pct": 0.47,
+        "votes": 64154,
+        "color": "#921022"
+      },
+      "VOLT": {
+        "pct": 0.31,
+        "votes": 41694
+      },
+      "VPARTEI3": {
+        "pct": 0.17,
+        "votes": 22825,
+        "color": "#4076c2"
+      },
+      "Humanisten": {
+        "pct": 0.1,
+        "votes": 14026
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Hessen 2023",
+    "url": "https://www.tagesschau.de/wahl/archiv/2023-10-08-LT-DE-HE/index.shtml",
+    "date": "2023-10-08T00:00:00",
+    "territory": "Hessen",
+    "kind": "Landtagswahl",
+    "government": [
+      "CDU",
+      "SPD"
+    ],
+    "turnout": 66.0,
+    "results": {
+      "CDU": {
+        "pct": 34.58,
+        "votes": 972876,
+        "color": "#121212"
+      },
+      "AfD": {
+        "pct": 18.44,
+        "votes": 518763,
+        "color": "#0020c8"
+      },
+      "SPD": {
+        "pct": 15.09,
+        "votes": 424587,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 14.79,
+        "votes": 416035,
+        "color": "#78bc1b"
+      },
+      "FDP": {
+        "pct": 5.03,
+        "votes": 141644,
+        "color": "#ffcc00"
+      },
+      "FW": {
+        "pct": 3.49,
+        "votes": 98283,
+        "color": "#ff8c15"
+      },
+      "Linke": {
+        "pct": 3.09,
+        "votes": 86842,
+        "color": "#be3075"
+      },
+      "Die Tierschutzpartei": {
+        "pct": 1.54,
+        "votes": 43341,
+        "color": "#abc8f0"
+      },
+      "VOLT": {
+        "pct": 0.98,
+        "votes": 27612
+      },
+      "Die Partei": {
+        "pct": 0.84,
+        "votes": 23678,
+        "color": "#921022"
+      },
+      "Die Basis": {
+        "pct": 0.49,
+        "votes": 13707
+      },
+      "V-PARTEI3": {
+        "pct": 0.34,
+        "votes": 9472,
+        "color": "#4076c2"
+      },
+      "Piraten": {
+        "pct": 0.31,
+        "votes": 8618,
+        "color": "#ff8c15"
+      },
+      "WÃ¤hlerliste Klimaliste Hessen": {
+        "pct": 0.22,
+        "votes": 6212
+      },
+      "ÃDP": {
+        "pct": 0.21,
+        "votes": 5906
+      },
+      "ABG": {
+        "pct": 0.16,
+        "votes": 4442
+      },
+      "Humanisten": {
+        "pct": 0.15,
+        "votes": 4262
+      },
+      "DKP": {
+        "pct": 0.08,
+        "votes": 2229,
+        "color": "#d883ac"
+      },
+      "APPD": {
+        "pct": 0.07,
+        "votes": 1929
+      },
+      "VerjÃ¼ngung": {
+        "pct": 0.05,
+        "votes": 1506
+      },
+      "Neue Mitte": {
+        "pct": 0.05,
+        "votes": 1369
+      }
+    }
+  },
+  {
+    "title": "Europawahl in Deutschland 2024",
+    "url": "https://www.tagesschau.de/wahl/archiv/2024-06-09-EP-DE/index.shtml",
+    "date": "2024-06-09T00:00:00",
+    "territory": "Europawahl",
+    "kind": "Europawahl",
+    "government": null,
+    "turnout": 64.7,
+    "results": {
+      "CDU": {
+        "pct": 23.7,
+        "votes": 9435636,
+        "color": "#121212"
+      },
+      "AfD": {
+        "pct": 15.89,
+        "votes": 6325890,
+        "color": "#0020c8"
+      },
+      "SPD": {
+        "pct": 13.94,
+        "votes": 5551545,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 11.9,
+        "votes": 4738227,
+        "color": "#78bc1b"
+      },
+      "CSU": {
+        "pct": 6.31,
+        "votes": 2513481,
+        "color": "#182d4a"
+      },
+      "BSW": {
+        "pct": 6.17,
+        "votes": 2456460,
+        "color": "#842265"
+      },
+      "FDP": {
+        "pct": 5.18,
+        "votes": 2061334,
+        "color": "#ffce0a"
+      },
+      "Linke": {
+        "pct": 2.74,
+        "votes": 1091586,
+        "color": "#be3075"
+      },
+      "FW": {
+        "pct": 2.67,
+        "votes": 1062437,
+        "color": "#ff8c15"
+      },
+      "VOLT": {
+        "pct": 2.57,
+        "votes": 1023681,
+        "color": "#502379"
+      },
+      "Die Partei": {
+        "pct": 1.95,
+        "votes": 775636,
+        "color": "#921022"
+      },
+      "Tierschutzp.": {
+        "pct": 1.43,
+        "votes": 570777,
+        "color": "#abc8f0"
+      },
+      "ÃDP": {
+        "pct": 0.65,
+        "votes": 257975,
+        "color": "#ec6502"
+      },
+      "Familie": {
+        "pct": 0.61,
+        "votes": 244030,
+        "color": "#ec7404"
+      },
+      "PdF": {
+        "pct": 0.57,
+        "votes": 228148,
+        "color": "#a9a9a9"
+      },
+      "Piraten": {
+        "pct": 0.47,
+        "votes": 186683,
+        "color": "#ff8c15"
+      },
+      "TIERSCHUTZ hier!": {
+        "pct": 0.44,
+        "votes": 173492
+      },
+      "BÃNDNIS DEUTSCHLAND": {
+        "pct": 0.41,
+        "votes": 163272
+      },
+      "DAVA": {
+        "pct": 0.37,
+        "votes": 148496
+      },
+      "MERA25": {
+        "pct": 0.3,
+        "votes": 118633
+      },
+      "LETZTE GENERATION": {
+        "pct": 0.26,
+        "votes": 104386
+      },
+      "Basis": {
+        "pct": 0.25,
+        "votes": 99478,
+        "color": "#00ced1"
+      },
+      "PdH": {
+        "pct": 0.21,
+        "votes": 82248
+      },
+      "BÃ¼ndnis C": {
+        "pct": 0.19,
+        "votes": 75093
+      },
+      "V-ParteiÂ³": {
+        "pct": 0.14,
+        "votes": 55417
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.14,
+        "votes": 54174
+      },
+      "HEIMAT": {
+        "pct": 0.1,
+        "votes": 40968
+      },
+      "KLIMALISTE": {
+        "pct": 0.08,
+        "votes": 31409
+      },
+      "BIG": {
+        "pct": 0.08,
+        "votes": 31114
+      },
+      "PDV": {
+        "pct": 0.07,
+        "votes": 29046
+      },
+      "ABG": {
+        "pct": 0.07,
+        "votes": 26501
+      },
+      "VerjÃ¼ngung": {
+        "pct": 0.05,
+        "votes": 18808
+      },
+      "DKP": {
+        "pct": 0.04,
+        "votes": 14951,
+        "color": "#d883ac"
+      },
+      "MLPD": {
+        "pct": 0.03,
+        "votes": 13551
+      },
+      "SGP": {
+        "pct": 0.01,
+        "votes": 5926,
+        "color": "#4076c2"
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Sachsen 2024",
+    "url": "https://www.tagesschau.de/wahl/archiv/2024-09-01-LT-DE-SN/index.shtml",
+    "date": "2024-09-01T00:00:00",
+    "territory": "Sachsen",
+    "kind": "Landtagswahl",
+    "government": null,
+    "turnout": 74.4,
+    "results": {
+      "CDU": {
+        "pct": 31.91,
+        "votes": 749216,
+        "color": "#121212"
+      },
+      "AfD": {
+        "pct": 30.63,
+        "votes": 719274,
+        "color": "#0020c8"
+      },
+      "BSW": {
+        "pct": 11.81,
+        "votes": 277173,
+        "color": "#842265"
+      },
+      "SPD": {
+        "pct": 7.33,
+        "votes": 172002,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 5.11,
+        "votes": 119964,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 4.47,
+        "votes": 104888,
+        "color": "#be3075"
+      },
+      "FW": {
+        "pct": 2.26,
+        "votes": 53008,
+        "color": "#ff8c15"
+      },
+      "Freie Sachsen": {
+        "pct": 2.22,
+        "votes": 52195
+      },
+      "TIERSCHUTZ hier!": {
+        "pct": 1.0,
+        "votes": 23576
+      },
+      "FDP": {
+        "pct": 0.89,
+        "votes": 21003,
+        "color": "#ffce0a"
+      },
+      "Die Partei": {
+        "pct": 0.85,
+        "votes": 19870,
+        "color": "#921022"
+      },
+      "Piraten": {
+        "pct": 0.29,
+        "votes": 6842,
+        "color": "#ff8c15"
+      },
+      "BÃNDNIS DEUTSCHLAND": {
+        "pct": 0.29,
+        "votes": 6753
+      },
+      "WerteUnion": {
+        "pct": 0.28,
+        "votes": 6469
+      },
+      "Die Basis": {
+        "pct": 0.19,
+        "votes": 4483
+      },
+      "BÃ¼ndnis C": {
+        "pct": 0.19,
+        "votes": 4368
+      },
+      "V-ParteiÂ³": {
+        "pct": 0.14,
+        "votes": 3286
+      },
+      "ÃDP": {
+        "pct": 0.08,
+        "votes": 1966
+      },
+      "BÃ¼So": {
+        "pct": 0.07,
+        "votes": 1580
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Thüringen 2024",
+    "url": "https://www.tagesschau.de/wahl/archiv/2024-09-01-LT-DE-TH/index.shtml",
+    "date": "2024-09-01T00:00:00",
+    "territory": "Thüringen",
+    "kind": "Landtagswahl",
+    "government": null,
+    "turnout": 73.6,
+    "results": {
+      "AfD": {
+        "pct": 32.84,
+        "votes": 396704,
+        "color": "#0020c8"
+      },
+      "CDU": {
+        "pct": 23.61,
+        "votes": 285141,
+        "color": "#121212"
+      },
+      "BSW": {
+        "pct": 15.77,
+        "votes": 190448,
+        "color": "#842265"
+      },
+      "Linke": {
+        "pct": 13.05,
+        "votes": 157641,
+        "color": "#be3075"
+      },
+      "SPD": {
+        "pct": 6.05,
+        "votes": 73088,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 3.17,
+        "votes": 38289,
+        "color": "#78bc1b"
+      },
+      "FW": {
+        "pct": 1.27,
+        "votes": 15371,
+        "color": "#ff8c15"
+      },
+      "FDP": {
+        "pct": 1.12,
+        "votes": 13582,
+        "color": "#ffce0a"
+      },
+      "TIERSCHUTZ hier!": {
+        "pct": 1.0,
+        "votes": 12113
+      },
+      "WerteUnion": {
+        "pct": 0.56,
+        "votes": 6780
+      },
+      "Familie": {
+        "pct": 0.47,
+        "votes": 5722
+      },
+      "BÃNDNIS DEUTSCHLAND": {
+        "pct": 0.46,
+        "votes": 5508
+      },
+      "Piraten": {
+        "pct": 0.31,
+        "votes": 3718,
+        "color": "#ff8c15"
+      },
+      "ÃDP": {
+        "pct": 0.2,
+        "votes": 2389
+      },
+      "MLPD": {
+        "pct": 0.11,
+        "votes": 1342
+      }
+    }
+  },
+  {
+    "title": "Landtagswahl Brandenburg 2024",
+    "url": "https://www.tagesschau.de/wahl/archiv/2024-09-22-LT-DE-BB/index.shtml",
+    "date": "2024-09-22T00:00:00",
+    "territory": "Brandenburg",
+    "kind": "Landtagswahl",
+    "government": null,
+    "turnout": 72.9,
+    "results": {
+      "SPD": {
+        "pct": 30.89,
+        "votes": 463800,
+        "color": "#d71f1d"
+      },
+      "AfD": {
+        "pct": 29.23,
+        "votes": 438904,
+        "color": "#0020c8"
+      },
+      "BSW": {
+        "pct": 13.48,
+        "votes": 202421,
+        "color": "#842265"
+      },
+      "CDU": {
+        "pct": 12.1,
+        "votes": 181716,
+        "color": "#121212"
+      },
+      "GrÃ¼ne": {
+        "pct": 4.13,
+        "votes": 62057,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 2.98,
+        "votes": 44706,
+        "color": "#be3075"
+      },
+      "BVB/FW": {
+        "pct": 2.57,
+        "votes": 38573,
+        "color": "#ff8c15"
+      },
+      "Tierschutzpartei": {
+        "pct": 2.0,
+        "votes": 30041,
+        "color": "#abc8f0"
+      },
+      "Plus Brandenburg": {
+        "pct": 0.9,
+        "votes": 13584
+      },
+      "FDP": {
+        "pct": 0.83,
+        "votes": 12475,
+        "color": "#ffce0a"
+      },
+      "Deutsch Land Wirtschaft": {
+        "pct": 0.44,
+        "votes": 6633
+      },
+      "WerteUnion": {
+        "pct": 0.26,
+        "votes": 3878
+      },
+      "III. Weg": {
+        "pct": 0.12,
+        "votes": 1810,
+        "color": "#4076c2"
+      },
+      "DKP": {
+        "pct": 0.07,
+        "votes": 1021,
+        "color": "#d883ac"
+      }
+    }
+  },
+  {
+    "title": "Bundestagswahl 2025",
+    "url": "https://www.tagesschau.de/wahl/archiv/2025-02-23-BT-DE/index.shtml",
+    "date": "2025-02-23T00:00:00",
+    "territory": "Deutschland",
+    "kind": "Bundestagswahl",
+    "government": [
+      "UNION",
+      "SPD"
+    ],
+    "turnout": 82.5,
+    "results": {
+      "CDU": {
+        "pct": 22.55,
+        "votes": 11196374,
+        "color": "#121212"
+      },
+      "AfD": {
+        "pct": 20.8,
+        "votes": 10328780,
+        "color": "#009ee0"
+      },
+      "SPD": {
+        "pct": 16.41,
+        "votes": 8149124,
+        "color": "#d71f1d"
+      },
+      "GrÃ¼ne": {
+        "pct": 11.61,
+        "votes": 5762380,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 8.77,
+        "votes": 4356532,
+        "color": "#be3075"
+      },
+      "CSU": {
+        "pct": 5.97,
+        "votes": 2964028,
+        "color": "#182d4a"
+      },
+      "BSW": {
+        "pct": 4.98,
+        "votes": 2472947,
+        "color": "#691840"
+      },
+      "FDP": {
+        "pct": 4.33,
+        "votes": 2148757,
+        "color": "#ffcc00"
+      },
+      "FW": {
+        "pct": 1.55,
+        "votes": 769279,
+        "color": "#ff8c15"
+      },
+      "Tierschutzpartei": {
+        "pct": 0.97,
+        "votes": 482201,
+        "color": "#06abaa"
+      },
+      "VOLT": {
+        "pct": 0.72,
+        "votes": 355262,
+        "color": "#502379"
+      },
+      "Die Partei": {
+        "pct": 0.49,
+        "votes": 242741,
+        "color": "#921022"
+      },
+      "Die Basis": {
+        "pct": 0.17,
+        "votes": 85373
+      },
+      "BÃNDNIS DEUTSCHLAND": {
+        "pct": 0.15,
+        "votes": 76372,
+        "color": "#00c2da"
+      },
+      "SSW": {
+        "pct": 0.15,
+        "votes": 76138,
+        "color": "#003c8f"
+      },
+      "ÃDP": {
+        "pct": 0.1,
+        "votes": 49764
+      },
+      "TEAM TODENHÃFER": {
+        "pct": 0.05,
+        "votes": 24553
+      },
+      "PdF": {
+        "pct": 0.04,
+        "votes": 21388
+      },
+      "MLPD": {
+        "pct": 0.04,
+        "votes": 19551
+      },
+      "Humanisten": {
+        "pct": 0.03,
+        "votes": 14294
+      },
+      "Piraten": {
+        "pct": 0.03,
+        "votes": 13800,
+        "color": "#ff8c15"
+      },
+      "BP": {
+        "pct": 0.02,
+        "votes": 12278
+      },
+      "BÃ¼ndnis C": {
+        "pct": 0.02,
+        "votes": 11768
+      },
+      "MERA25": {
+        "pct": 0.01,
+        "votes": 6994
+      },
+      "WerteUnion": {
+        "pct": 0.01,
+        "votes": 6736
+      },
+      "MENSCHLICHE WELT": {
+        "pct": 0.0,
+        "votes": 694
+      },
+      "BÃ¼So": {
+        "pct": 0.0,
+        "votes": 676
+      },
+      "SGP": {
+        "pct": 0.0,
+        "votes": 425
+      },
+      "VerjÃ¼ngungsforschung": {
+        "pct": 0.0,
+        "votes": 303
+      }
+    }
+  },
+  {
+    "title": "Bürgerschaftswahl Hamburg 2025",
+    "url": "https://www.tagesschau.de/wahl/archiv/2025-03-02-LT-DE-HH/index.shtml",
+    "date": "2025-03-02T00:00:00",
+    "territory": "Hamburg",
+    "kind": "Bürgerschaftswahl",
+    "government": [
+      "SPD",
+      "GrÃ¼ne"
+    ],
+    "turnout": 67.6,
+    "results": {
+      "SPD": {
+        "pct": 33.51,
+        "votes": 1465023,
+        "color": "#d71f1d"
+      },
+      "CDU": {
+        "pct": 19.8,
+        "votes": 865713,
+        "color": "#121212"
+      },
+      "GrÃ¼ne": {
+        "pct": 18.45,
+        "votes": 806660,
+        "color": "#78bc1b"
+      },
+      "Linke": {
+        "pct": 11.17,
+        "votes": 488463,
+        "color": "#be3075"
+      },
+      "AfD": {
+        "pct": 7.54,
+        "votes": 329651,
+        "color": "#009ee0"
+      },
+      "VOLT": {
+        "pct": 3.24,
+        "votes": 141661,
+        "color": "#502379"
+      },
+      "FDP": {
+        "pct": 2.3,
+        "votes": 100657,
+        "color": "#ffcc00"
+      },
+      "BSW": {
+        "pct": 1.76,
+        "votes": 77110,
+        "color": "#691840"
+      },
+      "DAVA": {
+        "pct": 0.58,
+        "votes": 25250
+      },
+      "Tierschutzpartei": {
+        "pct": 0.57,
+        "votes": 24763,
+        "color": "#06abaa"
+      },
+      "Die Partei": {
+        "pct": 0.36,
+        "votes": 15632,
+        "color": "#921022"
+      },
+      "FW": {
+        "pct": 0.28,
+        "votes": 12213,
+        "color": "#ff8c15"
+      },
+      "DieWahl - WFG": {
+        "pct": 0.17,
+        "votes": 7259,
+        "color": "#4076c2"
+      },
+      "ÃDP": {
+        "pct": 0.15,
+        "votes": 6570
+      },
+      "BÃNDNIS DEUTSCHLAND": {
+        "pct": 0.07,
+        "votes": 2941
+      },
+      "NPD": {
+        "pct": 0.04,
+        "votes": 1680,
+        "color": "#4e4526"
+      }
+    }
   }
 ]
